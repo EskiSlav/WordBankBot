@@ -1,0 +1,1142 @@
+ANIMALS
+animal nounA1 
+cat nounA1 
+cow nounA1 
+dog nounA1 
+elephant nounA1 
+horse nounA1 
+lion nounA1 
+mouse nounA1 
+pig nounA1 
+sheep nounA1 
+snake nounA1 
+
+BIRDS
+bird nounA1 
+chicken nounA1 
+egg nounA1 
+
+FISH AND SHELLFISH
+egg nounA1 
+fish nounA1 
+swim verbA1
+
+INSECTS, WORMS, ETC
+egg nounA1 
+
+APPEARANCE
+beautiful adjectiveA1 
+blonde adjectiveA1 
+dark adjectiveA1 
+fat adjectiveA1 
+gray adjectiveA1 
+grey adjectiveA1 
+hair nounA1 
+long adjectiveA1 
+pretty adjectiveA1 
+red adjectiveA1 
+short adjectiveA1 
+tall adjectiveA1 
+
+BODY
+arm nounA1 
+back nounA1 
+body nounA1 
+ear nounA1 
+eye nounA1 
+face nounA1 
+foot nounA1 
+hair nounA1 
+hand nounA1 
+head nounA1 
+leg nounA1 
+mouth nounA1 
+nose verbA1 
+tooth nounA1 
+
+CLOTHES AND FASHION
+bag nounA1 
+boot nounA1 
+clothes nounA1 
+coat nounA1 
+dress nounA1 
+dress verbA1 
+glass nounA1 
+hat nounA1 
+jacket nounA1 
+jeans nounA1 
+leg nounA1 
+pair nounA1 
+shirt nounA1 
+shoe nounA1 
+skirt nounA1 
+specs nounA1 
+style nounA1 
+sweater nounA1 
+trousers nounA1 
+T-shirt nounA1 
+watch nounA1 
+wear nounA1 
+
+COLORS AND SHAPES
+black adjectiveA1 
+black nounA1 
+blonde adjectiveA1 
+blue verbA1 
+brown adjectiveA1 
+brown nounA1 
+color nounA1 
+color verbA1 
+colour nounA1 
+dark adjectiveA1 
+gray adjectiveA1 
+green adjectiveA1 
+green nounA1 
+grey adjectiveA1 
+grey nounA1 
+light adjectiveA1 
+line nounA1 
+orange nounA1 
+orange adjectiveA1 
+pink adjectiveA1 
+pink nounA1 
+purple adjectiveA1 
+purple nounA1 
+red verbA1 
+white adjectiveA1 
+white nounA1 
+yellow adjectiveA1 
+yellow nounA1 
+
+LANGUAGE
+adjective nounA1 
+adverb nounA1 
+alphabet nounA1 
+countable adjectiveA1 
+count noun nounA1 
+English nounA1 
+form nounA1 
+form verbA1 
+French nounA1 
+future nounA1 
+German nounA1 
+infinitive nounA1 
+Italian nounA1 
+language nounA1 
+negative adjectiveA1 
+noun nounA1 
+paragraph nounA1 
+past adjectiveA1 
+past nounA1 
+phrasal verb nounA1 
+phrase nounA1 
+plural nounA1 
+plural adjectiveA1 
+positive adjectiveA1 
+practise verbA1 
+preposition nounA1 
+present nounA1 
+pronoun nounA1 
+pronunciation nounA1 
+sentence nounA1 
+singular nounA1 
+singular adjectiveA1 
+Spanish nounA1 
+spell verbA1 
+spelling nounA1 
+the present tense nounA1 
+subject nounA1 
+tense nounA1 
+uncountable adjectiveA1 
+uncount noun nounA1 
+verb nounA1 
+word nounA1
+
+PHONES, EMAIL AND THE INTERNET
+address nounA1 
+at prepositionA1 
+blog nounA1 
+call verbA1 
+call nounA1 
+car phone nounA1 
+cell phone nounA1 
+email nounA1 
+favourite nounA1 
+internet nounA1 
+message nounA1 
+number nounA1 
+online adjectiveA1 
+page nounA1 
+phone nounA1 
+phone verbA1 
+phone call nounA1 
+phone number nounA1 
+send nounA1 
+telephone nounA1 
+telephone verbA1 
+telephone call nounA1 
+telephone number nounA1 
+text nounA1 
+text message nounA1 
+visit verbA1 
+visit nounA1 
+website nounA1
+
+ART
+art nounA1 
+artist nounA1 
+design nounA1 
+draw verbA1 
+paint verbA1 
+painting nounA1
+
+FILM AND THEATRE
+actor nounA1 
+actress nounA1 
+camera nounA1 
+cinema nounA1 
+dialogue nounA1 
+DVD nounA1 
+film nounA1 
+film star nounA1 
+movie nounA1 
+movie star nounA1 
+movie theater nounA1 
+play nounA1 
+sound nounA1 
+star nounA1 
+theatre nounA1 
+
+LITERATURE AND WRITING
+beginning nounA1 
+book nounA1 
+description nounA1 
+dialogue nounA1 
+end nounA1 
+letter nounA1 
+line nounA1 
+magazine nounA1 
+page nounA1 
+report nounA1 
+story nounA1 
+text nounA1 
+title nounA1 
+write verbA1 
+writer nounA1 
+writing nounA1 
+
+MUSIC
+band nounA1 
+CD nounA1 
+concert nounA1 
+festival nounA1 
+group nounA1 
+guitar nounA1 
+listen verbA1 
+music nounA1 
+piano nounA1 
+piece nounA1 
+play verbA1 
+player nounA1 
+practice nounA1 
+practise verbA1 
+radio nounA1 
+sing verbA1 
+singer nounA1 
+song nounA1 
+write verbA1 
+
+TV, RADIO AND NEWS
+article nounA1 
+camera nounA1 
+film nounA1 
+interview nounA1 
+interview verbA1 
+listen verbA1 
+magazine nounA1 
+news nounA1 
+newspaper nounA1 
+picture nounA1 
+play nounA1 
+programme nounA1 
+quiz nounA1 
+radio nounA1 
+reader nounA1 
+report nounA1 
+show nounA1 
+star nounA1 
+television nounA1 
+TV nounA1 
+video nounA1 
+watch verbA1 
+weather nounA1
+
+COOKING AND EATING
+bill nounA1 
+bottle nounA1 
+breakfast nounA1 
+cafe nounA1 
+Christmas nounA1 
+cook verbA1 
+cooking nounA1 
+delicious adjectiveA1 
+diet nounA1 
+dinner nounA1 
+dish nounA1 
+eat verbA1 
+eating nounA1 
+food nounA1 
+glass nounA1 
+healthy adjectiveA1 
+kitchen nounA1 
+lunch nounA1 
+main adjectiveA1 
+meal nounA1 
+menu nounA1 
+order verbA1 
+prepare verbA1 
+restaurant nounA1 
+tea nounA1 
+waiter nounA1 
+
+DRINKS
+beer nounA1 
+Coca-Cola™ nounA1 
+coffee nounA1 
+drink nounA1 
+drink verbA1 
+ice nounA1 
+juice nounA1 
+milk nounA1 
+orange nounA1 
+tea nounA1 
+thirsty adjectiveA1 
+water nounA1 
+wine verbA1
+
+FOOD
+apple nounA1 
+banana nounA1 
+bread nounA1 
+butter nounA1 
+cake nounA1 
+carrot nounA1 
+cheese nounA1 
+chicken nounA1 
+chocolate nounA1 
+cream nounA1 
+egg nounA1 
+fish nounA1 
+fruit nounA1 
+green vegetable nounA1 
+ham nounA1 
+ice cream nounA1 
+meat nounA1 
+onion nounA1 
+pepper nounA1 
+pizza nounA1 
+potato nounA1 
+rice nounA1 
+salad nounA1 
+salt nounA1 
+sandwich nounA1 
+soup nounA1 
+sugar nounA1 
+tomato nounA1 
+vegetable nounA1 
+white bread nounA1
+
+FUNCTIONS
+DISCUSSION AND AGREEMENT
+discuss verbA1 
+OK exclamationA1
+
+DOUBT, GUESSING AND CERTAINTY
+believe verbA1 
+guess verbA1 
+guess nounA1 
+know verbA1 
+maybead verbA1 
+possible adjectiveA1 
+probablyad verbA1 
+true adjectiveA1 
+
+OPINION AND ARGUMENT
+advice nounA1 
+agree verbA1 
+believe verbA1 
+but conjunctionA1 
+cool adjectiveA1 
+difference nounA1 
+different adjectiveA1 
+excuse me idiomA1
+guess verbA1 
+guess nounA1 
+I’m sorry idiomA1
+like prepositionA1 
+maybead verbA1 
+mistake nounA1 
+no nounA1 
+of prepositionA1 
+OK exclamationA1 
+opinion nounA1 
+point nounA1 
+reallyad verbA1 
+right adjectiveA1 
+statement nounA1 
+think verbA1 
+well exclamationA1 
+yeah exclamationA1 
+yes exclamationA1
+
+PERMISSION AND OBLIGATION
+have tomodal verbA1 
+mustmodal verbA1 
+no determinerA1 
+OK exclamationA1 
+rule nounA1 
+
+PREFERENCES AND DECISIONS
+choose verbA1 
+decide verbA1 
+hate verbA1 
+like verbA1 
+love verbA1 
+prefer verbA1 
+wouldmodal verbA1 
+SUGGESTIONS AND ADVICE
+advice nounA1 
+how about…? idiomA1
+how/what about…? idiomA1
+idea nounA1 
+let verbA1 
+maybead verbA1 
+what about…? idiomA1
+
+HEALTH
+HEALTH AND FITNESS
+exercise nounA1 
+exercise verbA1 
+fine adjectiveA1 
+good adjectiveA1 
+gym nounA1 
+health nounA1 
+healthy adjectiveA1 
+run verbA1 
+strong adjectiveA1 
+walk verbA1 
+well adjectiveA1 
+
+ILLNESS
+cold nounA1 
+cut verbA1 
+get verbA1 
+give verbA1 
+have verbA1 
+improve verbA1 
+sick adjectiveA1 
+terrible adjectiveA1
+
+MEDICINE
+doctor nounA1 
+hospital nounA1 
+nurse nounA1
+
+BUILDINGS
+build verbA1 
+building nounA1 
+center nounA1 
+centre nounA1 
+cinema nounA1 
+design nounA1 
+design verbA1 
+downstairsad verbA1 
+downstairs nounA1 
+flat nounA1 
+floor nounA1 
+glass nounA1 
+hospital nounA1 
+hotel nounA1 
+house nounA1 
+library nounA1 
+modern adjectiveA1 
+movie theater nounA1 
+museum nounA1 
+post office nounA1 
+school nounA1 
+station nounA1 
+street nounA1 
+swimming pool nounA1 
+theatre nounA1 
+upstairsad verbA1 
+upstairs nounA1 
+wall nounA1 
+window nounA1 
+
+GARDENS
+garden nounA1 
+garden verbA1 
+grow verbA1 
+swimming pool nounA1
+
+HOUSE AND HOMES
+apartment nounA1 
+bath nounA1 
+bathroom nounA1 
+bed nounA1 
+bedroom nounA1 
+buy verbA1 
+chair nounA1 
+clean verbA1 
+desk nounA1 
+dining room nounA1 
+door nounA1 
+downstairsad verbA1 
+downstairs nounA1 
+flat nounA1 
+floor nounA1 
+front nounA1 
+home nounA1 
+house nounA1 
+kitchen nounA1 
+library nounA1 
+light nounA1 
+living room nounA1 
+office nounA1 
+paint nounA1 
+paint verbA1 
+picture nounA1 
+room nounA1 
+sell nounA1 
+shower nounA1 
+sofa nounA1 
+table nounA1 
+telephone nounA1 
+television nounA1 
+toilet nounA1 
+upstairsad verbA1 
+upstairs nounA1 
+wall nounA1 
+wash verbA1 
+window nounA1
+
+GAMES AND TOYS
+ball nounA1 
+computer game nounA1 
+fun nounA1 
+game nounA1 
+lose verbA1 
+play verbA1 
+player nounA1 
+quiz nounA1 
+rule nounA1 
+team nounA1 
+turn nounA1 
+video game nounA1 
+win verbA1 
+
+HOBBIES
+activity nounA1 
+art nounA1 
+cooking nounA1 
+dance nounA1 
+dance verbA1 
+dancer nounA1 
+dancing nounA1 
+hobby nounA1 
+interest nounA1 
+music nounA1 
+painting nounA1 
+reading nounA1 
+relax verbA1 
+shopping nounA1 
+writing nounA1
+
+SHOPPING
+bag nounA1 
+banknote nounA1 
+bill nounA1 
+book nounA1 
+buy verbA1 
+center nounA1 
+centre nounA1 
+cheap adjectiveA1 
+close verbA1 
+cost verbA1 
+customer nounA1 
+expensive adjectiveA1 
+game nounA1 
+internet nounA1 
+list nounA1 
+market nounA1 
+music nounA1 
+online adjectiveA1 
+pay verbA1 
+price nounA1 
+product nounA1 
+sell nounA1 
+shoe nounA1 
+shop nounA1 
+shopping nounA1 
+shop window nounA1 
+spend verbA1 
+supermarket nounA1 
+window nounA1
+
+CHANGE, CAUSE AND EFFECT
+because conjunctionA1 
+because of prepositionA1 
+change verbA1 
+change nounA1 
+grow verbA1 
+happen verbA1 
+improve verbA1 
+reason nounA1 
+result nounA1 
+
+DANGER
+afraid adjectiveA1 
+dangerous adjectiveA1 
+help nounA1
+
+DIFFICULTY AND FAILURE
+difficult adjectiveA1 
+hard adjectiveA1 
+hardad verbA1 
+lose verbA1 
+mistake nounA1 
+problem nounA1
+
+SUCCESS
+do verbA1 
+success nounA1 
+win verbA1
+
+EDUCATION
+answer nounA1 
+art nounA1 
+book nounA1 
+class nounA1 
+classmate nounA1 
+classroom nounA1 
+college nounA1 
+course adjectiveA1 
+desk nounA1 
+dictionary nounA1 
+English nounA1 
+exam nounA1 
+exercise nounA1 
+geography nounA1 
+gym nounA1 
+high school nounA1 
+history nounA1 
+homework nounA1 
+learn verbA1 
+learner nounA1 
+lesson nounA1 
+library nounA1 
+music nounA1 
+practise verbA1 
+project nounA1 
+result nounA1 
+school nounA1 
+science nounA1 
+student nounA1 
+study nounA1 
+study verbA1 
+subject nounA1 
+teach verbA1 
+teacher nounA1 
+test nounA1 
+test verbA1 
+text nounA1 
+university nounA1 
+year nounA1 
+
+FAMILY AND RELATIONSHIPS
+aunt nounA1 
+boyfriend nounA1 
+brother nounA1 
+cousin nounA1 
+dad nounA1 
+daughter nounA1 
+family nounA1 
+father nounA1 
+first cousin nounA1 
+friend nounA1 
+girlfriend nounA1 
+grandad nounA1 
+grandchild nounA1 
+granddaughter nounA1 
+grandfather nounA1 
+grandma nounA1 
+grandmother nounA1 
+grandpa nounA1 
+grandparent nounA1 
+grandson nounA1 
+husband nounA1 
+leave verbA1 
+love nounA1 
+mom nounA1 
+mother nounA1 
+mum nounA1 
+name nounA1 
+neighbour nounA1 
+sister nounA1 
+son nounA1 
+togetherad verbA1 
+uncle nounA1 
+wife nounA1 
+
+FEELINGS
+afraid adjectiveA1 
+angry adjectiveA1 
+bored nounA1 
+feellinking verbA1 
+feeling nounA1 
+fun nounA1 
+happy adjectiveA1 
+hate verbA1 
+hope verbA1 
+hungry adjectiveA1 
+interest nounA1 
+laugh verbA1 
+laugh nounA1 
+love nounA1 
+love verbA1 
+OK adjectiveA1 
+sad adjectiveA1 
+sorry adjectiveA1 
+terrible adjectiveA1 
+thirsty adjectiveA1 
+tired adjectiveA1
+
+LIFE STAGES
+adult nounA1 
+baby nounA1 
+born verbA1 
+boy nounA1 
+child nounA1 
+die verbA1 
+family nounA1 
+father nounA1 
+girl nounA1 
+gray adjectiveA1 
+grey adjectiveA1 
+man nounA1 
+married adjectiveA1 
+mother nounA1 
+old adjectiveA1 
+parent nounA1 
+teenager nounA1 
+woman nounA1 
+young adjectiveA1
+PERSONAL QUALITIES
+bad adjectiveA1 
+difficult adjectiveA1 
+friendly adjectiveA1 
+good adjectiveA1 
+nice adjectiveA1 
+skill nounA1 
+sure adjectiveA1
+
+POLITICS AND SOCIETY
+CRIME AND PUNISHMENT
+body nounA1 
+
+LAW AND JUSTICE
+passport nounA1 
+police nounA1 
+policeman nounA1 
+policewoman nounA1
+
+PEOPLE IN SOCIETY
+black adjectiveA1 
+group nounA1 
+man nounA1 
+poor adjectiveA1 
+rich adjectiveA1 
+white adjectiveA1 
+woman nounA1
+
+RELIGION AND FESTIVALS
+believe verbA1 
+birthday nounA1 
+Christmas nounA1 
+new year nounA1 
+party nounA1
+
+SOCIAL ISSUES
+give verbA1 
+help verbA1 
+help nounA1 
+job nounA1 
+poor adjectiveA1 
+problem nounA1 
+
+WAR AND CONFLICT
+dangerous adjectiveA1
+
+SCIENCE AND TECHNOLOGY
+BIOLOGY
+
+COMPUTERS
+computer nounA1 
+DVD nounA1 
+language nounA1 
+menu nounA1 
+mouse nounA1 
+open verbA1 
+video nounA1 
+
+ENGINEERING
+break verbA1 
+clock nounA1 
+machine nounA1 
+
+
+MATH AND MEASUREMENT
+add verbA1 
+graph nounA1 
+hundred numberA1 
+kilometre nounA1 
+metre nounA1 
+mile nounA1 
+million numberA1 
+number nounA1 
+thousand numberA1 
+
+PHYSICS AND CHEMISTRY
+light nounA1 
+sun nounA1 
+
+SCIENTIFIC RESEARCH 
+fact nounA1 
+result nounA1 
+science nounA1 
+scientist nounA1 
+
+SPORT: BALL AND RACKET SPORTS
+Association football nounA1 
+ball nounA1 
+club nounA1 
+football nounA1 
+half nounA1 
+line nounA1 
+match nounA1 
+play verbA1 
+player nounA1 
+result nounA1 
+sport nounA1 
+team nounA1 
+tennis nounA1 
+
+SPORTS: OTHER SPORTS
+bicycle nounA1 
+bike nounA1 
+exercise nounA1 
+exercise verbA1 
+gym nounA1 
+horse nounA1 
+ride nounA1 
+sport nounA1 
+
+SPORTS: WATER SPORTS
+boat nounA1 
+swim verbA1 
+swimming nounA1 
+swimming pool nounA1
+water sports nounA1 
+
+FARMING
+farm nounA1 
+farmer nounA1 
+fruit nounA1 
+grow verbA1 
+rice nounA1 
+vegetable nounA1
+
+GEOGRAPHY
+Africa nounA1 
+area nounA1 
+Asia nounA1 
+beach nounA1 
+cold adjectiveA1 
+country nounA1 
+east nounA1 
+east adjectiveA1 
+Europe nounA1 
+geography nounA1 
+hot adjectiveA1 
+island nounA1 
+map nounA1 
+mountain nounA1 
+north nounA1 
+north adjectiveA1 
+North America nounA1 
+river nounA1 
+sea nounA1 
+south nounA1 
+south adjectiveA1 
+South America nounA1 
+town nounA1 
+village nounA1 
+west nounA1 
+west adjectiveA1 
+
+PLANTS AND TREES
+flower nounA1 
+plant nounA1 
+tree nounA1
+
+THE ENVIRONMENT
+air nounA1 
+clean adjectiveA1 
+natural adjectiveA1 
+
+WEATHER
+air nounA1 
+bad adjectiveA1 
+change verbA1 
+change nounA1 
+cold adjectiveA1 
+cool adjectiveA1 
+dark adjectiveA1 
+east adjectiveA1 
+good adjectiveA1 
+hot adjectiveA1 
+ice nounA1 
+north adjectiveA1 
+rain nounA1 
+snow nounA1 
+snow verbA1 
+south adjectiveA1 
+sun nounA1 
+sunny adjectiveA1 
+umbrella nounA1 
+warm adjectiveA1 
+weather nounA1 
+west adjectiveA1 
+
+TIME AND SPACE
+HISTORY
+century nounA1 
+date nounA1 
+history nounA1 
+modern adjectiveA1 
+past adjectiveA1 
+past verbA1 
+period nounA1
+
+SPACE
+outer space nounA1 
+space nounA1 
+star nounA1 
+sun nounA1
+
+TIME
+after prepositionA1 
+afternoon nounA1 
+agoad verbA1 
+April nounA1 
+August nounA1 
+autumn nounA1 
+before prepositionA1 
+century nounA1 
+date nounA1 
+day nounA1 
+December nounA1 
+during prepositionA1 
+early adjectiveA1 
+evening nounA1 
+February nounA1 
+Friday nounA1 
+half past one, two, etc. idiomA1
+hour nounA1 
+in prepositionA1 
+in the morning idiomA1
+January nounA1 
+July nounA1 
+June nounA1 
+justad verbA1 
+last determinerA1 
+late adjectiveA1 
+latead verbA1 
+March nounA1 
+May nounA1 
+midnight nounA1 
+minute nounA1 
+moment nounA1 
+Monday nounA1 
+month nounA1 
+morning nounA1 
+neverad verbA1 
+night nounA1 
+November nounA1 
+October nounA1 
+oftenad verbA1 
+on prepositionA1 
+o’clockad verbA1 
+past verbA1 
+period nounA1 
+present adjectiveA1 
+quarter nounA1 
+Saturday nounA1 
+second nounA1 
+September nounA1 
+sometimesad verbA1 
+spring nounA1 
+summer nounA1 
+Sunday nounA1 
+Thursday nounA1 
+time nounA1 
+todayad verbA1 
+today nounA1 
+tomorrowad verbA1 
+tomorrow nounA1 
+tonight nounA1 
+Tuesday nounA1 
+usuallyad verbA1 
+Wednesday nounA1 
+week adjectiveA1 
+weekend nounA1 
+winter nounA1 
+year nounA1 
+yesterdayad verbA1 
+yesterday nounA1 
+
+TRAVEL HOLIDAYS
+apartment nounA1 
+beach nounA1 
+desk nounA1 
+holiday nounA1 
+hotel nounA1 
+journey nounA1 
+passport nounA1 
+pool nounA1 
+room nounA1 
+sea nounA1 
+stay verbA1 
+tourist nounA1 
+trip nounA1 
+vacation nounA1 
+visitor nounA1
+
+TRANSPORT BY AIR
+airplane adjectiveA1 
+airport nounA1 
+flight nounA1 
+fly verbA1 
+passport nounA1 
+plane adjectiveA1 
+sick adjectiveA1
+
+TRANSPORT BY BUS AND TRAIN
+bus nounA1 
+bus station nounA1 
+bus stop nounA1 
+get verbA1 
+office nounA1 
+station nounA1 
+stop nounA1 
+take verbA1 
+ticket nounA1 
+train nounA1 
+
+TRANSPORT BY CAR OR LORRY
+bicycle nounA1 
+bike nounA1 
+bus nounA1 
+car nounA1 
+car park nounA1 
+drive verbA1 
+driver nounA1 
+park verbA1 
+ride verbA1 
+road nounA1 
+stop verbA1 
+street nounA1 
+taxi nounA1 
+traffic nounA1 
+turn verbA1
+
+TRANSPORT BY WATER
+boat nounA1 
+radio nounA1 
+sea nounA1 
+water nounA1
+
+WORK AND BUSINESS
+BUSINESS
+business nounA1 
+cost verbA1 
+customer nounA1 
+meeting nounA1 
+plan nounA1 
+price nounA1 
+product nounA1 
+sell nounA1
+
+JOBS
+actor nounA1 
+actress nounA1 
+artist nounA1 
+dancer nounA1 
+doctor nounA1 
+driver nounA1 
+farmer nounA1 
+job nounA1 
+nurse nounA1 
+policeman nounA1 
+policewoman nounA1 
+scientist nounA1 
+singer nounA1 
+teacher nounA1 
+waiter nounA1 
+work verbA1 
+work nounA1 
+writer nounA1
+
+MONEY
+bank nounA1 
+banknote nounA1 
+buy verbA1 
+cent nounA1 
+change verbA1 
+cheap adjectiveA1 
+cost nounA1 
+dollar nounA1 
+euro nounA1 
+expensive adjectiveA1 
+give verbA1 
+grow verbA1 
+lose verbA1 
+money nounA1 
+pay verbA1 
+poor adjectiveA1 
+pound nounA1 
+price nounA1 
+rich adjectiveA1 
+sell nounA1 
+spend verbA1 
+
+WORKING LIFE
+boring adjectiveA1 
+break nounA1 
+business nounA1 
+career nounA1 
+dangerous adjectiveA1 
+desk nounA1 
+easy adjectiveA1 
+exciting adjectiveA1 
+hard adjectiveA1 
+interview nounA1 
+interview verbA1 
+job nounA1 
+meet verbA1 
+meeting nounA1 
+office nounA1 
+work verbA1 
+work nounA1 
+worker nounA1
+
