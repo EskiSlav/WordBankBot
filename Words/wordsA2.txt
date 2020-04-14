@@ -1,0 +1,1481 @@
+ANIMALS
+ANIMALS
+bear adjectiveA2    
+family nounA2    
+feed verbA2    
+frog nounA2    
+hide nounA2    
+lamb nounA2    
+monkey nounA2    
+pet nounA2    
+rabbit nounA2    
+tiger nounA2    
+walk verbA2    
+whale verbA2    
+wild adjectiveA2
+
+BIRDS
+duck nounA2    
+penguin nounA2    
+song nounA2
+
+FISH AND SHELLFISH
+shark nounA2 
+
+INSECTS, WORMS, ETC
+fly nounA2    
+insect nounA2    
+spider nounA2    
+web nounA2
+
+APPERANCE
+APPERANCE
+appearance nounA2    
+attractive adjectiveA2    
+beard nounA2    
+brush verbA2    
+curly adjectiveA2    
+good-looking adjectiveA2    
+hairbrush nounA2    
+hairdresser nounA2    
+handsome adjectiveA2    
+heavy adjectiveA2    
+height nounA2    
+lovely adjectiveA2    
+oil nounA2    
+skin nounA2    
+slim adjectiveA2    
+smile verbA2    
+smile nounA2    
+soap nounA2    
+straight adjectiveA2    
+thin adjectiveA2    
+wavy adjectiveA2    
+weight verbA2
+
+BODY
+ankle nounA2    
+blood nounA2    
+bone nounA2    
+brain nounA2    
+fat nounA2    
+finger nounA2    
+heart nounA2    
+knee nounA2    
+neck nounA2    
+physical adjectiveA2    
+shoulder nounA2    
+skin nounA2    
+stomach nounA2 
+
+CLOTHES AND FASHION
+belt nounA2    
+button nounA2    
+clothing nounA2    
+comfortable adjectiveA2    
+designer nounA2    
+fashion nounA2    
+fashion designer nounA2    
+fit verbA2    
+football boot nounA2    
+formal adjectiveA2    
+gold nounA2    
+handbag nounA2    
+informal adjectiveA2    
+jewellery nounA2    
+knee nounA2    
+model nounA2    
+neck nounA2    
+necktie nounA2    
+pants nounA2    
+pocket nounA2    
+purse nounA2    
+remove verbA2    
+ring nounA2    
+scarf nounA2    
+shorts nounA2    
+shoulder nounA2    
+silver nounA2    
+size nounA2    
+sock nounA2    
+suit nounA2    
+sunglasses nounA2    
+tie nounA2    
+top nounA2    
+trainer nounA2    
+training shoe nounA2    
+uniform nounA2    
+wallet nounA2
+ 
+COLORS AND SHAPES
+bright adjectiveA2    
+circle nounA2    
+cross nounA2    
+flat adjectiveA2    
+gold nounA2    
+gold adjectiveA2    
+round adjectiveA2    
+shape nounA2    
+silver nounA2    
+silver adjectiveA2    
+square adjectiveA2    
+square nounA2    
+star nounA2    
+straight adjectiveA2 
+
+COMMUNICATION
+LANGUAGE
+Arabic nounA2    
+Chinese nounA2    
+collocation nounA2    
+comma nounA2    
+comparative adjectiveA2    
+comparative nounA2    
+conditional adjectiveA2    
+conditional nounA2    
+consonant nounA2    
+ending nounA2    
+expression nounA2    
+Greek nounA2    
+irregular adjectiveA2    
+Latin nounA2    
+modal nounA2    
+participle nounA2    
+past participle nounA2    
+perfect adjectiveA2    
+perfect nounA2    
+Polish nounA2    
+Portuguese nounA2    
+possessive adjectiveA2    
+possessive nounA2    
+present participle nounA2    
+punctuation nounA2    
+punctuation mark nounA2    
+question mark nounA2    
+question tag nounA2    
+regular adjectiveA2    
+Russian nounA2    
+the present perfect nounA2    
+stress nounA2    
+stress verbA2    
+stressed  adjectiveA2    
+superlative adjectiveA2    
+superlative nounA2    
+syllable nounA2    
+vowel nounA2 
+
+PHONES, EMAIL AND THE INTERNET
+be on the phone idiomA2
+be on the telephone idiomA2
+caller nounA2    
+chat verbA2    
+chat nounA2    
+connect verbA2    
+Facebook nounA2    
+Google nounA2    
+hotlink nounA2    
+hyperlink nounA2    
+line nounA2    
+link nounA2    
+mail nounA2    
+mail verbA2    
+profile nounA2    
+publish verbA2    
+ring verbA2    
+site nounA2    
+social media nounA2    
+social networking nounA2    
+text verbA2
+
+CULTURE
+ART
+art gallery nounA2    
+background nounA2    
+brush nounA2    
+collect verbA2    
+detail nounA2    
+drawing nounA2    
+gallery nounA2    
+paint nounA2    
+paintbrush nounA2    
+painter nounA2    
+scene nounA2    
+style nounA2    
+work verbA2    
+work nounA2 
+
+FILM AND THEATRE
+act verbA2    
+acting nounA2    
+audience nounA2    
+black and white idiomA2
+cartoon nounA2    
+character nounA2    
+comedy nounA2    
+detective story nounA2    
+director nounA2    
+drama nounA2    
+ending nounA2    
+hero nounA2    
+heroine nounA2    
+Hollywood nounA2    
+perform verbA2    
+review nounA2    
+review verbA2    
+role nounA2    
+scene nounA2    
+science fiction nounA2    
+screen nounA2 
+
+LITERATURE AND WRITING
+author nounA2    
+character nounA2    
+column nounA2    
+ending nounA2    
+fiction nounA2    
+hero nounA2    
+heroine nounA2    
+introduction nounA2    
+journalist nounA2    
+novel nounA2    
+paper nounA2    
+print verbA2    
+publish verbA2    
+reporter nounA2    
+review nounA2    
+review verbA2    
+science fiction nounA2    
+short story nounA2    
+style nounA2    
+work nounA2 
+
+MUSIC
+audience nounA2    
+classical adjectiveA2    
+dance nounA2    
+guitarist nounA2    
+hit nounA2    
+instrument nounA2    
+jazz nounA2    
+MP3 nounA2    
+MP3 player nounA2    
+musical adjectiveA2    
+musical instrument nounA2    
+musician nounA2    
+perform verbA2    
+pop nounA2    
+pop music nounA2    
+record verbA2    
+rock nounA2    
+rock music nounA2    
+tour nounA2    
+violin nounA2    
+voice nounA2    
+work nounA2 
+
+
+TV, RADIO AND NEWS
+advert nounA2    
+advertise verbA2    
+advertisement nounA2    
+advertising nounA2    
+cartoon nounA2    
+celeb nounA2    
+celebrity nounA2    
+comedy nounA2    
+digital adjectiveA2    
+drama nounA2    
+front page nounA2    
+front-page adjectiveA2    
+introduce verbA2    
+journalist nounA2    
+listener nounA2    
+publish verbA2    
+quiz show nounA2    
+radio-combining formA2    
+record verbA2    
+recording nounA2    
+report verbA2    
+reporter nounA2    
+review nounA2    
+schedule nounA2    
+screen nounA2    
+series nounA2    
+sleb nounA2    
+station nounA2 
+
+FOOD AND DRINK
+COOKING AND EATING
+boil verbA2    
+book verbA2    
+bowl nounA2    
+check nounA2    
+chef nounA2    
+cook nounA2    
+cooker nounA2    
+dessert verbA2    
+dishwasher nounA2    
+dry adjectiveA2    
+fast food nounA2    
+fat nounA2    
+fork nounA2    
+fresh adjectiveA2    
+heat verbA2    
+junk food nounA2    
+kilo nounA2    
+kilogram nounA2    
+knife nounA2    
+lunchtime nounA2    
+order nounA2    
+oven nounA2    
+plate nounA2    
+recipe nounA2    
+salty adjectiveA2    
+serve verbA2    
+snack nounA2    
+spoon nounA2    
+sweet nounA2    
+taste nounA2    
+taste verbA2    
+unhealthy adjectiveA2    
+vegetarian nounA2    
+vegetarian adjectiveA2 
+
+DRINKS
+bar nounA2    
+drinking chocolate nounA2    
+hot chocolate nounA2    
+pub nounA2 
+
+FOOD
+baked potato nounA2    
+bean nounA2    
+beef nounA2    
+beefburger nounA2    
+biscuit nounA2    
+candy nounA2    
+chip nounA2    
+cookie nounA2    
+crisp nounA2    
+dessert verbA2    
+duck nounA2    
+fat nounA2    
+fish and chips nounA2    
+hamburger nounA2    
+hot dog nounA2    
+jam nounA2    
+lamb nounA2    
+lemon nounA2    
+mushroom nounA2    
+nut nounA2    
+oil nounA2    
+pasta nounA2    
+pea nounA2    
+peach nounA2    
+pie nounA2    
+pork nounA2    
+rabbit nounA2    
+sauce nounA2    
+sausage nounA2    
+skin nounA2    
+strawberry nounA2    
+sweet nounA2    
+toast nounA2
+
+FUNCTIONS
+DISCUSSION AND AGREEMENT
+agree verbA2    
+all right exclamationA2    
+alright exclamationA2    
+discussion nounA2    
+sign verbA2 
+
+DOUBT, GUESSING AND CERTAINTY
+certain adjectiveA2    
+check nounA2    
+definitely adverbA2    
+impossible adjectiveA2    
+likely adjectiveA2    
+make sure (of something/that…) idiomA2
+maymodal verbA2    
+mightmodal verbA2    
+perhaps adverbA2    
+possibility nounA2    
+predict verbA2    
+that depends idiomA2
+
+OPINION AND ARGUMENT
+according to prepositionA2    
+against prepositionA2    
+ah exclamationA2    
+all right exclamationA2    
+alright exclamationA2    
+anyway adverbA2    
+argue verbA2    
+argument nounA2    
+comment nounA2    
+disagree verbA2    
+discuss verbA2    
+discussion nounA2    
+evidence nounA2    
+express verbA2    
+feel verbA2    
+feeling nounA2    
+find verbA2    
+idea nounA2    
+I know idiomA2    
+match verbA2    
+of course idiomA2
+perhaps adverbA2    
+positive adjectiveA2    
+review nounA2    
+review verbA2    
+shake verbA2    
+suggest verbA2    
+suggestion nounA2    
+suppose verbA2    
+survey nounA2    
+thinking nounA2    
+true adjectiveA2    
+view nounA2    
+yes nounA2
+
+PERMISSION AND OBLIGATION
+allow verbA2    
+all right adjectiveA2    
+alright adjectiveA2    
+canmodal verbA2    
+law nounA2    
+need nounA2    
+permission nounA2
+
+PREFERENCES AND DECISIONS
+alternative nounA2    
+choice nounA2    
+consider verbA2    
+decision nounA2    
+either adverbA2    
+option nounA2    
+pick verbA2 
+
+SUGGESTIONS AND ADVICE
+canmodal verbA2    
+follow verbA2    
+have tomodal verbA2    
+help nounA2    
+perhapsad verbA2    
+recommend verbA2    
+shallmodal verbA2    
+shouldmodal verbA2    
+suggest verbA2    
+tip nounA2
+
+HEALTH
+HEALTH AND FITNESS
+energy nounA2    
+fit adjectiveA2    
+jog verbA2    
+jog nounA2    
+jogging nounA2    
+train verbA2    
+walking nounA2    
+weight verbA2
+
+ILLNESS
+accident nounA2    
+ache verbA2    
+ache nounA2    
+bad adjectiveA2    
+be sick idiomA2
+better adjectiveA2    
+broken adjectiveA2    
+condition nounA2    
+disease nounA2    
+earache nounA2    
+flu verbA2    
+headache nounA2    
+hit verbA2    
+hurt verbA2    
+hurt adjectiveA2    
+ill adjectiveA2    
+illness nounA2    
+injury nounA2    
+pain nounA2    
+rest nounA2    
+rest verbA2    
+serious adjectiveA2    
+stomach ache nounA2    
+temperature nounA2    
+toothache nounA2    
+unhealthy adjectiveA2    
+virus nounA2    
+weak adjectiveA2 
+
+MEDICINE
+care nounA2    
+chemist nounA2    
+dentist nounA2    
+medical adjectiveA2    
+patient nounA2    
+test nounA2    
+test verbA2 
+
+HOMES AND BUILDINGS
+BUILDINGS
+ancient adjectiveA2    
+architecture nounA2    
+art gallery nounA2    
+board nounA2    
+bridge nounA2    
+castle nounA2    
+church nounA2    
+club nounA2    
+downstairs adjectiveA2    
+factory nounA2    
+first floor nounA2    
+gallery nounA2    
+ground floor nounA2    
+home nounA2    
+lab nounA2    
+lift nounA2    
+lock nounA2    
+palace nounA2    
+police station nounA2    
+prison nounA2    
+pub nounA2    
+roof nounA2    
+shopping centre nounA2    
+site nounA2    
+sports centre nounA2    
+square nounA2    
+stair nounA2    
+stone nounA2    
+structure nounA2    
+tower nounA2    
+traditional adjectiveA2    
+upstairs adjectiveA2
+
+GARDENS
+gate nounA2    
+grass nounA2    
+plant verbA2
+
+HOUSES AND HOMES
+bin nounA2    
+borrow verbA2    
+brush nounA2    
+carpet nounA2    
+cooker nounA2    
+corner nounA2    
+cupboard nounA2    
+dishwasher nounA2    
+downstairs adjectiveA2    
+equipment nounA2    
+first floor nounA2    
+fridge nounA2    
+furniture nounA2    
+ground floor nounA2    
+hall nounA2    
+hallway nounA2    
+housework nounA2    
+lamp nounA2    
+lend verbA2    
+level nounA2    
+lock nounA2    
+mirror nounA2    
+move verbA2    
+offer nounA2    
+palace nounA2    
+roof nounA2    
+sitting room nounA2    
+stair nounA2    
+upstairs adjectiveA2    
+washing nounA2    
+washing machine nounA2 
+
+LEISURE
+GAMES AND TOYS
+ball game nounA2    
+board nounA2    
+board game nounA2    
+card nounA2    
+card game nounA2    
+deal verbA2    
+score verbA2    
+score nounA2    
+table tennis nounA2    
+toy nounA2    
+winner nounA2
+
+HOBBIES
+climb verbA2    
+climbing nounA2    
+drama nounA2    
+drawing nounA2    
+fish verbA2    
+fishing nounA2    
+hike nounA2    
+hike verbA2    
+hiking nounA2    
+jog verbA2    
+jogging nounA2    
+walking nounA2    
+yoga nounA2    
+zoo nounA2
+
+SHOPPING
+assistant nounA2    
+bookshop nounA2    
+cash nounA2    
+chemist nounA2    
+clothing nounA2    
+condition nounA2    
+credit nounA2    
+credit card nounA2    
+department nounA2    
+download verbA2    
+electrical adjectiveA2    
+free adjectiveA2    
+furniture nounA2    
+gift nounA2    
+hairdresser nounA2    
+helpful adjectiveA2    
+item nounA2    
+jewellery nounA2    
+luggage nounA2    
+manager nounA2    
+offer nounA2    
+order verbA2    
+reduce verbA2    
+sale verbA2    
+serve verbA2    
+shop assistant nounA2    
+shopping bag nounA2    
+shopping centre nounA2    
+store nounA2    
+store window nounA2    
+technology nounA2    
+toy nounA2
+
+NOTIONS
+CHANGE, CAUSE AND EFFECT
+bring verbA2    
+cause nounA2    
+cause verbA2    
+effect nounA2    
+factor nounA2    
+fall verbA2    
+fall nounA2    
+follow verbA2    
+increase verbA2    
+increase nounA2    
+lead verbA2    
+react verbA2    
+reduce verbA2    
+rise verbA2 
+
+DANGER
+adventure nounA2    
+chance nounA2    
+danger nounA2 
+
+DIFFICULTY AND FAILURE
+disaster nounA2    
+fail verbA2    
+miss verbA2    
+trouble nounA2 
+
+SUCCESS
+achieve verbA2    
+advantage nounA2    
+be (all) for the best idiomA2
+brilliant adjectiveA2    
+congratulation nounA2    
+do well idiomA2
+dream nounA2    
+dream verbA2    
+go verbA2    
+goal nounA2    
+hit nounA2    
+lucky adjectiveA2    
+opportunity nounA2    
+progress nounA2    
+race verbA2    
+record nounA2    
+result nounA2    
+succeed verbA2    
+successful adjectiveA2    
+support verbA2    
+support nounA2    
+target nounA2    
+winner nounA2
+
+PEOPLE
+EDUCATION
+assistant nounA2    
+attend verbA2    
+biology nounA2    
+board nounA2    
+chemistry nounA2    
+coach nounA2    
+degree nounA2    
+department nounA2    
+drama nounA2    
+education nounA2    
+essay nounA2    
+fail verbA2    
+holiday nounA2    
+instructor nounA2    
+knowledge nounA2    
+learning nounA2    
+lecture nounA2    
+lecture verbA2    
+mathematics nounA2    
+pass verbA2    
+physics nounA2    
+professor nounA2    
+research nounA2    
+research verbA2    
+review nounA2    
+review verbA2    
+ruler nounA2    
+schedule nounA2    
+school child nounA2    
+school day nounA2    
+school kid nounA2    
+score nounA2    
+take verbA2    
+task nounA2    
+teaching nounA2    
+timetable nounA2    
+train verbA2    
+training nounA2    
+uniform nounA2    
+vacation nounA2 
+
+FAMILY AND RELATIONSHIPS
+background nounA2    
+care verbA2    
+couple nounA2    
+daddy nounA2    
+date nounA2    
+divorced adjectiveA2    
+family name nounA2    
+first name nounA2    
+granny nounA2    
+home nounA2    
+last name nounA2    
+momma nounA2    
+mommy nounA2    
+mummy nounA2    
+nephew nounA2    
+niece nounA2    
+partner nounA2    
+school friend nounA2    
+second name nounA2    
+surname nounA2    
+twin nounA2
+
+FEELINGS
+angrilyad verbA2    
+argue verbA2    
+argument nounA2    
+care verbA2    
+complain verbA2    
+crazy adjectiveA2    
+cry verbA2    
+enjoy verbA2    
+feel good idiomA2
+hope nounA2    
+nervous adjectiveA2    
+pain nounA2    
+pleased adjectiveA2    
+red adjectiveA2    
+sadlyad verbA2    
+scared adjectiveA2    
+smile verbA2    
+smile nounA2    
+stress nounA2    
+surprise nounA2    
+surprise verbA2    
+surprised adjectiveA2    
+surprising adjectiveA2    
+unhappy adjectiveA2    
+worried adjectiveA2    
+worry verbA2
+
+LIFE STAGES
+be expecting (a baby/child) idiomA2
+birth nounA2    
+care nounA2    
+dead adjectiveA2    
+death nounA2    
+kid nounA2    
+marry verbA2    
+partner nounA2    
+ring nounA2    
+teenage adjectiveA2    
+wedding nounA2    
+wedding cake nounA2    
+wedding dress nounA2    
+wedding ring nounA2 
+
+PERSONAL QUALITIES
+brilliant adjectiveA2    
+careful adjectiveA2    
+clever adjectiveA2    
+crazy adjectiveA2    
+creative adjectiveA2    
+hard-working adjectiveA2    
+helpful adjectiveA2    
+hero nounA2    
+heroine nounA2    
+intelligent adjectiveA2    
+lazy adjectiveA2    
+lovely adjectiveA2    
+polite adjectiveA2    
+rude adjectiveA2    
+strange adjectiveA2    
+stupid adjectiveA2 
+
+POLITICS AND SOCIETY
+CRIME AND PUNISHMENT
+attack nounA2    
+attack verbA2    
+catch verbA2    
+crime nounA2    
+criminal nounA2    
+detective nounA2    
+evidence nounA2    
+identify verbA2    
+kill verbA2    
+prison nounA2    
+question verbA2    
+report verbA2    
+scene nounA2    
+serious adjectiveA2    
+solve verbA2    
+steal verbA2    
+thief nounA2
+
+LAW AND JUSTICE
+detective nounA2    
+document nounA2    
+evidence nounA2    
+law nounA2    
+lawyer nounA2    
+officer nounA2    
+police officer nounA2    
+police station nounA2    
+process nounA2    
+sign verbA2    
+station nounA2    
+uniform nounA2
+
+PEOPLE IN SOCIETY
+African adjectiveA2    
+African nounA2    
+Asian nounA2    
+Asian adjectiveA2    
+boss nounA2    
+color nounA2    
+colour nounA2    
+community nounA2    
+European adjectiveA2    
+European nounA2    
+female adjectiveA2    
+head nounA2    
+king nounA2    
+leader nounA2    
+male nounA2    
+organization nounA2    
+president nounA2    
+public adjectiveA2    
+public nounA2    
+queen nounA2    
+society nounA2
+
+POLITICS
+department nounA2    
+foreign adjectiveA2    
+government nounA2    
+independent adjectiveA2    
+international adjectiveA2    
+king nounA2    
+law nounA2    
+leader nounA2    
+office nounA2    
+power nounA2    
+president nounA2    
+queen nounA2    
+relationship nounA2    
+speech nounA2    
+state nounA2    
+support verbA2 
+
+RELIGION AND FESTIVALS
+celebrate verbA2    
+church nounA2    
+festival nounA2    
+god nounA2    
+holiday nounA2    
+marry verbA2    
+tower nounA2    
+tradition nounA2    
+wedding nounA2
+
+SOCIAL ISSUES
+camp nounA2    
+charity nounA2    
+cigarette nounA2    
+drink nounA2    
+drink verbA2    
+drug nounA2    
+medicine nounA2    
+smoke verbA2    
+smoking nounA2
+
+WAR AND CONFLICT
+army nounA2    
+attack nounA2    
+attack verbA2    
+danger nounA2    
+gun nounA2    
+officer nounA2    
+peace nounA2    
+soldier nounA2    
+war nounA2 
+
+SCIENCE AND TECHNOLOGY
+BIOLOGY
+biology nounA2    
+female adjectiveA2    
+female nounA2    
+male adjectiveA2    
+male nounA2    
+virus nounA2 
+
+COMPUTERS
+app nounA2    
+button nounA2    
+connect verbA2    
+data nounA2    
+digital adjectiveA2    
+document nounA2    
+download verbA2    
+download nounA2    
+laptop nounA2    
+memory nounA2    
+mobile device nounA2    
+MP3 player nounA2    
+network nounA2    
+option nounA2    
+personal computer nounA2    
+print verbA2    
+printer nounA2    
+program nounA2    
+save verbA2    
+screen nounA2    
+search nounA2    
+tablet nounA2    
+upload verbA2    
+upload nounA2    
+user nounA2    
+virus nounA2
+
+ENGINEERING
+button nounA2    
+connect verbA2    
+device nounA2    
+electric adjectiveA2    
+electrical adjectiveA2    
+electricity nounA2    
+electronic adjectiveA2    
+engineer nounA2 
+
+MATH AND MEASUREMENT
+average adjectiveA2    
+average nounA2    
+billion numberA2    
+centimetre nounA2    
+count verbA2    
+degree nounA2    
+doublepro nounA2    
+double verbA2    
+figure nounA2    
+foot nounA2    
+g abbreviationA2
+height nounA2    
+hundredth ordinal numberA2    
+kg abbreviationA2
+kilo nounA2    
+kilogram nounA2    
+km abbreviationA2
+m abbreviationA2    
+mathematics nounA2    
+maths nounA2    
+ruler nounA2    
+size nounA2    
+solution nounA2    
+solve verbA2    
+symbol nounA2    
+thousandth ordinal numberA2    
+weight verbA2 
+ 
+PHYSICS AND CHEMISTRY
+electric adjectiveA2    
+electrical adjectiveA2    
+electricity nounA2    
+gas nounA2    
+gold nounA2    
+heat nounA2    
+light adjectiveA2    
+material nounA2    
+metal nounA2    
+petrol nounA2    
+physics nounA2    
+plastic nounA2    
+plastic adjectiveA2    
+silver nounA2    
+stone nounA2    
+wood nounA2 
+
+SCIENTIFIC RESEARCH 
+biology nounA2    
+chemistry nounA2    
+data nounA2    
+develop verbA2    
+discover verbA2    
+discovery nounA2    
+equipment nounA2    
+evidence nounA2    
+lab nounA2    
+medicine nounA2    
+method nounA2    
+physics nounA2    
+research nounA2    
+research verbA2    
+survey nounA2    
+symbol nounA2    
+technology nounA2    
+test nounA2    
+test verbA2 
+
+SPORT
+SPORT: BALL AND RACKET SPORTS
+American football nounA2    
+baseball nounA2    
+basketball nounA2    
+catch verbA2    
+cricket nounA2    
+cup nounA2    
+end nounA2    
+fan nounA2    
+field nounA2    
+football boot nounA2    
+game nounA2    
+goal nounA2    
+golf nounA2    
+hockey nounA2    
+kick verbA2    
+net nounA2    
+park nounA2    
+point nounA2    
+score verbA2    
+score nounA2    
+side nounA2    
+soccer nounA2    
+stick nounA2    
+table tennis nounA2    
+throw verbA2    
+volleyball nounA2 
+
+SPORTS: OTHER SPORTS
+athlete nounA2    
+climb verbA2    
+climbing nounA2    
+coach nounA2    
+compete verbA2    
+competition nounA2    
+cycle nounA2    
+cycle verbA2    
+cycling nounA2    
+fight verbA2    
+fight nounA2    
+final nounA2    
+gold nounA2    
+hockey nounA2    
+jump verbA2    
+jump nounA2    
+motorbike nounA2    
+race nounA2    
+race verbA2    
+record nounA2    
+runner nounA2    
+running nounA2    
+ski nounA2    
+ski adjectiveA2    
+ski verbA2    
+skiing nounA2    
+train verbA2    
+training nounA2    
+winter sports nounA2
+
+SPORTS: WATER SPORTS
+diving nounA2    
+sail verbA2    
+sailing nounA2    
+swimmer nounA2 
+
+THE NATURAL WORLD
+FARMING
+farming nounA2    
+feed verbA2    
+field nounA2    
+plant verbA2    
+produce verbA2 
+
+GEOGRAPHY
+bottom nounA2    
+bridge nounA2    
+coast nounA2    
+continent nounA2    
+desert nounA2    
+dry adjectiveA2    
+flat adjectiveA2    
+forest nounA2    
+ground nounA2    
+hill nounA2    
+lake nounA2    
+north-east adjectiveA2    
+north-east nounA2    
+north-west adjectiveA2    
+north-west nounA2    
+ocean nounA2    
+pool nounA2    
+rainforest nounA2    
+region nounA2    
+rock nounA2    
+sea level nounA2    
+south-east adjectiveA2    
+south-east nounA2    
+south-west adjectiveA2    
+south-west nounA2    
+valley nounA2    
+wood nounA2 
+
+PLANTS AND TREES
+grass nounA2    
+mushroom nounA2    
+wild adjectiveA2
+
+THE ENVIRONMENT
+air quality nounA2    
+climate nounA2    
+climate change nounA2    
+electricity nounA2    
+energy nounA2    
+environment nounA2    
+garbage nounA2    
+gas nounA2    
+natural disaster nounA2    
+nature nounA2    
+oil nounA2    
+petrol nounA2    
+plastic nounA2    
+pollution nounA2    
+power nounA2    
+protect verbA2    
+recycle verbA2    
+recycling nounA2    
+rubbish nounA2    
+smoke nounA2    
+storm nounA2    
+trash nounA2 
+
+WEATHER
+awful adjectiveA2    
+blow verbA2    
+clear adjectiveA2    
+cloud nounA2    
+fall nounA2    
+gray adjectiveA2    
+grey adjectiveA2    
+heat nounA2    
+rainy adjectiveA2    
+sky nounA2    
+snowy adjectiveA2    
+storm nounA2    
+temperature nounA2    
+wet adjectiveA2    
+wind nounA2    
+windy adjectiveA2
+
+TIME AND SPACE
+HISTORY
+ancient adjectiveA2    
+castle nounA2    
+invention nounA2    
+king nounA2    
+palace nounA2    
+queen nounA2    
+Roman adjectiveA2    
+time nounA2
+
+SPACE
+earth nounA2    
+land verbA2    
+moon nounA2    
+planet nounA2    
+rise verbA2 
+
+TIME
+afternoons adverbA2    
+all the time idiomA2
+before conjunctionA2    
+before adverbA2    
+daily adjectiveA2    
+fall nounA2    
+immediately adverbA2    
+last verbA2    
+later adjectiveA2    
+lunchtime nounA2    
+on time idiomA2
+recent adjectiveA2    
+recently adverbA2    
+regular adjectiveA2    
+season nounA2    
+since prepositionA2    
+since conjunctionA2    
+suddenly adverbA2    
+through adverbA2    
+yet adverbA2
+
+TRAVEL
+HOLIDAYS
+abroad adverbA2    
+adventure nounA2    
+book verbA2    
+camp verbA2    
+camping nounA2    
+double room nounA2    
+floor nounA2    
+foreign adjectiveA2    
+guest nounA2    
+guide nounA2    
+hiking nounA2    
+luggage nounA2    
+pack verbA2    
+postcard nounA2    
+reception nounA2    
+receptionist nounA2    
+sightseeing nounA2    
+single nounA2    
+souvenir nounA2    
+star nounA2    
+stay nounA2    
+suitcase nounA2    
+tour nounA2    
+tourism nounA2    
+traveller nounA2    
+twin nounA2    
+walking nounA2 
+
+TRANSPORT BY AIR
+airline nounA2    
+baggage nounA2    
+book verbA2    
+catch verbA2    
+change verbA2    
+gate nounA2    
+international adjectiveA2    
+land verbA2    
+passenger nounA2    
+pilot nounA2    
+seat nounA2 
+
+TRANSPORT BY BUS AND TRAIN
+book verbA2    
+catch verbA2    
+change verbA2    
+coach nounA2    
+engine nounA2    
+line nounA2    
+metro nounA2    
+passenger nounA2    
+platform nounA2    
+public transport nounA2    
+railway nounA2    
+route nounA2    
+schedule nounA2    
+seat nounA2    
+single adjectiveA2    
+single nounA2    
+subway nounA2    
+through adverbA2    
+timetable nounA2    
+track nounA2    
+underground nounA2    
+waiting room nounA2 
+
+TRANSPORT BY CAR OR LORRY
+accident nounA2    
+coach nounA2    
+corner nounA2    
+cycle nounA2    
+drive nounA2    
+engine nounA2    
+gas nounA2    
+inside adjectiveA2    
+instructor nounA2    
+learner nounA2    
+motorbike nounA2    
+motor car nounA2    
+motorcycle nounA2    
+motorway nounA2    
+oil nounA2    
+parking nounA2    
+passenger nounA2    
+petrol nounA2    
+repair verbA2    
+road map nounA2    
+roof nounA2    
+truck nounA2    
+turn nounA2    
+van nounA2    
+vehicle nounA2    
+wheel nounA2
+
+TRANSPORT BY WATER
+land verbA2    
+passenger nounA2    
+sail verbA2    
+sailing nounA2    
+ship nounA2
+
+WORK AND BUSINESS
+BUSINESS
+accept verbA2    
+advert nounA2    
+advertise verbA2    
+advertisement nounA2    
+boss nounA2    
+businessman nounA2    
+business person nounA2    
+business woman nounA2    
+department nounA2    
+director nounA2    
+employ verbA2    
+employer nounA2    
+factory nounA2    
+industry nounA2    
+leader nounA2    
+manage verbA2    
+manager nounA2    
+network nounA2    
+offer verbA2    
+offer nounA2    
+office worker nounA2    
+poster nounA2    
+sale nounA2    
+secretary nounA2    
+service nounA2    
+tourism nounA2 
+
+JOBS
+architect nounA2    
+assistant nounA2    
+assistant adjectiveA2    
+boss nounA2    
+builder nounA2    
+businessman nounA2    
+business person nounA2    
+businesswoman nounA2    
+chef nounA2    
+chemist nounA2    
+cleaner nounA2    
+cook nounA2    
+creative adjectiveA2    
+dentist nounA2    
+designer nounA2    
+detective nounA2    
+director nounA2    
+employ verbA2    
+engineer nounA2    
+fashion designer nounA2    
+hairdresser nounA2    
+head nounA2    
+instructor nounA2    
+journalist nounA2    
+lawyer nounA2    
+manager nounA2    
+medical adjectiveA2    
+model nounA2    
+musician nounA2    
+officer nounA2    
+painter nounA2    
+pilot nounA2    
+police officer nounA2    
+professor nounA2    
+receptionist nounA2    
+researcher nounA2    
+secretary nounA2    
+shop assistant nounA2    
+soldier nounA2    
+train verbA2    
+training nounA2    
+working adjectiveA2 
+
+MONEY
+amount nounA2    
+billion numberA2    
+borrow verbA2    
+cash nounA2    
+credit nounA2    
+credit card nounA2    
+earn verbA2    
+fall verbA2    
+free adjectiveA2    
+increase verbA2    
+increase nounA2    
+lend verbA2    
+make verbA2    
+pay nounA2    
+penny nounA2    
+per cent nounA2    
+per centa adjectiveA2    
+purse nounA2    
+reduce verbA2    
+rise verbA2    
+salary nounA2    
+save verbA2    
+wallet nounA2
+
+WORKING LIFE
+achieve verbA2    
+apply verbA2    
+attend verbA2    
+boss nounA2    
+colleague nounA2    
+creative adjectiveA2    
+department nounA2    
+diary nounA2    
+employee nounA2    
+employer nounA2    
+experience nounA2    
+industry nounA2    
+interviewer nounA2    
+manage verbA2    
+offad verbA2    
+pay nounA2    
+physical adjectiveA2    
+question verbA2    
+reception nounA2    
+salary nounA2    
+schedule nounA2    
+target nounA2    
+task nounA2
+
+
+
+
