@@ -1,7 +1,7 @@
 ﻿import telebot
-from consant import *
+from constant import *
 import sqlite3
-import keyboards
+from keyboards import *
 
 ADDING_AUDIO = "ADDING AUDIO"
 CHANGING_AUDIO = "CHANGING_AUDIO"
@@ -135,27 +135,26 @@ def send_text(message):
     print(message.forward_from_message_id, message.message_id)
     #probnij period
     if message.text.lower() == 'пробный период':
-        bot.send_message(message.chat.id, 'Выбери свой уровень:', reply_markup=keyboardlvlprob)
-        # bot.forward_message(message.chat.id, '-1001304645013', '2')
+        bot.send_message(message.chat.id, 'Выбери свой уровень:', reply_markup=keyboardlvlprob1)
 
     elif message.text.lower() == 'а1': #а русская
         bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardtemsprob1)
     elif message.text.lower() == 'animals':
-        bot.send_message(message.caht.id, 'Выбери тему:', reply_markup=keyboardanimals1)
+        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardanimals1)
     elif message.text.lower() == 'apperance':
-        bot.send_message(message.caht.id, 'Выбери тему:', reply_markup=keyboardapperance1)    
+        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardapperance1)    
     elif message.text.lower() == 'communication':
-        bot.send_message(message.caht.id, 'Выбери тему:', reply_markup=keyboardcommunication1)
+        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardcommunication1)
     elif message.text.lower() == 'culture':
-        bot.send_message(message.caht.id, 'Выбери тему:', reply_markup=keyboardculuture1)
+        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardculture1)
     elif message.text.lower() == 'food and drink':
-        bot.send_message(message.caht.id, 'Выбери тему:', reply_markup=keyboardfoodanddrink1)    
+        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardfoodanddrink1)    
     elif message.text.lower() == 'functions':
-        bot.send_message(message.caht.id, 'Выбери тему:', reply_markup=keyboardfunctions1)
+        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardfunctions1)
     elif message.text.lower() == 'health':
-        bot.send_message(message.caht.id, 'Выбери тему:', reply_markup=keyboardhealth1)    
+        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardhealth1)    
     elif message.text.lower() == 'homes and buildings':
-        bot.send_message(message.caht.id, 'Выбери тему:', reply_markup=keyboardhomesandbuildings1)
+        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardhomesandbuildings1)
     elif message.text.lower() == 'leisure':
         bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardleisure1)    
     elif message.text.lower() == 'notions':
@@ -177,10 +176,6 @@ def send_text(message):
     elif message.text.lower() == 'work and business':
         bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardworkandbusiness1)
 
-
-    
-
-
     elif message.text.lower() == 'а2': #а русская
         send_audio_name(message.chat.id, 'rick-astley')
    
@@ -195,15 +190,11 @@ def send_text(message):
     elif message.text.lower() == 'back':
         bot.send_message(message.chat.id, 'Выбери свой уровень:', reply_markup=keyboardstart)
     elif message.text.lower() == 'meat':
-        bot.send_message(message.chat.id, 'MEAT:\nbacon - бекон\nbeef - говядина\nchicken - курица\nham - ветчина\nmeat - мясо\npork - свинина\nsausage - сосиски\nturkey - индейка')
-        # audio = open("C:/Users/root/Desktop/Meat.mp3", 'rb')
+        bot.send_message(message.chat.id, 'MEAT:\nbacon - бекон\nbeef - говядина\nchicken - курица\nham - ветчина\nmeat - мясо\npork - свинина\nsausage - сосиски\nturkey - индейка')     
         bot.send_chat_action(message.from_user.id, 'upload_audio')
         send_audio_name(message.chat.id, 'meat')
-        # bot.send_audio(message.from_user.id, audio)
-        # audio.close()
     elif message.text.lower() == 'fish':
         send_audio_name(message.chat.id, 'fish')
-
     elif message.text.lower() == 'dairy products':
         send_audio_name(message.chat.id, 'dairy-products')
     elif message.text.lower() == 'cereal products':
@@ -212,11 +203,10 @@ def send_text(message):
         send_audio_name(message.chat.id, 'sweets')
     elif message.text.lower() == 'fruits':
         send_audio_name(message.chat.id, 'fruits')
-        
-
     elif message.text.lower() == 'назад':
         bot.send_message(message.chat.id, 'Главное меню:', reply_markup=keyboardstart)
     else:
         bot.send_message(message.chat.id, 'Error!', reply_markup=keyboardstart)
+
 
 bot.polling(none_stop=True)
