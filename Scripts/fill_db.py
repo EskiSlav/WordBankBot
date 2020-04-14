@@ -3,9 +3,9 @@ import sqlite3
 conn = sqlite3.connect("../words.db")
 curr = conn.cursor()
 
-theme_table     = "themes_a1"
+theme_table     = "themes_b1"
 word_type_table = "word_type"
-words_table     = "words_a1" 
+words_table     = "words_b1" 
 
 def exit_script():
     print("Exiting script...")
@@ -51,7 +51,7 @@ def add_word(word, theme, word_type):
     conn.commit()
     print(f"  Added row {word}, {theme}, {word_type}")
 
-def create_table_themes_a1():
+def create_table_themes():
     curr.execute(f"""CREATE TABLE IF NOT EXISTS {theme_table}(
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         theme TEXT NOT NULL UNIQUE
@@ -65,12 +65,13 @@ def create_table_type():
     )""")
     conn.commit()
 
-def create_table_words_a1():
+def create_table_words():
     curr.execute(f"""CREATE TABLE IF NOT EXISTS {words_table} (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         word TEXT NOT NULL, 
         theme_id INTEGER NOT NULL,
         type_id INTEGER NOT NULL,
+        translation TEXT,
         CONSTRAINT fk_themes
          FOREIGN KEY(theme_id) 
          REFERENCES {theme_table}(id),
@@ -103,8 +104,8 @@ def fill_db(filename):
 
 check_tables_correct()
 create_table_type()
-create_table_themes_a1()
-create_table_words_a1()
+create_table_themes()
+create_table_words()
 
 # fill_db("./../Words/wordsA2.txt")
-fill_db("./../Words/wordsA1.txt")
+fill_db("./../Words/wordsB1.txt")

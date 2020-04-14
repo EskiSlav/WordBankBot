@@ -1,0 +1,2057 @@
+ANIMALS
+big cat nounB1 
+bull nounB1 
+camel nounB1 
+crocodile nounB1 
+dolphin nounB1 
+endangered adjectiveB1 
+fox nounB1 
+fur nounB1 
+goat nounB1 
+guide dog nounB1 
+guinea pig nounB1 
+hamster nounB1 
+police dog nounB1 
+sheepdog nounB1 
+shell nounB1 
+tail nounB1 
+wolf nounB1 
+wool nounB1 
+
+BIRDS
+seabird nounB1 
+tail nounB1 
+turkey nounB1 
+wing nounB1 
+
+FISH AND SHELLFISH
+fishbowl nounB1 
+salmon nounB1 
+sea fish nounB1 
+shell nounB1 
+tail nounB1 
+
+INSECTS, WORMS, ETC
+ant nounB1 
+bee nounB1 
+butterfly nounB1 
+mosquito nounB1
+
+APPERANCE
+APPERANCE
+cut nounB1 
+expression nounB1 
+fair adjectiveB1 
+fair-haired adjectiveB1 
+figure nounB1 
+grey-haired adjectiveB1 
+haircut nounB1 
+hairdryer nounB1 
+hairstyle nounB1 
+moustache nounB1 
+pale adjectiveB1 
+scissors nounB1 
+shampoo nounB1 
+shampoo verbB1 
+shave verbB1 
+shaver nounB1 
+shiny adjectiveB1 
+spot nounB1 
+thick adjectiveB1 
+toothpaste nounB1 
+ugly adjectiveB1 
+unattractive adjectiveB1 
+well dressed adjectiveB1 
+
+BODY
+backbone nounB1 
+bottom nounB1 
+chest nounB1 
+false teeth nounB1 
+lip nounB1 
+muscle nounB1 
+nail nounB1 
+physically adverbB1 
+throat nounB1 
+toe nounB1 
+tongue nounB1 
+
+CLOTHES AND FASHIONa
+baggy adjectiveB1 
+blouse nounB1 
+bra nounB1 
+cap nounB1 
+chain nounB1 
+cloth nounB1 
+costume nounB1 
+cotton nounB1 
+denim nounB1 
+designer adjectiveB1 
+diamond nounB1 
+earring nounB1 
+fashionable adjectiveB1 
+fasten verbB1 
+fur nounB1 
+glove nounB1 
+jewel nounB1 
+jogging suit nounB1 
+label nounB1 
+leather nounB1 
+material nounB1 
+model verbB1 
+necklace nounB1 
+panties nounB1 
+pattern nounB1 
+photographer nounB1 
+pyjamas nounB1 
+raincoat nounB1 
+smart adjectiveB1 
+smartly adverbB1 
+stripe nounB1 
+sun hat nounB1 
+supermodel nounB1 
+sweatshirt nounB1 
+swimming costume nounB1 
+swimming trunks nounB1 
+swimsuit nounB1 
+tee shirt nounB1 
+tennis shoe nounB1 
+tight adjectiveB1 
+tights nounB1 
+trendy adjectiveB1 
+trouser adjectiveB1 
+uncomfortable adjectiveB1 
+underpants nounB1 
+underwear nounB1 
+undress verbB1 
+unfashionable adjectiveB1 
+unfasten verbB1 
+wool nounB1 
+
+COLORS AND SHAPES
+colored adjectiveB1 
+colour verbB1 
+coloured adjectiveB1 
+cream nounB1 
+cream adjectiveB1 
+diamond nounB1 
+pale adjectiveB1 
+surface nounB1 
+
+COMMUNICATION
+LANGUAGE
+abbreviation nounB1 
+active adjectiveB1 
+active nounB1 
+advanced adjectiveB1 
+adverbial adjectiveB1 
+apostrophe nounB1 
+argument nounB1 
+article nounB1 
+auxiliary nounB1 
+beginner nounB1 
+clause nounB1 
+communication nounB1 
+conjunction nounB1 
+continuous adjectiveB1 
+contraction nounB1 
+defining adjectiveB1 
+definite article nounB1 
+determiner nounB1 
+direct object nounB1 
+direct speech nounB1 
+exclamation nounB1 
+exclamation mark nounB1 
+fluent adjectiveB1 
+gerund nounB1 
+grammatical adjectiveB1 
+imperative adjectiveB1 
+imperative nounB1 
+indefinite article nounB1 
+indirect object nounB1 
+indirect speech nounB1 
+interrogative adjectiveB1 
+intonation nounB1 
+Irish nounB1 
+main clause nounB1 
+native speaker nounB1 
+object nounB1 
+part of speech nounB1 
+passive adjectiveB1 
+passive nounB1 
+period nounB1 
+point nounB1 
+prefix nounB1 
+prepositional adjectiveB1 
+progressive adjectiveB1 
+proper noun nounB1 
+quotation marks nounB1 
+quote verbB1 
+reflexive adjectiveB1 
+relative adjectiveB1 
+reported speech nounB1 
+saying nounB1 
+the past perfect nounB1 
+suffix nounB1 
+tag question nounB1 
+transitive adjectiveB1 
+Welsh nounB1
+
+PHONES, EMAIL AND THE INTERNET
+answering machine nounB1 
+answerphone nounB1 
+attach verbB1 
+blog verbB1 
+blogger nounB1 
+blogging nounB1 
+blog post nounB1 
+communication nounB1 
+connection nounB1 
+contact verbB1 
+google verbB1 
+like verbB1 
+like nounB1 
+local call nounB1 
+message verbB1 
+phone box nounB1 
+podcast nounB1 
+search engine nounB1 
+surf verbB1 
+telephone banking nounB1 
+telephone box nounB1 
+text-message verbB1 
+text-messaging nounB1 
+tweet nounB1 
+tweet verbB1 
+Twitter™ nounB1 
+user group nounB1 
+voicemail nounB1 
+
+CULTURE
+ART
+cave painting nounB1 
+collection nounB1 
+decorate verbB1 
+exhibition nounB1 
+fake nounB1 
+frame nounB1 
+frame verbB1 
+graffiti nounB1 
+portrait nounB1 
+printing nounB1 
+represent verbB1 
+sculpture nounB1 
+statue nounB1 
+studio nounB1 
+
+FILM AND THEATRE
+action film nounB1 
+action movie nounB1 
+agent nounB1 
+cameraman nounB1 
+camerawoman nounB1 
+costume nounB1 
+curtain nounB1 
+direct verbB1 
+home cinema nounB1 
+home theater nounB1 
+horror nounB1 
+line nounB1 
+location nounB1 
+musical nounB1 
+part nounB1 
+performance nounB1 
+performer nounB1 
+plot nounB1 
+preview verbB1 
+producer nounB1 
+scenery nounB1 
+script nounB1 
+set verbB1 
+setting nounB1 
+special effects nounB1 
+speech nounB1 
+stage nounB1 
+studio nounB1 
+superhero nounB1 
+superstar nounB1 
+thriller nounB1 
+western nounB1 
+
+LITERATURE AND WRITING
+blogger nounB1 
+chapter nounB1 
+conclusion nounB1 
+cover nounB1 
+direct speech nounB1 
+editor nounB1 
+entry nounB1 
+episode nounB1 
+excerpt nounB1 
+fairy tale nounB1 
+ghost story nounB1 
+glossary nounB1 
+historical adjectiveB1 
+horror story nounB1 
+indirect speech nounB1 
+journal nounB1 
+literature nounB1 
+message nounB1 
+mystery nounB1 
+narrative nounB1 
+original adjectiveB1 
+plot nounB1 
+poem nounB1 
+poet nounB1 
+poetry nounB1 
+publisher nounB1 
+quotation nounB1 
+quote verbB1 
+reviewer nounB1 
+setting nounB1 
+songwriter nounB1 
+superhero nounB1 
+theme nounB1 
+thriller nounB1
+
+MUSIC
+album nounB1 
+B nounB1 
+C nounB1 
+D nounB1 
+disco nounB1 
+drum nounB1 
+drummer nounB1 
+E nounB1 
+F nounB1 
+folk song nounB1 
+G nounB1 
+iPod nounB1 
+keyboard nounB1 
+live adjectiveB1 
+musical nounB1 
+performance nounB1 
+performer nounB1 
+record nounB1 
+songwriter nounB1 
+tape nounB1 
+tour verbB1 
+trumpet nounB1
+
+
+TV, RADIO AND NEWS
+ad nounB1 
+advice column nounB1 
+break nounB1 
+camerawoman nounB1 
+channel nounB1 
+commercial nounB1 
+digital television nounB1 
+documentary nounB1 
+editor nounB1 
+episode nounB1 
+evening paper nounB1 
+flat-screen adjectiveB1 
+game show nounB1 
+guest nounB1 
+headline nounB1 
+home cinema nounB1 
+home theater nounB1 
+host nounB1 
+item nounB1 
+journal nounB1 
+live adjectiveB1 
+network nounB1 
+newsreader nounB1 
+photographer nounB1 
+podcast nounB1 
+presenter nounB1 
+press nounB1 
+preview nounB1 
+preview verbB1 
+producer nounB1 
+repeat nounB1 
+show verbB1 
+soap opera nounB1 
+source nounB1 
+studio nounB1 
+talk show nounB1 
+view verbB1 
+viewer nounB1 
+weather forecast nounB1 
+wireless nounB1 
+
+FOOD AND DRINK
+COOKING AND EATING
+bake verbB1 
+barbecue nounB1 
+barbecue verbB1 
+butter knife nounB1 
+cafeteria nounB1 
+calorie nounB1 
+cookbook nounB1 
+cookery nounB1 
+cookery book nounB1 
+course nounB1 
+diet verbB1 
+dieter nounB1 
+fry verbB1 
+host nounB1 
+hot adjectiveB1 
+ingredient nounB1 
+kettle nounB1 
+light adjectiveB1 
+liquid nounB1 
+liter nounB1 
+lunch verbB1 
+main course nounB1 
+measure verbB1 
+microwave nounB1 
+microwave verbB1 
+mild adjectiveB1 
+mix verbB1 
+packed lunch nounB1 
+pan nounB1 
+paper towel nounB1 
+picnic nounB1 
+pot nounB1 
+pound nounB1 
+reservation nounB1 
+roast verbB1 
+saucepan nounB1 
+service nounB1 
+slice verbB1 
+spicy adjectiveB1 
+starter nounB1 
+strong adjectiveB1 
+tasty adjectiveB1 
+thick adjectiveB1 
+thin adjectiveB1 
+tin nounB1 
+tip nounB1 
+tip verbB1 
+toast verbB1 
+waitress nounB1 
+warm verbB1 
+washing-up nounB1 
+weigh verbB1 
+wine bar nounB1 
+wine list nounB1 
+wine waiter nounB1
+
+DRINKS
+alcohol nounB1 
+alcoholic adjectiveB1 
+champagne nounB1 
+fizzy adjectiveB1 
+kettle nounB1 
+lemonade nounB1 
+milky adjectiveB1 
+non-alcoholic adjectiveB1 
+pour verbB1 
+soda nounB1 
+teapot nounB1
+
+FOOD
+bacon nounB1 
+black pepper nounB1 
+bread roll nounB1 
+burger nounB1 
+cabbage nounB1 
+cheeseburger nounB1 
+corn nounB1 
+curry nounB1 
+flour nounB1 
+fruit salad nounB1 
+garlic nounB1 
+grain nounB1 
+grape nounB1 
+green nounB1 
+green bean nounB1 
+honey nounB1 
+lettuce nounB1 
+loaf nounB1 
+mint nounB1 
+olive nounB1 
+olive oil nounB1 
+pancake nounB1 
+peanut nounB1 
+peanut butter nounB1 
+pear nounB1 
+pineapple nounB1 
+red meat nounB1 
+roll nounB1 
+sausage meat nounB1 
+seafood nounB1 
+shoulder nounB1 
+spaghetti nounB1 
+steak nounB1 
+turkey nounB1 
+white nounB1 
+white flour nounB1 
+white meat nounB1 
+wing nounB1 
+yogurt nounB1
+
+FUNCTIONS
+DISCUSSION AND AGREEMENT
+accept verbB1 
+agreement nounB1 
+argue verbB1 
+commit verbB1 
+condition nounB1 
+convince verbB1 
+deal nounB1 
+encourage verbB1 
+persuade verbB1 
+pressure nounB1 
+surely adverbB1 
+united adjectiveB1
+
+DOUBT, GUESSING AND CERTAINTY
+as likely as not idiomB1
+canmodal verbB1 
+confident adjectiveB1 
+confidently adverbB1 
+couldmodal verbB1 
+definite adjectiveB1 
+doubt nounB1 
+doubt verbB1 
+expected adjectiveB1 
+imagine verbB1 
+judge verbB1 
+look verbB1 
+not necessarily idiomB1
+or somebody/something/somewhere idiomB1
+possibly adverbB1 
+prediction nounB1 
+sure adjectiveB1 
+surely adverbB1 
+truth nounB1 
+uncertain adjectiveB1 
+unclear adjectiveB1 
+unlikely adjectiveB1 
+unsure adjectiveB1 
+willmodal verbB1
+
+OPINION AND ARGUMENT
+absolutely adverbB1 
+advise verbB1 
+attitude nounB1 
+badly adverbB1 
+battle nounB1 
+belief nounB1 
+change your/somebody’s mind idiomB1
+claim verbB1 
+claim nounB1 
+comment verbB1 
+exactly adverbB1 
+examine verbB1 
+expression nounB1 
+fight verbB1 
+fight nounB1 
+fighting nounB1 
+gap nounB1 
+if conjunctionB1 
+if you like idiomB1
+impression nounB1 
+in favour (of somebody/something) idiomB1
+issue nounB1 
+judge nounB1 
+judge verbB1 
+like verbB1 
+like nounB1 
+negative adjectiveB1 
+nor conjunctionB1 
+personally adverbB1 
+point of view nounB1 
+positively adverbB1 
+protest nounB1 
+protest verbB1 
+prove verbB1 
+respect verbB1 
+reviewer nounB1 
+revise verbB1 
+say verbB1 
+see verbB1 
+strongly adverbB1 
+support verbB1 
+theory nounB1 
+while conjunctionB1
+
+PERMISSION AND OBLIGATION
+ban verbB1 
+ban nounB1 
+be supposed to do/be something idiomB1
+condition nounB1 
+illegal adjectiveB1 
+illegally adverbB1 
+legal adjectiveB1 
+legally adverbB1 
+non-smoking adjectiveB1 
+no-smoking adjectiveB1 
+order verbB1 
+
+PREFERENCES AND DECISIONS
+award verbB1 
+change your/somebody’s mind idiomB1
+determined adjectiveB1 
+dislike verbB1 
+dislike nounB1 
+enemy nounB1 
+hate nounB1 
+judge nounB1 
+keen adjectiveB1 
+like nounB1 
+mad adjectiveB1 
+passion nounB1 
+vote nounB1 
+whether nounB1 
+
+SUGGESTIONS AND ADVICE
+advice column nounB1 
+advise verbB1 
+adviser nounB1 
+better adverbB1 
+couldmodal verbB1 
+if I were you idiomB1
+I know idiomB1 
+mustmodal verbB1 
+opinion nounB1 
+ought tomodal verbB1 
+recommendation nounB1 
+rule nounB1 
+warn verbB1 
+why not? idiomB1
+
+HEALTH
+HEALTH AND FITNESS
+athlete nounB1 
+exercise bike nounB1 
+fitness nounB1 
+health club nounB1 
+jogger nounB1 
+PE nounB1 
+physical education nounB1 
+strength nounB1 
+walker nounB1
+
+ILLNESS
+alcoholic adjectiveB1 
+attack nounB1 
+bite nounB1 
+break verbB1 
+break nounB1 
+burnt adjectiveB1 
+catch verbB1 
+cough verbB1 
+cough nounB1 
+cut nounB1 
+develop verbB1 
+drunk adjectiveB1 
+injure verbB1 
+injured adjectiveB1 
+knock verbB1 
+mental adjectiveB1 
+mentally adverbB1 
+painful adjectiveB1 
+painfully adverbB1 
+pale adjectiveB1 
+poor adjectiveB1 
+pull verbB1 
+react verbB1 
+reject verbB1 
+seasick adjectiveB1 
+spot nounB1 
+spre adverbB1 
+suffer verbB1 
+sufferer nounB1 
+symptom nounB1 
+trouble nounB1 
+unwell adjectiveB1 
+upset adjectiveB1 
+upset verbB1 
+upset nounB1 
+victim nounB1 
+wheelchair nounB1 
+
+MEDICINE
+appointment nounB1 
+blood test nounB1 
+examine verbB1 
+family doctor nounB1 
+mental health nounB1 
+needle nounB1 
+op nounB1 
+operation nounB1 
+private adjectiveB1 
+quit verbB1 
+reject verbB1 
+tape verbB1 
+treat verbB1 
+treatment nounB1 
+wheelchair nounB1 
+
+HOMES AND BUILDINGS
+BUILDINGS
+apartment block nounB1 
+balcony nounB1 
+block nounB1 
+campus nounB1 
+cathedral nounB1 
+cottage nounB1 
+court nounB1 
+elevator nounB1 
+entrance nounB1 
+face verbB1 
+farm nounB1 
+frame nounB1 
+garage nounB1 
+hall nounB1 
+hostel nounB1 
+impressive adjectiveB1 
+indoor adjectiveB1 
+indoors adverbB1 
+level adjectiveB1 
+location nounB1 
+luxury adjectiveB1 
+mall nounB1 
+next door adverbB1 
+office block nounB1 
+outdoor adjectiveB1 
+plan nounB1 
+power station nounB1 
+private adjectiveB1 
+shopping mall nounB1 
+skyscraper nounB1 
+stadium nounB1 
+town hall nounB1
+
+GARDENS
+barbecue nounB1 
+fence nounB1 
+gardener nounB1 
+path nounB1 
+pot nounB1 
+seed nounB1 
+soil nounB1 
+water verbB1 
+yard nounB1 
+
+HOUSE AND HOMES
+accommodation nounB1 
+alarm nounB1 
+armchair nounB1 
+back door nounB1 
+balcony nounB1 
+burglar alarm nounB1 
+buyer nounB1 
+ceiling nounB1 
+chore nounB1 
+cleaning nounB1 
+cottage nounB1 
+curtain nounB1 
+decorate verbB1 
+entrance nounB1 
+farm nounB1 
+fire alarm nounB1 
+first-floor adjectiveB1 
+freezer nounB1 
+front door nounB1 
+furniture van nounB1 
+gadget nounB1 
+garage nounB1 
+heater nounB1 
+heating nounB1 
+indoor adjectiveB1 
+indoors adverbB1 
+iron nounB1 
+iron verbB1 
+ironing nounB1 
+move nounB1 
+outdoor adjectiveB1 
+outdoors adverbB1 
+pattern nounB1 
+refrigerator nounB1 
+rent nounB1 
+rent verbB1 
+rug nounB1 
+shelf nounB1 
+sink nounB1 
+solar panel nounB1 
+studio nounB1 
+study nounB1 
+(up) for sale idiomB1
+vase nounB1 
+wardrobe nounB1 
+washing-up nounB1 
+
+LEISURE
+GAMES AND TOYS
+cheat verbB1 
+cheat nounB1 
+chess nounB1 
+crossword nounB1 
+doll nounB1 
+doll’s house nounB1 
+go nounB1 
+level nounB1 
+loser nounB1 
+move nounB1 
+play nounB1 
+playground nounB1 
+skateboard nounB1 
+winning adjectiveB1
+
+HOBBIES
+cookery nounB1 
+explore verbB1 
+gardening nounB1 
+horseback riding nounB1 
+horse riding nounB1 
+jogger nounB1 
+leisure nounB1 
+national park nounB1 
+photography nounB1 
+poetry nounB1 
+riding nounB1 
+sculpture nounB1 
+stamp collecting nounB1 
+track nounB1
+
+SHOPPING
+afford verbB1 
+baker nounB1 
+buyer nounB1 
+chain nounB1 
+change nounB1 
+charge verbB1 
+cheque nounB1 
+coin nounB1 
+currency nounB1 
+deliver verbB1 
+department store nounB1 
+discount nounB1 
+gadget nounB1 
+goods nounB1 
+main street nounB1 
+mall nounB1 
+note nounB1 
+order nounB1 
+packaging nounB1 
+payment nounB1 
+queue nounB1 
+rate nounB1 
+receipt nounB1 
+return verbB1 
+sales slip nounB1 
+seller nounB1 
+service nounB1 
+shelf nounB1 
+shopper nounB1 
+shopping mall nounB1 
+tax nounB1 
+total nounB1 
+trade nounB1 
+unhelpful adjectiveB1 
+value nounB1 
+
+NOTIONS
+CHANGE, CAUSE AND EFFECT
+consequence nounB1 
+develop verbB1 
+development nounB1 
+drop verbB1 
+due nounB1 
+effective adjectiveB1 
+effectively adverbB1 
+expand verbB1 
+growing adjectiveB1 
+growth nounB1 
+improvement nounB1 
+increased adjectiveB1 
+indirect adjectiveB1 
+indirectly adverbB1 
+mean verbB1 
+produce verbB1 
+raise verbB1 
+reaction nounB1 
+result verbB1 
+rise nounB1 
+therefore adverbB1 
+trend nounB1 
+
+DANGER
+alarm nounB1 
+at risk idiomB1
+dangerously adverbB1 
+emergency nounB1 
+escape verbB1 
+escape nounB1 
+guard verbB1 
+mind verbB1 
+risk nounB1 
+risk verbB1 
+safety measure nounB1
+
+DIFFICULTY AND FAILURE
+badly adverbB1 
+battle nounB1 
+cost verbB1 
+difficulty nounB1 
+disadvantage nounB1 
+disappointing adjectiveB1 
+disappointingly adverbB1 
+unambitious adjectiveB1 
+unsuccessful adjectiveB1 
+unsuccessfully adverbB1 
+
+SUCCESS
+achievement nounB1 
+aim verbB1 
+aim nounB1 
+ambition nounB1 
+ambitious adjectiveB1 
+ambitiously adverbB1 
+battle nounB1 
+bright adjectiveB1 
+brilliantly adverbB1 
+compete verbB1 
+effective adjectiveB1 
+effectively adverbB1 
+effort nounB1 
+fight verbB1 
+fight nounB1 
+fighting nounB1 
+future nounB1 
+leading adjectiveB1 
+manage verbB1 
+management nounB1 
+positive adjectiveB1 
+practical adjectiveB1 
+promote verbB1 
+respect nounB1 
+respect verbB1 
+secret nounB1 
+successfully adverbB1 
+
+PEOPLE
+EDUCATION
+academic adjectiveB1 
+adult education nounB1 
+application nounB1 
+assignment nounB1 
+bell nounB1 
+blackboard nounB1 
+business school nounB1 
+business studies nounB1 
+campus nounB1 
+candidate nounB1 
+canteen nounB1 
+coach verbB1 
+diploma nounB1 
+doctor nounB1 
+Dr abbreviationB1
+educate verbB1 
+educated adjectiveB1 
+educational adjectiveB1 
+engineering nounB1 
+evening class nounB1 
+exchange nounB1 
+grad nounB1 
+grade nounB1 
+graduate nounB1 
+graduate verbB1 
+graduation nounB1 
+gymnastics nounB1 
+hall nounB1 
+higher education nounB1 
+information technology nounB1 
+laboratory nounB1 
+law nounB1 
+lecturer nounB1 
+mark verbB1 
+mark nounB1 
+medical school nounB1 
+memorize verbB1 
+night school nounB1 
+pass nounB1 
+PE nounB1 
+physical education nounB1 
+place nounB1 
+playground nounB1 
+politics nounB1 
+president nounB1 
+primary adjectiveB1 
+primary school nounB1 
+private school nounB1 
+programme nounB1 
+qualification nounB1 
+qualified adjectiveB1 
+qualify verbB1 
+report nounB1 
+revise verbB1 
+school-leaver nounB1 
+score verbB1 
+secondary school nounB1 
+semester nounB1 
+set verbB1 
+sports day nounB1 
+teaching assistant nounB1 
+term nounB1 
+tutor nounB1 
+whiteboard nounB1 
+written adjectiveB1
+
+FAMILY AND RELATIONSHIPS
+brother-in-law nounB1 
+close adjectiveB1 
+daughter-in-law nounB1 
+family tree nounB1 
+fancy verbB1 
+father-in-law nounB1 
+friendship nounB1 
+generation nounB1 
+kiss verbB1 
+kiss nounB1 
+love letter nounB1 
+love life nounB1 
+lover nounB1 
+middle name nounB1 
+mother-in-law nounB1 
+nickname nounB1 
+only child nounB1 
+parents-in-law nounB1 
+passion nounB1 
+related adjectiveB1 
+relation nounB1 
+relationship nounB1 
+relative nounB1 
+romantic adjectiveB1 
+separate verbB1 
+single-parent family nounB1 
+sister-in-law nounB1 
+sociable adjectiveB1 
+son-in-law nounB1
+
+FEELINGS
+alone adjectiveB1 
+amaze verbB1 
+amazed adjectiveB1 
+annoy verbB1 
+annoyed adjectiveB1 
+annoying adjectiveB1 
+attraction nounB1 
+bad adjectiveB1 
+belong verbB1 
+cheerful adjectiveB1 
+disappointed adjectiveB1 
+disappointing adjectiveB1 
+embarrassed adjectiveB1 
+embarrassing adjectiveB1 
+emotion nounB1 
+excitement nounB1 
+exhausted adjectiveB1 
+fancy verbB1 
+fear verbB1 
+fed up adjectiveB1 
+frightened adjectiveB1 
+glad adjectiveB1 
+grateful adjectiveB1 
+guilty adjectiveB1 
+happiness nounB1 
+hate nounB1 
+heart nounB1 
+horror nounB1 
+jealous adjectiveB1 
+jump verbB1 
+keen adjectiveB1 
+lonely adjectiveB1 
+mad adjectiveB1 
+painful adjectiveB1 
+passion nounB1 
+phobia nounB1 
+pleasure nounB1 
+proud adjectiveB1 
+red-faced adjectiveB1 
+routine nounB1 
+sadness nounB1 
+shy adjectiveB1 
+stressed adjectiveB1 
+tiredness nounB1 
+trouble nounB1 
+unhappiness nounB1 
+upset adjectiveB1 
+upset verbB1 
+wonder nounB1 
+wonderful adjectiveB1 
+worry nounB1
+
+LIFE STAGES
+bride nounB1 
+bury verbB1 
+ceremony nounB1 
+childhood nounB1 
+engaged adjectiveB1 
+groom nounB1 
+housewife nounB1 
+marriage nounB1 
+old age nounB1 
+playground nounB1 
+reception nounB1 
+retire verbB1 
+school day nounB1 
+single-parent family nounB1 
+unmarried adjectiveB1 
+youth nounB1
+
+PERSONAL QUALITIES
+academic adjectiveB1 
+ambitious adjectiveB1 
+annoying adjectiveB1 
+brave adjectiveB1 
+calm adjectiveB1 
+character nounB1 
+cheat verbB1 
+comfortable adjectiveB1 
+confident adjectiveB1 
+criminal adjectiveB1 
+cruel adjectiveB1 
+duty nounB1 
+experienced adjectiveB1 
+fake nounB1 
+fool verbB1 
+generous adjectiveB1 
+gentle adjectiveB1 
+grateful adjectiveB1 
+honest adjectiveB1 
+horrible adjectiveB1 
+independent adjectiveB1 
+invent verbB1 
+jealous adjectiveB1 
+keen adjectiveB1 
+kind adjectiveB1 
+kindness nounB1 
+lie verbB1 
+loud adjectiveB1 
+mad adjectiveB1 
+nervous adjectiveB1 
+organized adjectiveB1 
+outgoing adjectiveB1 
+pleasant adjectiveB1 
+positive adjectiveB1 
+pretend verbB1 
+professional adjectiveB1 
+proud adjectiveB1 
+quality nounB1 
+relaxed adjectiveB1 
+reliable adjectiveB1 
+selfish adjectiveB1 
+sensible adjectiveB1 
+shy adjectiveB1 
+silly adjectiveB1 
+slow adjectiveB1 
+smart adjectiveB1 
+sociable adjectiveB1 
+strong adjectiveB1 
+talented adjectiveB1 
+trick verbB1 
+understanding adjectiveB1 
+unfriendly adjectiveB1 
+warm adjectiveB1 
+welcoming adjectiveB1 
+wrong adjectiveB1 
+
+POLITICS AND SOCIETY
+CRIME AND PUNISHMENT
+arrest verbB1 
+arrest nounB1 
+attacker nounB1 
+bomb verbB1 
+bomber nounB1 
+break verbB1 
+burglar nounB1 
+burglary nounB1 
+burgle verbB1 
+case nounB1 
+clue nounB1 
+commit verbB1 
+criminal adjectiveB1 
+guard nounB1 
+hang verbB1 
+illegal adjectiveB1 
+illegally adverbB1 
+investigate verbB1 
+killer nounB1 
+killing nounB1 
+murder nounB1 
+murder verbB1 
+murderer nounB1 
+mystery nounB1 
+prisoner nounB1 
+punish verbB1 
+punishment nounB1 
+robber nounB1 
+shoot verbB1 
+victim nounB1 
+violent adjectiveB1 
+weapon nounB1 
+wrong nounB1
+
+LAW AND JUSTICE
+act nounB1 
+agreement nounB1 
+case nounB1 
+claim verbB1 
+court nounB1 
+criminal adjectiveB1 
+guilty adjectiveB1 
+illegal adjectiveB1 
+illegally adverbB1 
+innocent adjectiveB1 
+judge nounB1 
+legal adjectiveB1 
+legally adverbB1 
+marriage nounB1 
+order nounB1 
+police department nounB1 
+police dog nounB1 
+police force nounB1 
+represent verbB1 
+respect verbB1 
+right nounB1 
+security nounB1 
+statement nounB1
+
+PEOPLE IN SOCIETY
+captain nounB1 
+class nounB1 
+generation nounB1 
+global adjectiveB1 
+he adverbB1 
+lower class adjectiveB1 
+prince nounB1 
+princess nounB1 
+race nounB1 
+represent verbB1 
+social adjectiveB1 
+the upper class nounB1 
+the working class nounB1 
+upper class adjectiveB1 
+working class adjectiveB1
+
+POLITICS
+act nounB1 
+border nounB1 
+campaign nounB1 
+economy nounB1 
+election nounB1 
+EU abbreviationB1 
+green adjectiveB1 
+internationally adverbB1 
+left nounB1 
+Member of Parliament nounB1 
+movement nounB1 
+MP nounB1 
+party nounB1 
+policy nounB1 
+political adjectiveB1 
+politically adverbB1 
+politician nounB1 
+politics nounB1 
+prime minister nounB1 
+relation nounB1 
+rule verbB1 
+ruler nounB1 
+state adjectiveB1 
+the European Union nounB1 
+the United Nations nounB1 
+supporter nounB1 
+town hall nounB1 
+trade nounB1 
+vote nounB1 
+vote verbB1 
+voter nounB1 
+
+RELIGION AND FESTIVALS
+belief nounB1 
+bury verbB1 
+cathedral nounB1 
+celebration nounB1 
+ceremony nounB1 
+custom nounB1 
+Easter nounB1 
+marriage nounB1 
+pray nounB1 
+prayer nounB1 
+priest nounB1 
+religion nounB1 
+religious adjectiveB1 
+thanksgiving nounB1
+
+SOCIAL ISSUES
+accept verbB1 
+alcohol nounB1 
+alcoholic adjectiveB1 
+assist verbB1 
+donate verbB1 
+drinking nounB1 
+drunk adjectiveB1 
+equal adjectiveB1 
+fire verbB1 
+helper nounB1 
+immigrant nounB1 
+issue nounB1 
+movement nounB1 
+poverty nounB1 
+protest nounB1 
+protest verbB1 
+quit verbB1 
+raise verbB1 
+reaction nounB1 
+right nounB1 
+smoke nounB1 
+smoker nounB1 
+social adjectiveB1 
+tablet nounB1 
+unemployed adjectiveB1 
+unemployment nounB1 
+victim nounB1 
+volunteer nounB1 
+volunteer verbB1 
+
+WAR AND CONFLICT
+agreement nounB1 
+base nounB1 
+battle nounB1 
+bomb nounB1 
+bomb verbB1 
+captain nounB1 
+damage verbB1 
+deal nounB1 
+enemy nounB1 
+explode verbB1 
+explosion nounB1 
+fire verbB1 
+force nounB1 
+guard nounB1 
+guard verbB1 
+nuclear adjectiveB1 
+order nounB1 
+order verbB1 
+sailor nounB1 
+shoot nounB1 
+sink verbB1 
+take verbB1 
+target nounB1 
+weapon nounB1 
+
+SCIENCE AND TECHNOLOGY
+BIOLOGY
+biologist nounB1 
+cycle nounB1 
+divide verbB1 
+
+
+COMPUTERS
+access verbB1 
+chip nounB1 
+click verbB1 
+click nounB1 
+computing nounB1 
+error message nounB1 
+file nounB1 
+flat-screen adjectiveB1 
+information technology nounB1 
+iPod™ nounB1 
+IT nounB1 
+key nounB1 
+keyboard nounB1 
+login nounB1 
+program verbB1 
+programmer nounB1 
+quit verbB1 
+software nounB1 
+system nounB1 
+type verbB1 
+username nounB1 
+Wi-Fi™ nounB1 
+window nounB1 
+wireless adjectiveB1
+
+ENGINEERING
+battery nounB1 
+engineering nounB1 
+gadget nounB1 
+high-tech adjectiveB1 
+hi-tech adjectiveB1 
+press verbB1 
+robot nounB1 
+technical adjectiveB1 
+turbine nounB1 
+
+MATH AND MEASUREMENT
+addition nounB1 
+calorie nounB1 
+count nounB1 
+divide verbB1 
+equallinking verbB1 
+length nounB1 
+literB1 
+measure verbB1 
+milligram nounB1 
+millilitre nounB1 
+millimetre nounB1 
+minus prepositionB1 
+minus nounB1 
+ml abbreviationB1 
+mm abbreviationB1
+percentage nounB1 
+plus prepositionB1 
+point nounB1 
+pound nounB1 
+sign nounB1 
+statistic nounB1 
+stats nounB1 
+times prepositionB1 
+total nounB1 
+weighlinking verbB1 
+yard nounB1
+
+PHYSICS AND CHEMISTRY
+alcohol nounB1 
+bend verbB1 
+block nounB1 
+charge verbB1 
+chemical adjectiveB1 
+chemical nounB1 
+chemist nounB1 
+expand verbB1 
+force nounB1 
+iron nounB1 
+liquid nounB1 
+nuclear adjectiveB1 
+nuclear energy nounB1 
+nuclear power nounB1 
+physicist nounB1 
+pull nounB1 
+reaction nounB1 
+reflect verbB1 
+sand nounB1 
+sheet nounB1 
+solid nounB1 
+stick verbB1 
+substance nounB1 
+wave nounB1
+
+SCIENTIFIC RESEARCH 
+analyse verbB1 
+analysis nounB1 
+conclude verbB1 
+conclusion nounB1 
+confirm verbB1 
+determine verbB1 
+development nounB1 
+engineering nounB1 
+experiment verbB1 
+journal nounB1 
+laboratory nounB1 
+prove verbB1 
+scientific adjectiveB1 
+statistic nounB1 
+stats nounB1 
+study nounB1 
+study verbB1 
+theory nounB1
+
+SPORT
+SPORT: BALL AND RACKET SPORTS
+captain nounB1 
+competing adjectiveB1 
+course nounB1 
+court nounB1 
+cricketer nounB1 
+flag nounB1 
+footballer nounB1 
+footballing adjectiveB1 
+friendly adjectiveB1 
+goalkeeper nounB1 
+golfer nounB1 
+half-time nounB1 
+hole nounB1 
+pass verbB1 
+play nounB1 
+qualification nounB1 
+qualify verbB1 
+racket nounB1 
+rugby nounB1 
+save verbB1 
+save nounB1 
+stadium nounB1 
+tennis racket nounB1 
+
+SPORTS: OTHER SPORTS
+athletic adjectiveB1 
+athletics nounB1 
+bicycle verbB1 
+bike verbB1 
+champion nounB1 
+climber nounB1 
+coach verbB1 
+competitive adjectiveB1 
+competitor nounB1 
+cyclist nounB1 
+enter verbB1 
+event nounB1 
+extreme sport nounB1 
+gold medal nounB1 
+gymnastics nounB1 
+high jump nounB1 
+horseback riding nounB1 
+horse racing nounB1 
+horse riding nounB1 
+hunt verbB1 
+ice skate nounB1 
+ice-skate verbB1 
+ice skating nounB1 
+karate nounB1 
+lead nounB1 
+leader nounB1 
+long jump nounB1 
+Olympic adjectiveB1 
+racehorse nounB1 
+racing nounB1 
+record holder nounB1 
+rider nounB1 
+riding nounB1 
+rock climbing nounB1 
+silver medal nounB1 
+skate verbB1 
+skating nounB1 
+skier nounB1 
+snowboarding nounB1 
+sportsman nounB1 
+sportswoman nounB1 
+the Olympic Games nounB1 
+tire nounB1 
+track nounB1 
+trainer nounB1 
+tyre nounB1 
+water jump nounB1
+
+SPORTS: WATER SPORTS
+deep-sea adjectiveB1 
+deep-water adjectiveB1 
+diver nounB1 
+diving board nounB1 
+sailor nounB1 
+surf verbB1 
+surfboard nounB1 
+surfer nounB1 
+surfing nounB1 
+swimming cap nounB1 
+swimming costume nounB1 
+swimming trunks nounB1 
+swimsuit nounB1
+
+THE NATURAL WORLD
+FARMING
+bean nounB1 
+corn nounB1 
+cotton nounB1 
+earth nounB1 
+fence nounB1 
+fish farm nounB1 
+grain nounB1 
+pick verbB1 
+producer nounB1 
+ranch nounB1 
+seed nounB1 
+soil nounB1 
+water verbB1 
+
+GEOGRAPHY
+Antarctic adjectiveB1 
+Antarctica nounB1 
+Arctic adjectiveB1 
+Arctic nounB1 
+bank nounB1 
+bend nounB1 
+coastline nounB1 
+countryside nounB1 
+eastern adjectiveB1 
+farmland nounB1 
+flood nounB1 
+flood verbB1 
+geographical adjectiveB1 
+grassland nounB1 
+jungle nounB1 
+mud nounB1 
+north-eastern adjectiveB1 
+northern adjectiveB1 
+north-western adjectiveB1 
+port nounB1 
+sand nounB1 
+seaside nounB1 
+seaside adjectiveB1 
+south-eastern adjectiveB1 
+southern adjectiveB1 
+south-western adjectiveB1 
+volcano nounB1 
+waterfall nounB1 
+western adjectiveB1 
+woodland nounB1
+
+PLANTS AND TREES
+branch nounB1 
+leaf nounB1 
+mint nounB1 
+ring nounB1 
+seed nounB1
+
+THE ENVIRONMENT
+nuclear adjectiveB1 
+nuclear energy nounB1 
+nuclear power nounB1 
+poisonous adjectiveB1 
+pollute verbB1 
+power station nounB1 
+renewable adjectiveB1 
+resource nounB1 
+sandstorm nounB1 
+solar panel nounB1 
+tornado nounB1 
+turbine nounB1 
+volcano nounB1 
+waste nounB1 
+windstorm nounB1 
+wind turbine nounB1 
+
+WEATHER
+atmosphere nounB1 
+calm adjectiveB1 
+cloudy adjectiveB1 
+cold nounB1 
+cool nounB1 
+fine adjectiveB1 
+flood nounB1 
+flood verbB1 
+freeze verbB1 
+freezing adjectiveB1 
+horrible adjectiveB1 
+hurricane nounB1 
+lightning nounB1 
+mild adjectiveB1 
+pour verbB1 
+powder nounB1 
+rainfall nounB1 
+rainstorm nounB1 
+rainwater nounB1 
+shower nounB1 
+snowfall nounB1 
+snowstorm nounB1 
+strong adjectiveB1 
+sunshine nounB1 
+tornado nounB1 
+warm verbB1 
+weather forecast nounB1
+
+TIME AND SPACE
+
+
+HISTORY
+art history nounB1 
+battle nounB1 
+costume nounB1 
+day nounB1 
+explorer nounB1 
+generation nounB1 
+historic adjectiveB1 
+historical adjectiveB1 
+historically adverbB1 
+
+SPACE
+astronaut nounB1 
+atmosphere nounB1 
+Mars nounB1 
+moonlight nounB1 
+shine verbB1 
+spaceship nounB1 
+space station nounB1 
+sunlight nounB1 
+
+TIME
+continuous adjectiveB1 
+continuously adverbB1 
+daily adverbB1 
+daylight nounB1 
+daytime nounB1 
+decade nounB1 
+eventually adverbB1 
+far adverbB1 
+half hour nounB1 
+immediate adjectiveB1 
+in future idiomB1
+in time (for something/to do something) idiomB1
+midday nounB1 
+near prepositionB1 
+night-time nounB1 
+rare adjectiveB1 
+semester nounB1 
+springtime nounB1 
+sudden adjectiveB1 
+summertime nounB1 
+term nounB1 
+throughout prepositionB1 
+weekday nounB1 
+while nounB1 
+wintertime nounB1
+
+TRAVEL
+HOLIDAYS
+accommodation nounB1 
+backpack nounB1 
+break nounB1 
+brochure nounB1 
+campfire nounB1 
+campsite nounB1 
+check-in nounB1 
+cottage nounB1 
+currency nounB1 
+day out nounB1 
+day trip nounB1 
+destination nounB1 
+double nounB1 
+exchange nounB1 
+explore verbB1 
+family room nounB1 
+front desk nounB1 
+holiday camp nounB1 
+hostel nounB1 
+reservation nounB1 
+road trip nounB1 
+safari nounB1 
+sand nounB1 
+seaside nounB1 
+seaside adjectiveB1 
+sight nounB1 
+sleeping bag nounB1 
+sunbathe verbB1 
+tent nounB1 
+theme park nounB1 
+unpack verbB1 
+youth hostel nounB1 
+
+TRANSPORT BY AIR
+airfare nounB1 
+airsick adjectiveB1 
+airsickness nounB1 
+arrival nounB1 
+board nounB1 
+business class nounB1 
+business class adverbB1 
+captain nounB1 
+check-in nounB1 
+class nounB1 
+departure nounB1 
+engineer nounB1 
+first-class adjectiveB1 
+first class nounB1 
+first class adverbB1 
+flight attendant nounB1 
+hand baggage nounB1 
+hand luggage nounB1 
+helicopter nounB1 
+nose nounB1 
+reservation nounB1 
+safety belt nounB1 
+seaplane nounB1 
+seat belt nounB1 
+security nounB1 
+spaceship nounB1 
+tail nounB1 
+travel-sick adjectiveB1 
+travel sickness nounB1 
+wing nounB1 
+
+TRANSPORT BY BUS AND TRAIN
+board nounB1 
+bus pass nounB1 
+class nounB1 
+commute verbB1 
+commute nounB1 
+departure nounB1 
+express nounB1 
+first class nounB1 
+first class adverbB1 
+non-stop adjectiveB1 
+one-way adjectiveB1 
+pass nounB1 
+railroad nounB1 
+reservation nounB1 
+return nounB1 
+return ticket nounB1 
+run verbB1 
+second class nounB1 
+stopping train nounB1 
+third class adverbB1 
+truck nounB1
+
+TRANSPORT BY CAR OR LORRY
+battery nounB1 
+bend nounB1 
+bike verbB1 
+block nounB1 
+block verbB1 
+car seat nounB1 
+carsick adjectiveB1 
+carsickness nounB1 
+car wash nounB1 
+commute verbB1 
+company car nounB1 
+cyclist nounB1 
+divide verbB1 
+driverless adjectiveB1 
+driving test nounB1 
+furniture van nounB1 
+garage nounB1 
+gas station nounB1 
+main street nounB1 
+passenger seat nounB1 
+petrol station nounB1 
+queue nounB1 
+race car nounB1 
+racing car nounB1 
+red light nounB1 
+repair nounB1 
+rider nounB1 
+road sign nounB1 
+road trip nounB1 
+safety belt nounB1 
+seat belt nounB1 
+signal nounB1 
+slow verbB1 
+speed camera nounB1 
+speed limit nounB1 
+sports car nounB1 
+street light nounB1 
+surface nounB1 
+tire nounB1 
+track nounB1 
+traffic light nounB1 
+tram nounB1 
+travel-sick adjectiveB1 
+travel sickness nounB1 
+tyre nounB1 
+used adjectiveB1
+
+TRANSPORT BY WATER
+at sea idiomB1
+board nounB1 
+bottom nounB1 
+captain nounB1 
+engineer nounB1 
+ferry nounB1 
+ferry boat nounB1 
+port nounB1 
+sailor nounB1 
+seasick adjectiveB1 
+second-class adjectiveB1 
+third class nounB1 
+third-class adjectiveB1 
+wheel nounB1
+
+WORK AND BUSINESS
+
+BUSINESS
+ad nounB1 
+agent nounB1 
+agreement nounB1 
+brand nounB1 
+campaign nounB1 
+client nounB1 
+commercial adjectiveB1 
+compete verbB1 
+competition nounB1 
+competitive adjectiveB1 
+competitor nounB1 
+consumer nounB1 
+deal nounB1 
+discount nounB1 
+expand verbB1 
+financial adjectiveB1 
+goods nounB1 
+group nounB1 
+invest verbB1 
+labor union nounB1 
+management nounB1 
+market verbB1 
+marketing nounB1 
+order nounB1 
+partner nounB1 
+plant nounB1 
+pressure nounB1 
+production nounB1 
+profit nounB1 
+promote verbB1 
+receipt nounB1 
+reject verbB1 
+robot nounB1 
+run verbB1 
+sales slip nounB1 
+shift nounB1 
+staff nounB1 
+trader nounB1 
+trade union nounB1 
+union nounB1
+
+JOBS
+academic adjectiveB1 
+adviser nounB1 
+agent nounB1 
+astronaut nounB1 
+attendant nounB1 
+baker nounB1 
+diver nounB1 
+editor nounB1 
+employment nounB1 
+engineering nounB1 
+flight attendant nounB1 
+garbage man nounB1 
+gardener nounB1 
+guard nounB1 
+housewife nounB1 
+judge nounB1 
+lecturer nounB1 
+mailman nounB1 
+marketing nounB1 
+Member of Parliament nounB1 
+MP nounB1 
+newsreader nounB1 
+partner nounB1 
+photographer nounB1 
+politician nounB1 
+postman nounB1 
+presenter nounB1 
+president nounB1 
+producer nounB1 
+profession nounB1 
+professional adjectiveB1 
+programmer nounB1 
+promote verbB1 
+qualified adjectiveB1 
+retire verbB1 
+retired adjectiveB1 
+sailor nounB1 
+scientific adjectiveB1 
+secret agent nounB1 
+servant nounB1 
+songwriter nounB1 
+sportsman nounB1 
+sportswoman nounB1 
+supermodel nounB1 
+title nounB1 
+trader nounB1 
+translator nounB1 
+tutor nounB1 
+unqualified adjectiveB1 
+unskilled adjectiveB1 
+waitress nounB1 
+window cleaner nounB1 
+workman nounB1
+
+MONEY
+account nounB1 
+adviser nounB1 
+balance nounB1 
+bank account nounB1 
+banking nounB1 
+borrower nounB1 
+cash machine nounB1 
+change nounB1 
+charge nounB1 
+charge verbB1 
+check nounB1 
+cheque nounB1 
+coin nounB1 
+currency nounB1 
+cut verbB1 
+cut nounB1 
+cycle nounB1 
+developing adjectiveB1 
+discount nounB1 
+donate verbB1 
+economic adjectiveB1 
+economy nounB1 
+employment nounB1 
+exchange nounB1 
+exchange verbB1 
+expand verbB1 
+export nounB1 
+export verbB1 
+financial adjectiveB1 
+fixed adjectiveB1 
+generous adjectiveB1 
+global adjectiveB1 
+growth nounB1 
+import nounB1 
+import verbB1 
+interest nounB1 
+invest verbB1 
+lender nounB1 
+market nounB1 
+millionaire nounB1 
+note nounB1 
+payment nounB1 
+pocket money nounB1 
+poverty nounB1 
+raise verbB1 
+rate nounB1 
+receipt nounB1 
+rent nounB1 
+rent verbB1 
+rise nounB1 
+sales slip nounB1 
+saver nounB1 
+spending nounB1 
+support verbB1 
+tax nounB1 
+tax verbB1 
+tip nounB1 
+tip verbB1 
+trade nounB1 
+trade verbB1 
+trend nounB1 
+valuable adjectiveB1 
+value nounB1 
+weak adjectiveB1 
+win verbB1 
+worth adjectiveB1 
+worth nounB1
+
+WORKING LIFE
+application nounB1 
+appointment nounB1 
+call verbB1 
+candidate nounB1 
+competitive adjectiveB1 
+condition nounB1 
+CV nounB1 
+file nounB1 
+hire verbB1 
+hold verbB1 
+labor union nounB1 
+light adjectiveB1 
+lunch hour nounB1 
+professional adjectiveB1 
+qualification nounB1 
+qualified adjectiveB1 
+stressful adjectiveB1 
+trade union nounB1
+union nounB1 
+work day nounB1 
+work experience nounB1
+
+
+
+
