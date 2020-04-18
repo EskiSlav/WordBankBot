@@ -1,0 +1,526 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: api.telegram.org
+ERROR:TeleBot:ReadTimeout occurred, args=(ReadTimeoutError("HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)"),)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/packages/urllib3/connectionpool.py", line 372, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/packages/urllib3/connectionpool.py", line 374, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.8/http/client.py", line 1322, in getresponse
+    response.begin()
+  File "/usr/lib/python3.8/http/client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.8/http/client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/adapters.py", line 360, in send
+    resp = conn.urlopen(
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/packages/urllib3/connectionpool.py", line 596, in urlopen
+    retries = retries.increment(method, url, error=e, _pool=self,
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/packages/urllib3/util/retry.py", line 245, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/packages/urllib3/packages/six.py", line 310, in reraise
+    raise value
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/packages/urllib3/connectionpool.py", line 542, in urlopen
+    httplib_response = self._make_request(conn, method, url,
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/packages/urllib3/connectionpool.py", line 304, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+requests.packages.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 279, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 249, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 194, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 57, in _make_request
+    result = _get_req_session().request(method, request_url, params=params, files=files,
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/sessions.py", line 465, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/sessions.py", line 573, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/eski/.local/lib/python3.8/site-packages/requests/adapters.py", line 433, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:UndefinedColumn occurred, args=('column "level" does not exist\nLINE 1: ... audio_id FROM themes WHERE theme = \'ANIMALS\' AND level=\'a1\'...\n                                                             ^\n',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 160, in ff
+    add_audio_to_database(message.chat.id, message.caption, message.audio.file_id)
+  File "main.py", line 65, in add_audio_to_database
+    curr.execute("SELECT audio_id FROM themes WHERE theme = %s AND level=%s;", (caption, level,))
+psycopg2.errors.UndefinedColumn: column "level" does not exist
+LINE 1: ... audio_id FROM themes WHERE theme = 'ANIMALS' AND level='a1'...
+                                                             ^
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDHl6a2mVJtHzIAa6TAZsM-qTNRC_ZAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:AttributeError occurred, args=("'Message' object has no attribute 'chat_id'",)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 280, in __retrieve_updates
+    self.process_new_updates(updates)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 317, in process_new_updates
+    self.process_new_messages(new_messages)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 339, in process_new_messages
+    self._notify_command_handlers(self.message_handlers, new_messages)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 1801, in _notify_command_handlers
+    if self._test_message_handler(message_handler, message):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 1769, in _test_message_handler
+    if not self._test_filter(filter, filter_value, message):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 1790, in _test_filter
+    return test_cases.get(filter, lambda msg: False)(message)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 1787, in <lambda>
+    'func': lambda msg: filter_value(msg)
+  File "main.py", line 177, in <lambda>
+    @bot.message_handler(content_types=['text'], func=lambda message: is_user_status(message.chat_id, SELECTING_SECTION_A1))
+AttributeError: 'Message' object has no attribute 'chat_id'
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDI16a2tLT9qRi7MUXBtJbPYQjJ60EAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDJ16a2wSc5jDOZ2isSiA86m8XhTXAAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:TypeError occurred, args=("object of type 'builtin_function_or_method' has no len()",)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 161, in ff
+    add_audio_to_database(message.chat.id, message.caption, message.audio.file_id)
+  File "main.py", line 69, in add_audio_to_database
+    if len(res) == 0:
+TypeError: object of type 'builtin_function_or_method' has no len()
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDLF6a2zjZPpoFF26eJN9aqqxekq5tAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDMF6a22Q6j5thyAWA2Xusdy-vrR5xAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDNF6a3Evo6bGmXSKgsrBy4XP9PMooAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDOF6a3HeG243ANchaF-zY8cnAW-_ZAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDPF6a3JhrojHWYy8eUYTPQJ-zR2ChAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDQF6a3KQG7FV_za4mLbEFP-WBKNvuAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDRF6a3U0ppJYBbUW6l333rZPgnuOOAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:UndefinedColumn occurred, args=('column "file_id" of relation "audios" does not exist\nLINE 1: INSERT INTO audios(caption, file_id) VALUES(\'ANIMALS\', \'CQAC...\n                                    ^\n',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 159, in ff
+    add_audio_to_database(message.chat.id, message.caption, message.audio.file_id)
+  File "main.py", line 69, in add_audio_to_database
+    curr.execute("INSERT INTO audios(caption, file_id) VALUES(%s, %s);", (caption, file_id,))
+psycopg2.errors.UndefinedColumn: column "file_id" of relation "audios" does not exist
+LINE 1: INSERT INTO audios(caption, file_id) VALUES('ANIMALS', 'CQAC...
+                                    ^
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:UndefinedTable occurred, args=('relation "audio" does not exist\nLINE 1: UPDATE themes SET audio_id=(SELECT id FROM audio WHERE audio...\n                                                   ^\n',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 159, in ff
+    add_audio_to_database(message.chat.id, message.caption, message.audio.file_id)
+  File "main.py", line 70, in add_audio_to_database
+    curr.execute("UPDATE themes SET audio_id=(SELECT id FROM audio WHERE audio_id=%s) WHERE theme=%s;", (audio_id, caption,))
+psycopg2.errors.UndefinedTable: relation "audio" does not exist
+LINE 1: UPDATE themes SET audio_id=(SELECT id FROM audio WHERE audio...
+                                                   ^
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:New audio was added: User:394773843, CQACAgIAAxkBAAIDTF6a3hijCRuHnXlTq4OV4KGEFHUlAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+ERROR:TeleBot:AmbiguousColumn occurred, args=('column reference "audio_id" is ambiguous\nLINE 1: SELECT audio_id FROM themes t LEFT JOIN audios a ON t.audio_...\n               ^\n',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 177, in send_audio_subsection
+    send_audio_name(message.chat.id, message.text)
+  File "main.py", line 107, in send_audio_name
+    audio_id = get_audio_id(user_id, caption)
+  File "main.py", line 101, in get_audio_id
+    curr.execute("SELECT audio_id FROM themes t LEFT JOIN audios a ON t.audio_id=a.id LEFT JOIN levels l ON t.level_id=l.id WHERE t.theme=%s AND l.level=%s;", (caption,level,))
+psycopg2.errors.AmbiguousColumn: column reference "audio_id" is ambiguous
+LINE 1: SELECT audio_id FROM themes t LEFT JOIN audios a ON t.audio_...
+               ^
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:This audio was added earlier!: User:394773843, CQACAgIAAxkBAAIDV16a3kpcbbmyyyCCmR3Ct6a-dt1dAAJwCQACE265SFL1RlPPGOZ6GAQ A1 animals
+ERROR:TeleBot:UndefinedTable occurred, args=('missing FROM-clause entry for table "l"\nLINE 1: ...ON t.id=w.theme_id LEFT JOIN levels ON t.level_id=l.id WHERE...\n                                                             ^\n',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 178, in send_audio_subsection
+    send_words(message.chat.id, message.text)
+  File "main.py", line 125, in send_words
+    words = get_words(user_id, caption)
+  File "main.py", line 119, in get_words
+    curr.execute("SELECT w.word FROM words w LEFT JOIN themes t ON t.id=w.theme_id LEFT JOIN levels ON t.level_id=l.id WHERE t.theme=%s AND l.level=%s", (caption,level,))
+psycopg2.errors.UndefinedTable: missing FROM-clause entry for table "l"
+LINE 1: ...ON t.id=w.theme_id LEFT JOIN levels ON t.level_id=l.id WHERE...
+                                                             ^
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:TypeError occurred, args=('sequence item 0: expected str instance, tuple found',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 178, in send_audio_subsection
+    send_words(message.chat.id, message.text)
+  File "main.py", line 127, in send_words
+    words_message = '\n'.join(words)
+TypeError: sequence item 0: expected str instance, tuple found
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:TypeError occurred, args=('can only concatenate tuple (not "str") to tuple',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 180, in send_audio_subsection
+    send_words(message.chat.id, message.text)
+  File "main.py", line 129, in send_words
+    words_message += word + '\n'
+TypeError: can only concatenate tuple (not "str") to tuple
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+ERROR:TeleBot:ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}\']',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 180, in send_audio_subsection
+    send_words(message.chat.id, message.text)
+  File "main.py", line 130, in send_words
+    bot.send_message(user_id, words_message)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 600, in send_message
+    apihelper.send_message(self.token, chat_id, text, disable_web_page_preview, reply_to_message_id,
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 154, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+
+ERROR:TeleBot:A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+ERROR:TeleBot:ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}\']',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 182, in send_audio_subsection
+    send_words(message.chat.id, message.text)
+  File "main.py", line 132, in send_words
+    bot.send_message(user_id, words_message)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 600, in send_message
+    apihelper.send_message(self.token, chat_id, text, disable_web_page_preview, reply_to_message_id,
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 154, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+
+ERROR:TeleBot:A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+INFO:User Creator:Requested audio does not exist
+ERROR:TeleBot:ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}\']',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 182, in send_audio_subsection
+    send_words(message.chat.id, message.text)
+  File "main.py", line 132, in send_words
+    bot.send_message(user_id, words_message)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 600, in send_message
+    apihelper.send_message(self.token, chat_id, text, disable_web_page_preview, reply_to_message_id,
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 154, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+
+ERROR:TeleBot:A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+ERROR:TeleBot:ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}\']',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 186, in send_audio_and_words_subsection
+    send_words(message.chat.id, message.text)
+  File "main.py", line 132, in send_words
+    bot.send_message(user_id, words_message)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 600, in send_message
+    apihelper.send_message(self.token, chat_id, text, disable_web_page_preview, reply_to_message_id,
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 154, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+
+ERROR:TeleBot:A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+ERROR:TeleBot:ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:\n[b\'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}\']',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 186, in send_audio_and_words_subsection
+    send_words(message.chat.id, message.text)
+  File "main.py", line 132, in send_words
+    bot.send_message(user_id, words_message)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/__init__.py", line 600, in send_message
+    apihelper.send_message(self.token, chat_id, text, disable_web_page_preview, reply_to_message_id,
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 154, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 60, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/apihelper.py", line 79, in _check_result
+    raise ApiException(msg, method_name, result)
+telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+
+ERROR:TeleBot:A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}']
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:Requested theme does not exist
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:Requested theme does not exist
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:Requested theme does not exist
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:Requested theme does not exist
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:Requested theme does not exist
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:new user has been created: 394773843 EskiSlav
+ERROR:TeleBot:ProgrammingError occurred, args=("can't adapt type 'builtin_function_or_method'",)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 254, in main_menu_handler
+    bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=generate_themes_keyboard(message.chat.id))
+  File "main.py", line 158, in generate_themes_keyboard
+    user_status = get_user_status(user_id)
+  File "main.py", line 42, in get_user_status
+    curr.execute("SELECT status FROM users WHERE user_id=%s", (id,))
+psycopg2.ProgrammingError: can't adapt type 'builtin_function_or_method'
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Such user already exists: 394773843 EskiSlav
+ERROR:TeleBot:AttributeError occurred, args=("'tuple' object has no attribute 'to_dic'",)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 256, in main_menu_handler
+    bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=generate_themes_keyboard(message.chat.id))
+  File "main.py", line 169, in generate_themes_keyboard
+    keyboard.add(theme)
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/types.py", line 783, in add
+    row.append(button.to_dic())
+AttributeError: 'tuple' object has no attribute 'to_dic'
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Such user already exists: 394773843 EskiSlav
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Such user already exists: 394773843 EskiSlav
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Such user already exists: 394773843 EskiSlav
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Such user already exists: 394773843 EskiSlav
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:UndefinedColumn occurred, args=('column w.theme_id does not exist\nLINE 1: ...w.word FROM words w LEFT JOIN subthemes t ON t.id=w.theme_id...\n                                                             ^\nHINT:  Perhaps you meant to reference the column "t.theme_id".\n',)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 271, in subtheme_handler
+    send_words(message.chat.id, message.text)
+  File "main.py", line 143, in send_words
+    words = get_words(user_id, caption)
+  File "main.py", line 137, in get_words
+    curr.execute("SELECT w.word FROM words w LEFT JOIN subthemes t ON t.id=w.theme_id LEFT JOIN levels l ON t.level_id=l.id WHERE t.theme=%s AND l.level=%s", (caption,level,))
+psycopg2.errors.UndefinedColumn: column w.theme_id does not exist
+LINE 1: ...w.word FROM words w LEFT JOIN subthemes t ON t.id=w.theme_id...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "t.theme_id".
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Such user already exists: 394773843 EskiSlav
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:UndefinedColumn occurred, args=("column t.theme does not exist\nLINE 1: ...=a.id LEFT JOIN levels l ON t.level_id=l.id WHERE t.theme='A...\n                                                             ^\n",)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 272, in subtheme_handler
+    send_audio_name(message.chat.id, message.text)
+  File "main.py", line 124, in send_audio_name
+    audio_id = get_audio_id(user_id, caption)
+  File "main.py", line 118, in get_audio_id
+    curr.execute("SELECT a.audio_id FROM subthemes t LEFT JOIN audios a ON t.audio_id=a.id LEFT JOIN levels l ON t.level_id=l.id WHERE t.theme=%s AND l.level=%s;", (caption,level,))
+psycopg2.errors.UndefinedColumn: column t.theme does not exist
+LINE 1: ...=a.id LEFT JOIN levels l ON t.level_id=l.id WHERE t.theme='A...
+                                                             ^
+
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Such user already exists: 394773843 EskiSlav
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:Requested theme does not exist
+INFO:User Creator:Requested audio does not exist
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:AttributeError occurred, args=("'Message' object has no attribute 'char'",)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 267, in send_subsection_keyboard
+    change_status(message.char.id, MAIN_MENU)
+AttributeError: 'Message' object has no attribute 'char'
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+ERROR:TeleBot:AttributeError occurred, args=("'list' object has no attribute 'to_dic'",)
+Traceback (most recent call last):
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/util.py", line 60, in run
+    task(*args, **kwargs)
+  File "main.py", line 268, in send_subsection_keyboard
+    bot.send_message(message.chat.id, "Chose level", reply_markup=generate_level_keyboard(message.chat.id))
+  File "main.py", line 203, in generate_level_keyboard
+    keyboard.row(['A1','A2','B1','B2','C1','C2'])
+  File "/home/eski/.local/lib/python3.8/site-packages/telebot/types.py", line 804, in row
+    btn_array.append(button.to_dic())
+AttributeError: 'list' object has no attribute 'to_dic'
+
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Such user already exists: 394773843 EskiSlav
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:new user has been created: 364983751 yardvlad
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:Such user already exists: 364983751 yardvlad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Such user already exists: 394773843 EskiSlav
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.telegram.org
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:Requested audio does not exist
+INFO:User Creator:Requested audio does not exist

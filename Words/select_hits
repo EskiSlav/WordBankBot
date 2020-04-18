@@ -1,0 +1,17 @@
+Select all themes that has no words:
+SELECT theme FROM themes_a1 t left join words_a1 w on w.theme_id=t.id GROUP BY theme HAVING COUNT(w.id)=0;
+
+CREATE TABLE IF NOT EXISTS themes_a1(
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        theme TEXT NOT NULL UNIQUE,
+        audio_file_id INTEGER,
+        CONSTRAINT fk_audio
+         FOREIGN KEY (audio_file_id)
+         REFERENCES audio_a1(id)
+    );
+
+CREATE TABLE IF NOT EXISTS audio_a1(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL, 
+    audio_id TEXT NOT NULL
+    );

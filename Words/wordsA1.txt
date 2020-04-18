@@ -1,4 +1,5 @@
 ANIMALS
+ANIMALS
 animal nounA1 
 cat nounA1 
 cow nounA1 
@@ -16,7 +17,7 @@ bird nounA1
 chicken nounA1 
 egg nounA1 
 
-FISH AND SHELLFISH
+FISH AND SELLFISH
 egg nounA1 
 fish nounA1 
 swim verbA1
@@ -24,7 +25,8 @@ swim verbA1
 INSECTS, WORMS, ETC
 egg nounA1 
 
-APPEARANCE
+APPERANCE
+APPERANCE
 beautiful adjectiveA1 
 blonde adjectiveA1 
 dark adjectiveA1 
@@ -108,6 +110,7 @@ white nounA1
 yellow adjectiveA1 
 yellow nounA1 
 
+COMMUNICATION
 LANGUAGE
 adjective nounA1 
 adverb nounA1 
@@ -182,6 +185,7 @@ visit verbA1
 visit nounA1 
 website nounA1
 
+CULTURE
 ART
 art nounA1 
 artist nounA1 
@@ -271,6 +275,7 @@ video nounA1
 watch verbA1 
 weather nounA1
 
+FOOD AND DRINK
 COOKING AND EATING
 bill nounA1 
 bottle nounA1 
@@ -437,11 +442,14 @@ improve verbA1
 sick adjectiveA1 
 terrible adjectiveA1
 
+
+
 MEDICINE
 doctor nounA1 
 hospital nounA1 
 nurse nounA1
 
+HOMES AND BUILDINGS
 BUILDINGS
 build verbA1 
 building nounA1 
@@ -477,7 +485,7 @@ GARDENS
 garden nounA1 
 garden verbA1 
 grow verbA1 
-swimming pool nounA1
+swimming pool nounA1.
 
 HOUSE AND HOMES
 apartment nounA1 
@@ -520,6 +528,7 @@ wall nounA1
 wash verbA1 
 window nounA1
 
+LEISURE
 GAMES AND TOYS
 ball nounA1 
 computer game nounA1 
@@ -583,6 +592,7 @@ spend verbA1
 supermarket nounA1 
 window nounA1
 
+NOTIONS
 CHANGE, CAUSE AND EFFECT
 because conjunctionA1 
 because of prepositionA1 
@@ -612,6 +622,8 @@ do verbA1
 success nounA1 
 win verbA1
 
+
+PEOPLE
 EDUCATION
 answer nounA1 
 art nounA1 
@@ -759,6 +771,9 @@ rich adjectiveA1
 white adjectiveA1 
 woman nounA1
 
+POLITICS
+-
+
 RELIGION AND FESTIVALS
 believe verbA1 
 birthday nounA1 
@@ -779,6 +794,7 @@ dangerous adjectiveA1
 
 SCIENCE AND TECHNOLOGY
 BIOLOGY
+-
 
 COMPUTERS
 computer nounA1 
@@ -816,6 +832,7 @@ result nounA1
 science nounA1 
 scientist nounA1 
 
+SPORT
 SPORT: BALL AND RACKET SPORTS
 Association football nounA1 
 ball nounA1 
@@ -845,9 +862,10 @@ SPORTS: WATER SPORTS
 boat nounA1 
 swim verbA1 
 swimming nounA1 
-swimming pool nounA1
+swimming pool nounA1 
 water sports nounA1 
 
+THE NATURAL WORLD
 FARMING
 farm nounA1 
 farmer nounA1 
@@ -893,6 +911,7 @@ THE ENVIRONMENT
 air nounA1 
 clean adjectiveA1 
 natural adjectiveA1 
+
 
 WEATHER
 air nounA1 
@@ -1005,7 +1024,8 @@ year nounA1
 yesterdayad verbA1 
 yesterday nounA1 
 
-TRAVEL HOLIDAYS
+TRAVEL
+HOLIDAYS
 apartment nounA1 
 beach nounA1 
 desk nounA1 
@@ -1059,6 +1079,9 @@ street nounA1
 taxi nounA1 
 traffic nounA1 
 turn verbA1
+
+
+
 
 TRANSPORT BY WATER
 boat nounA1 

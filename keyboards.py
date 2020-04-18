@@ -6,10 +6,17 @@ keyboardstart.row('Пробный период', 'Купить подписку'
 
 #key for prob
 keyboardlvlprob1 = telebot.types.ReplyKeyboardMarkup(True, True)
-keyboardlvlprob1.row('А1', 'А2') #а русская
+keyboardlvlprob1.row('A1', 'A2') # A - english
 
 keyboardtemsprob1 = telebot.types.ReplyKeyboardMarkup(True, True)
-keyboardtemsprob1.row('Animals', 'Apperance', 'Communication', 'Culture', 'Food and drink', 'Functions', 'Health', 'Homes and buildings', 'Leisure','Notions','People','Politics and society', 'Science and technology','Sport','The natural world','Time and space','Travel','Work and business')
+keyboardtemsprob1.row('Animals', 'Apperance', 'Communication') 
+keyboardtemsprob1.row('Culture', 'Food and drink', 'Functions', 'Health')
+keyboardtemsprob1.row('Homes and buildings', 'Leisure','Notions')
+keyboardtemsprob1.row('People','Politics and society', 'Science and technology')
+keyboardtemsprob1.row('Sport','The natural world','Time and space','Travel','Work and business')
+keyboardtemsprob1.row('People','Politics and society', 'Science and technology')
+keyboardtemsprob1.row('Back / Назад')
+
 
 keyboardanimals1 = telebot.types.ReplyKeyboardMarkup(True, True) 
 keyboardanimals1.row('Animals', 'Birds', 'Fish and shellfish')
