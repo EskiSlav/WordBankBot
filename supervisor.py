@@ -5,5 +5,5 @@ import sys
 filename = sys.argv[1]
 while True:
     print("\nStarting " + filename)
-    p = Popen("python " + filename, shell=True)
+    p = Popen("python3.8 " + filename, shell=True)
     p.wait()
