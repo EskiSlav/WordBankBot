@@ -1,47 +1,43 @@
 import psycopg2
 from constant import *
 from pprint import pprint
-conn = psycopg2.connect(f"dbname=word_bank_bot user={db_user} password={db_password}")
-curr = conn.cursor()
+from copy import deepcopy
+# conn = psycopg2.connect(f"dbname=word_bank_bot user={db_user} password={db_password}")
+# curr = conn.cursor()
 
-curr.execute("SELECT status FROM users WHERE id=%s;", (2,))
+# curr.execute("SELECT translation FROM words WHERE translation IS NULL;")
 
-pprint(curr.fetchone()[0])
-conn.close()
+# pprint(curr.fetchall())
+# conn.close()
 
-def add_theme(theme):
-    curr.execute("SELECT * FROM %s LEFT JOIN %s WHERE theme=%s", (themes_table,levels_table, theme,))
-    res = curr.fetchall()
-    if len(res):
-        print("Such theme already exists: " + theme)
-        return 1
-    else:
-        curr.execute("INSERT INTO %s (theme) VALUES (%s)", (themes_table, theme,))
-        conn.commit()
-        print("Added theme: " + theme)
-        return 0 
+def split_buttons(buttons_list, rows=2):
+    buttons_placement = []
+    counter = -1
+    for i, button in enumerate(buttons_list):
+        if i % rows == 0:
+            counter+=1
+            buttons_placement.append([])
+        buttons_placement[counter].append(button)
 
-def add_type(word_type):
-    curr.execute("SELECT * FROM %s WHERE type=%s",(word_types_table, word_type,) )
-    res = curr.fetchall()
-    if len(res):
-        pass
-    else:
-        curr.execute("INSERT INTO %s (type) VALUES (%s)", (word_types_table, word_type) )
-        conn.commit()
-        print("Added type: " + word_type)
+    if len(buttons_placement) > 1:
+        if len(buttons_placement[-2]) - len(buttons_placement[-1])  > 1:
+            last_row = buttons_placement[-1]
+            before_last_row = buttons_placement[-2]
+            full_array = last_row + before_last_row
+            sum_len = len(full_array)
+            less_half = int(sum_len/2)
+            bigger_half = sum_len - less_half
+            buttons_placement[-1] = []
+            buttons_placement[-2] = []
 
-def add_word(word, theme, word_type):
-    curr.execute("""INSERT INTO %s(word, theme_id, type_id)
-     VALUES(%s, (SELECT id FROM %s WHERE theme=%s), 
-     (SELECT id FROM %s WHERE type=%s)
-     );""", (words_table, word, themes_table, theme, word_types_table, word_type,))
-    conn.commit()
-    print(f"  Added row {word}, {theme}, {word_type}")
+            for i in range(bigger_half):
+                buttons_placement[-2].append(full_array[i])
+            
+            for i in range(bigger_half, sum_len):
+                buttons_placement[-1].append(full_array[i])
 
+    return buttons_placement
 
-ALTER SEQUENCE subthemes_id_seq RESTART;
-ALTER SEQUENCE words_id_seq RESTART;
-ALTER SEQUENCE themes_id_seq RESTART;
-ALTER SEQUENCE levels_id_seq RESTART;
-ALTER SEQUENCE word_types_id_seq RESTART;
+l = [1,2,3,4,5,6,7,8,9,10,11,12,13]
+
+print(split_buttons(l, 3))

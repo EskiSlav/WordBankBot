@@ -1,0 +1,3504 @@
+ANIMALS
+ANIMALS
+ape nounB2 
+cage nounB2 
+cheetah nounB2 
+coat nounB2 
+creature nounB2 
+deer adjectiveB2 
+domestic adjectiveB2 
+donkey nounB2 
+extinct adjectiveB2 
+extinction nounB2 
+giraffe nounB2 
+guard dog nounB2 
+habitat nounB2 
+hearing dog nounB2 
+kangaroo nounB2 
+kitten nounB2 
+lay verbB2 
+leopard nounB2 
+mammal nounB2 
+mate nounB2 
+mate verbB2 
+pack nounB2 
+polar bear nounB2 
+puppy nounB2 
+rat nounB2 
+reindeer nounB2 
+reptile nounB2 
+seal nounB2 
+sea turtle nounB2 
+species nounB2 
+squirrel nounB2 
+tortoise nounB2 
+venom nounB2 
+wildlife nounB2 
+zebra nounB2 
+
+BIRDS
+beak nounB2 
+blackbird nounB2 
+breast nounB2 
+cage nounB2 
+call verbB2 
+call nounB2 
+dive verbB2 
+eagle nounB2 
+feather nounB2 
+golden eagle nounB2 
+goose nounB2 
+lay verbB2 
+mate nounB2 
+mate verbB2 
+migrate verbB2 
+owl nounB2 
+parrot nounB2 
+pigeon nounB2 
+
+FISH AND SHELLFISH
+coral nounB2 
+crab nounB2 
+freshwater adjectiveB2 
+goldfish nounB2 
+goldfish bowl nounB2 
+jellyfish nounB2 
+lay verbB2 
+oyster nounB2 
+prawn nounB2 
+saltwater adjectiveB2 
+shellfish nounB2 
+tuna nounB2
+
+INSECTS, WORMS, ETC
+bug nounB2 
+creature nounB2 
+snail nounB2 
+sting nounB2 
+venom nounB2 
+wasp nounB2 
+worm nounB2
+
+APPERANCE
+APPERANCE
+bald adjectiveB2 
+beauty nounB2 
+comb nounB2 
+comb verbB2 
+cute adjectiveB2 
+dye verbB2 
+dye nounB2 
+electric razor nounB2 
+eyebrow nounB2 
+gel nounB2 
+ginger adjectiveB2 
+glamorous adjectiveB2 
+gorgeous adjectiveB2 
+hairy adjectiveB2 
+hand cream nounB2 
+lipstick nounB2 
+makeover nounB2 
+make-up nounB2 
+obese adjectiveB2 
+obesity nounB2 
+overweight adjectiveB2 
+plain adjectiveB2 
+razor nounB2 
+salon nounB2 
+sexy adjectiveB2 
+skinny adjectiveB2 
+stunning adjectiveB2 
+sunburned adjectiveB2 
+tattoo nounB2 
+underweight adjectiveB2
+
+BODY
+big toe nounB2 
+breast nounB2 
+cell nounB2 
+cheek nounB2 
+chin nounB2 
+elbow nounB2 
+eyebrow nounB2 
+fingernail nounB2 
+forehead nounB2 
+heel nounB2 
+hip nounB2 
+joint nounB2 
+little finger nounB2 
+lung nounB2 
+middle finger nounB2 
+nerve nounB2 
+organ nounB2 
+palm nounB2 
+root nounB2 
+skeleton nounB2 
+skull nounB2 
+thumb nounB2 
+toenail nounB2 
+waist nounB2 
+wrist nounB2 
+
+CLOTHES AND FASHION
+ apron nounB2 
+athletic shoe nounB2 
+badge nounB2 
+bathrobe nounB2 
+bikini nounB2 
+cardigan nounB2 
+casual adjectiveB2 
+collar nounB2 
+collection nounB2 
+coral nounB2 
+disguise nounB2 
+elegant adjectiveB2 
+fabric nounB2 
+fancy dress nounB2 
+fit nounB2 
+glamorous adjectiveB2 
+glamorously adverbB2 
+heel verbB2 
+helmet nounB2 
+jersey nounB2 
+knickers nounB2 
+lace nounB2 
+leggings nounB2 
+lining nounB2 
+little black dress nounB2 
+loose adjectiveB2 
+match verbB2 
+miniskirt nounB2 
+outfit nounB2 
+piercing nounB2 
+plain adjectiveB2 
+platform nounB2 
+precious stone nounB2 
+pyjama adjectiveB2 
+sandal nounB2 
+sari nounB2 
+silk nounB2 
+skate nounB2 
+sleeve nounB2 
+slipper nounB2 
+sporty adjectiveB2 
+stone nounB2 
+striped adjectiveB2 
+stripy adjectiveB2 
+stylish adjectiveB2 
+stylishly adverbB2 
+tailor nounB2 
+tracksuit nounB2 
+vest nounB2 
+waistcoat nounB2 
+wardrobe nounB2 
+waterproof adjectiveB2 
+waterproof nounB2 
+woollen adjectiveB2 
+woolly adjectiveB2 
+zip nounB2 
+
+COLORS AND SHAPES
+angle nounB2 
+blackness nounB2 
+blood-red adjectiveB2 
+blueness nounB2 
+brightness nounB2 
+chocolate nounB2 
+coffee nounB2 
+colorful adjectiveB2 
+colourful adjectiveB2 
+curve nounB2 
+curve verbB2 
+curved adjectiveB2 
+darkness nounB2 
+deep adjectiveB2 
+dye verbB2 
+dye nounB2 
+form nounB2 
+ginger adjectiveB2 
+golden adjectiveB2 
+greenness nounB2 
+greyness nounB2 
+horizontal adjectiveB2 
+lemon nounB2 
+lemon adjectiveB2 
+light-coloured adjectiveB2 
+lightness nounB2 
+match verbB2 
+paleness nounB2 
+parallel adjectiveB2 
+pyramid nounB2 
+redness nounB2 
+shade nounB2 
+shaped adjectiveB2 
+triangle nounB2 
+vertical adjectiveB2 
+vivid adjectiveB2 
+whiteness nounB2 
+yellowness nounB2 
+
+COMMUNICATION
+LANGUAGE
+abstract noun nounB2 
+accent nounB2 
+agree verbB2 
+agreement nounB2 
+bullet point nounB2 
+common noun nounB2 
+complement nounB2 
+compound nounB2 
+compound adjectiveB2 
+Danish nounB2 
+dash nounB2 
+dependent clause nounB2 
+dot nounB2 
+double negative nounB2 
+fluency nounB2 
+grammar nounB2 
+hyphen nounB2 
+idiomatic adjectiveB2 
+intermediate nounB2 
+intransitive adjectiveB2 
+linguistic adjectiveB2 
+master verbB2 
+metaphor nounB2 
+number nounB2 
+particle nounB2 
+person nounB2 
+personal pronoun nounB2 
+proverb nounB2 
+quote nounB2 
+schwa nounB2 
+shwa nounB2 
+simile nounB2 
+slang nounB2 
+the first person nounB2 
+subordinate clause nounB2 
+Turkish nounB2 
+ungrammatical adjectiveB2 
+voice nounB2
+
+PHONES, EMAIL AND THE INTERNET
+account nounB2 
+address book nounB2 
+alarm call nounB2 
+attachment nounB2 
+battery nounB2 
+call box nounB2 
+chat room nounB2 
+cyber-combining formB2 
+cybercafe nounB2 
+delete verbB2 
+draft nounB2 
+draft verbB2 
+eBay™ nounB2 
+engaged adjectiveB2 
+e-ticket nounB2 
+follow verbB2 
+follower nounB2 
+give somebody a ring idiomB2
+helpline nounB2 
+hold verbB2 
+home page nounB2 
+HTTP abbreviationB2 
+inbox nounB2 
+instant message nounB2 
+instant-message verbB2 
+instant messaging nounB2 
+landline nounB2 
+message board nounB2 
+net surfer nounB2 
+offline adjectiveB2 
+offline adverbB2 
+operator nounB2 
+picture messaging nounB2 
+podcaster nounB2
+podcasting nounB2
+receiver nounB2 
+service provider nounB2 
+Skype™ nounB2 
+Skype™ verbB2 
+spam verbB2 
+surfer nounB2 
+surfing nounB2 
+system operator nounB2 
+trace verbB2 
+twitter verbB2 
+
+CULTURE
+ART
+abstract adjectiveB2 
+artistic adjectiveB2 
+artwork nounB2 
+auction nounB2 
+bid nounB2 
+bid verbB2 
+capture verbB2 
+clay nounB2 
+collector nounB2 
+exhibit verbB2 
+exhibit nounB2 
+figure nounB2 
+finger-painting nounB2 
+foreground nounB2 
+graphic artist nounB2 
+graphics nounB2 
+illustration nounB2 
+ink nounB2 
+inspire verbB2 
+masterpiece nounB2 
+oil paint nounB2 
+pavement artist nounB2 
+realistic adjectiveB2 
+restore verbB2 
+self-portrait nounB2 
+subject matter nounB2 
+vivid adjectiveB2
+
+FILM AND THEATRE
+action nounB2 
+adapt verbB2 
+aisle nounB2 
+animated adjectiveB2 
+animation nounB2 
+appear verbB2 
+ballet nounB2 
+booking nounB2 
+booking office nounB2 
+box office nounB2 
+cast nounB2 
+classic nounB2 
+clip nounB2 
+critic nounB2 
+cue nounB2 
+director’s chair nounB2 
+double nounB2 
+dramatic adjectiveB2 
+edit verbB2 
+editor nounB2 
+genre nounB2 
+interval nounB2 
+lighting engineer nounB2 
+make-up nounB2 
+manager nounB2 
+masterpiece nounB2 
+opening nounB2 
+opening night nounB2 
+preview nounB2 
+produce verbB2 
+production nounB2 
+rehearsal nounB2 
+rehearse verbB2 
+release verbB2 
+release nounB2 
+routine nounB2 
+scenario nounB2 
+sci-fi nounB2 
+screen verbB2 
+screening nounB2 
+screenwriter nounB2 
+set nounB2 
+shoot verbB2 
+shooting nounB2 
+shot nounB2 
+show business nounB2 
+silent adjectiveB2 
+sound effect nounB2 
+stage verbB2 
+the performing arts nounB2 
+storyline nounB2 
+stunt nounB2 
+subtitle nounB2 
+tension nounB2 
+tragedy nounB2 
+villain nounB2 
+wind machine nounB2 
+
+LITERATURE AND WRITING
+adapt verbB2 
+anecdote nounB2 
+author verbB2 
+autobiography nounB2 
+believable adjectiveB2 
+bestseller nounB2 
+caption nounB2 
+classic nounB2 
+comic adjectiveB2 
+commission verbB2 
+critic nounB2 
+draft verbB2 
+e-book nounB2 
+edit verbB2 
+edition nounB2 
+e-reader nounB2 
+historian nounB2 
+illustrate verbB2 
+illustrator nounB2 
+image nounB2 
+index nounB2 
+inspire verbB2 
+leaflet nounB2 
+legend nounB2 
+light adjectiveB2 
+literary adjectiveB2 
+margin nounB2 
+masterpiece nounB2 
+metaphor nounB2 
+moving adjectiveB2 
+myth nounB2 
+narrator nounB2 
+novelist nounB2 
+passage nounB2 
+plot verbB2 
+publication nounB2 
+publishing nounB2 
+realistic adjectiveB2 
+rhyme nounB2 
+rhyme verbB2 
+sci-fi nounB2 
+screenwriter nounB2 
+scriptwriter nounB2 
+set book nounB2 
+set text nounB2 
+sketch nounB2 
+storyline nounB2 
+storyteller nounB2 
+storytelling nounB2 
+subject matter nounB2 
+subtitle nounB2 
+tale nounB2 
+tension nounB2 
+tragedy nounB2 
+villain nounB2 
+vivid adjectiveB2 
+volume nounB2
+	
+MUSIC
+act nounB2 
+artist nounB2 
+beat nounB2 
+blues nounB2 
+chart nounB2 
+choir nounB2 
+chorus nounB2 
+compose verbB2 
+composer nounB2 
+conduct verbB2 
+conductor nounB2 
+country nounB2 
+country and western nounB2 
+country music nounB2 
+disc jockey nounB2 
+disk jockey nounB2 
+drum machine nounB2 
+drumstick nounB2 
+folk nounB2 
+gig nounB2 
+hard rock nounB2 
+headphones nounB2 
+heavy metal nounB2 
+hip-hop nounB2 
+intro nounB2 
+karaoke nounB2 
+lyric nounB2 
+microphone nounB2 
+mix verbB2 
+note nounB2 
+opera nounB2 
+opera house nounB2 
+orchestra nounB2 
+organ nounB2 
+passage nounB2 
+pianist nounB2 
+pipe nounB2 
+pipe organ nounB2 
+produce verbB2 
+punk nounB2 
+rap nounB2 
+rap verbB2 
+record player nounB2 
+reggae nounB2 
+rehearsal nounB2 
+release verbB2 
+release nounB2 
+rhythm nounB2 
+rock and roll nounB2 
+rock ’n’ roll nounB2 
+salsa nounB2 
+saxophone nounB2 
+single nounB2 
+soul nounB2 
+soul music nounB2 
+sound system nounB2 
+speaker nounB2 
+the performing arts nounB2 
+steel drum nounB2 
+stereo nounB2 
+symphony nounB2 
+tone nounB2 
+track nounB2 
+trombone nounB2 
+trombonist nounB2 
+trumpeter nounB2 
+tune nounB2 
+violinist nounB2 
+volume nounB2 
+world music nounB2
+
+TV, RADIO AND NEWS
+adapt verbB2 
+announce verbB2 
+announcer nounB2 
+appear verbB2 
+broadcast verbB2 
+broadcast nounB2 
+broadcaster nounB2 
+broadcasting nounB2 
+cable television nounB2 
+camera operator nounB2 
+contribute verbB2 
+cover verbB2 
+coverage nounB2 
+current events nounB2 
+disc jockey nounB2 
+disk jockey nounB2 
+edit verbB2 
+edition nounB2 
+editorial adjectiveB2 
+editorial nounB2 
+journalism nounB2 
+lighting engineer nounB2 
+monitor nounB2 
+narrator nounB2 
+news agency nounB2 
+news desk nounB2 
+on camera idiomB2
+panel nounB2 
+panel game nounB2 
+piece nounB2 
+pre-record verbB2 
+present verbB2 
+press agency nounB2 
+rating nounB2 
+reality TV nounB2 
+receiver nounB2 
+remote control nounB2 
+reporting nounB2 
+satellite nounB2 
+screen verbB2 
+scriptwriter nounB2 
+signal nounB2 
+sitcom nounB2 
+speaker nounB2 
+sponsor nounB2 
+spot nounB2 
+surfing nounB2 
+telly nounB2 
+tower nounB2 
+transmit verbB2 
+tune verbB2 
+videotape nounB2 
+volume nounB2
+
+FOOD AND DRINK
+COOKING AND EATING
+afternoon tea nounB2 
+balanced adjectiveB2 
+beat verbB2 
+bitter adjectiveB2 
+carb nounB2 
+carbohydrate nounB2 
+carry-out nounB2 
+cheesy adjectiveB2 
+chop verbB2 
+chopstick nounB2 
+counter nounB2 
+countertop nounB2 
+cuisine nounB2 
+dietary adjectiveB2 
+eating disorder nounB2 
+finger bowl nounB2 
+fish knife nounB2 
+flavour verbB2 
+frying pan nounB2 
+gram nounB2 
+gramme nounB2 
+grill verbB2 
+health food nounB2 
+jar nounB2 
+juicy adjectiveB2 
+lean adjectiveB2 
+litre nounB2 
+low-fat adjectiveB2 
+mineral nounB2 
+mixer nounB2 
+mixing bowl nounB2 
+mug nounB2 
+nutrition nounB2 
+nutritious adjectiveB2 
+organic adjectiveB2 
+peel verbB2 
+pizzeria nounB2 
+portion nounB2 
+protein nounB2 
+pudding nounB2 
+reserve verbB2 
+rich adjectiveB2 
+roast nounB2 
+scale nounB2 
+self-service adjectiveB2 
+self-service nounB2 
+server nounB2 
+sour adjectiveB2 
+spoonful nounB2 
+spre adverbB2 
+stove nounB2 
+supper nounB2 
+takeaway nounB2 
+teaspoon nounB2 
+toaster nounB2 
+topping nounB2 
+tough adjectiveB2 
+vitamin nounB2 
+wooden spoon nounB2
+
+DRINKS
+cocoa nounB2 
+ice cube nounB2 
+milkshake nounB2 
+mineral water nounB2 
+on ice idiomB2
+skimmed milk nounB2 
+soft drink nounB2 
+sparkling adjectiveB2 
+spirit nounB2 
+thirst nounB2 
+whisky nounB2 
+
+FOOD
+bagel nounB2 
+baguette nounB2 
+baked beans nounB2 
+beefsteak nounB2 
+breast nounB2 
+broccoli nounB2 
+carbohydrate nounB2 
+cereal nounB2 
+cherry nounB2 
+chewing gum nounB2 
+chili nounB2 
+chilli nounB2 
+courgette nounB2 
+crab nounB2 
+cracker nounB2 
+cucumber nounB2 
+dairy nounB2 
+goat cheese nounB2 
+green pepper nounB2 
+gum nounB2 
+hard candy nounB2 
+herb nounB2 
+kabob nounB2 
+kebab nounB2 
+ketchup nounB2 
+mango nounB2 
+margarine nounB2 
+melon nounB2 
+mustard nounB2 
+noodle nounB2 
+omelette nounB2 
+pastry nounB2 
+pudding nounB2 
+raspberry nounB2 
+red pepper nounB2 
+rice pudding nounB2 
+roast nounB2 
+root nounB2 
+sour cream nounB2 
+spice nounB2 
+sweetcorn nounB2 
+sweet pepper nounB2 
+sweet potato nounB2 
+tomato ketchup nounB2 
+veg nounB2 
+vinegar nounB2 
+watermelon nounB2 
+wheat nounB2 
+white sauce nounB2 
+zucchini nounB2
+
+FUNCTIONS
+DISCUSSION AND AGREEMENT
+acceptable adjectiveB2 
+acceptably adverbB2 
+agreed adjectiveB2 
+arrangement nounB2 
+bargain nounB2 
+cancel verbB2 
+commitment nounB2 
+confirm verbB2 
+contract nounB2 
+dialogue nounB2 
+get verbB2 
+handshake nounB2 
+joint adjectiveB2 
+jointly adverbB2 
+negotiate verbB2 
+negotiation nounB2 
+persuasive adjectiveB2 
+push verbB2 
+resolve verbB2 
+right exclamationB2 
+settle verbB2 
+terms nounB2 
+together adverbB2 
+understanding nounB2 
+unity nounB2 
+urge verbB2 
+
+DOUBT, GUESSING AND CERTAINTY
+bet verbB2 
+bound adjectiveB2 
+certainty nounB2 
+check-up nounB2 
+confidence nounB2 
+confusion nounB2 
+convinced adjectiveB2 
+definite nounB2 
+ensure verbB2 
+expect verbB2 
+forecast nounB2 
+forecast verbB2 
+guarantee verbB2 
+guarantee nounB2 
+guessing game nounB2 
+hesitate verbB2 
+inevitable nounB2 
+inevitably adverbB2 
+no doubt idiomB2
+ought tomodal verbB2 
+positive adjectiveB2 
+probability nounB2 
+probable adjectiveB2 
+re adverbB2 
+shouldmodal verbB2 
+somehow adverbB2 
+speculate verbB2 
+speculation nounB2 
+suspect verbB2 
+ten out of ten (for something) idiomB2
+unconvinced adjectiveB2 
+wouldmodal verbB2 
+you bet! idiomB2
+you never know idiomB2
+
+OPINION AND ARGUMENT
+account verbB2 
+approval nounB2 
+approve verbB2 
+assess verbB2 
+assessment nounB2 
+as/so far as I am concerned idiomB2
+basically adverbB2 
+bet verbB2 
+bet nounB2 
+bias nounB2 
+biased adjectiveB2 
+case nounB2 
+conflict nounB2 
+consistent adjectiveB2 
+consistently adverbB2 
+controversial adjectiveB2 
+controversially adverbB2 
+controversy nounB2 
+counterargument nounB2 
+critic nounB2 
+criticism nounB2 
+criticize verbB2 
+debate nounB2 
+debate verbB2 
+defend verbB2 
+differ verbB2 
+disagreement nounB2 
+divide verbB2 
+division nounB2 
+editorial nounB2 
+estimate verbB2 
+estimate nounB2 
+evaluate verbB2 
+evaluation nounB2 
+examination nounB2 
+fit verbB2 
+forum nounB2 
+furthermore adverbB2
+have a good, bad, high, low, etc. opinion of somebody/something idiomB2
+hold verbB2 
+if you ask me idiomB2
+incident nounB2 
+infer verbB2 
+inference nounB2 
+in opposition to somebody/something idiomB2
+in the first, second, etc. place idiomB2
+judgement nounB2 
+maintain verbB2 
+maymodal verbB2 
+misunderstanding nounB2 
+name nounB2 
+object verbB2 
+objective adjectiveB2 
+opponent nounB2 
+oppose verbB2 
+opposed adjectiveB2 
+opposition nounB2 
+perception nounB2 
+position nounB2 
+precisely adverbB2 
+proof nounB2 
+public opinion nounB2 
+reason nounB2 
+reckon verbB2 
+remark nounB2 
+remark verbB2 
+reputation nounB2 
+right exclamationB2 
+shouldmodal verbB2 
+side nounB2 
+so adverbB2 
+speculate verbB2 
+speculation nounB2 
+split verbB2 
+split nounB2 
+stance nounB2 
+stand nounB2 
+struggle verbB2 
+struggle nounB2 
+stubborn adjectiveB2 
+subjective adjectiveB2 
+subjectively adverbB2 
+survey verbB2 
+take verbB2 
+to start with idiomB2
+wouldmodal verbB2
+
+PERMISSION AND OBLIGATION
+acceptable adjectiveB2 
+acceptably adverbB2 
+age limit nounB2 
+beauxiliary verbB2 
+compulsory adjectiveB2 
+controlled adjectiveB2 
+due adjectiveB2 
+etiquette nounB2 
+exception nounB2 
+forbid verbB2 
+forbidden adjectiveB2 
+guideline nounB2 
+impose verbB2 
+leave nounB2 
+necessary adjectiveB2 
+necessity nounB2 
+not be supposed to do something idiomB2
+obligation nounB2 
+permit verbB2 
+permit nounB2 
+prohibit verbB2 
+prohibition nounB2 
+provided conjunctionB2 
+providing conjunctionB2 
+regulate verbB2 
+regulation nounB2 
+require verbB2 
+requirement nounB2 
+restrict verbB2 
+restricted adjectiveB2 
+restriction nounB2 
+rule book nounB2 
+strict adjectiveB2 
+strictly adverbB2 
+strictness nounB2 
+tough adjectiveB2 
+
+PREFERENCES AND DECISIONS
+acceptable adjectiveB2 
+acceptably adverbB2 
+age limit nounB2 
+beauxiliary verbB2 
+compulsory adjectiveB2 
+controlled adjectiveB2 
+due adjectiveB2 
+etiquette nounB2 
+exception nounB2 
+forbid verbB2 
+forbidden adjectiveB2 
+guideline nounB2 
+impose verbB2 
+leave nounB2 
+necessary adjectiveB2 
+necessity nounB2 
+not be supposed to do something idiomB2
+obligation nounB2 
+permit verbB2 
+permit nounB2 
+prohibit verbB2 
+prohibition nounB2 
+provided conjunctionB2 
+providing conjunctionB2 
+regulate verbB2 
+regulation nounB2 
+require verbB2 
+requirement nounB2 
+restrict verbB2 
+restricted adjectiveB2 
+restriction nounB2 
+rule book nounB2 
+strict adjectiveB2 
+strictly adverbB2 
+strictness nounB2 
+tough adjectiveB2
+
+SUGGESTIONS AND ADVICE
+alternatively adverbB2 
+challenge nounB2 
+challenge verbB2 
+consult verbB2 
+consultant nounB2 
+feedback nounB2 
+guide nounB2 
+helpline nounB2 
+mightmodal verbB2 
+proposal nounB2 
+propose verbB2 
+say verbB2 
+urge verbB2 
+worth adjectiveB2 
+wouldmodal verbB2 
+you never know idiomB2
+
+HEALTH
+HEALTH AND FITNESS
+aerobics nounB2 
+athletic adjectiveB2 
+fitness centre nounB2 
+heartbeat nounB2 
+immune adjectiveB2 
+rested adjectiveB2 
+strengthen verbB2 
+stretch verbB2 
+sweat verbB2
+
+ILLNESS
+addicted adjectiveB2 
+addiction nounB2 
+AIDS nounB2 
+allergic adjectiveB2 
+allergy nounB2 
+anxiety nounB2 
+bacteria nounB2 
+bang verbB2 
+bed rest nounB2 
+black eye nounB2 
+bruise nounB2 
+bruise verbB2 
+bug nounB2 
+bump verbB2 
+bump nounB2 
+burn nounB2 
+cancer nounB2 
+collapse verbB2 
+crisis nounB2 
+cure verbB2 
+cure nounB2 
+dependent adjectiveB2 
+depressed adjectiveB2 
+depression nounB2 
+diabetes nounB2 
+disability nounB2 
+disabled adjectiveB2 
+disorder nounB2 
+eating disorder nounB2 
+fever nounB2 
+food poisoning nounB2 
+genetic adjectiveB2 
+germ nounB2 
+harm verbB2 
+heal verbB2 
+heart attack nounB2 
+infection nounB2 
+learning difficulties nounB2 
+malaria nounB2 
+obese adjectiveB2 
+obesity nounB2 
+overweight adjectiveB2 
+recover verbB2 
+recovery nounB2 
+scratch verbB2 
+scratch nounB2 
+seasickness nounB2 
+severe adjectiveB2 
+severely adverbB2 
+shock nounB2 
+sickness nounB2 
+sneeze verbB2 
+sneeze nounB2 
+special needs nounB2 
+sprain verbB2 
+sprain nounB2 
+the common cold nounB2 
+sting verbB2 
+sting nounB2 
+suffering nounB2 
+sunburned adjectiveB2 
+transfer verbB2 
+unconscious adjectiveB2 
+underweight adjectiveB2 
+unfit adjectiveB2 
+wound nounB2 
+wound verbB2 
+
+MEDICINE
+accident and emergency nounB2 
+acupuncture nounB2 
+alternative medicine nounB2 
+ambulance nounB2 
+attendant nounB2 
+bandage nounB2 
+bandage verbB2 
+carer nounB2 
+cast nounB2 
+check-up nounB2 
+clinic nounB2 
+consult verbB2 
+consultant nounB2 
+conventional adjectiveB2 
+course nounB2 
+cure verbB2 
+cure nounB2 
+emergency room nounB2 
+examination nounB2 
+family medicine nounB2 
+first aid nounB2 
+heal verbB2 
+healthcare nounB2 
+implant verbB2 
+implant nounB2 
+isolate verbB2 
+junior doctor nounB2 
+massage nounB2 
+massage verbB2 
+maternity nounB2 
+medical nounB2 
+monitor nounB2 
+nutritionist nounB2 
+operate verbB2 
+operating table nounB2 
+operating theatre nounB2 
+painless adjectiveB2 
+pharmacist nounB2 
+pharmacy nounB2 
+plaster nounB2 
+practice nounB2 
+procedure nounB2 
+round nounB2 
+sample nounB2 
+scan verbB2 
+scan nounB2 
+specialist nounB2 
+support nounB2 
+surgeon nounB2 
+surgery nounB2 
+therapist nounB2 
+therapy nounB2 
+traditional medicine nounB2 
+transplant verbB2 
+transplant nounB2 
+unit nounB2 
+X-ray verbB2 
+X-ray nounB2
+
+HOMES AND BUILDINGS
+BUILDINGS
+abandoned adjectiveB2 
+abbey nounB2 
+aisle nounB2 
+basement nounB2 
+brick nounB2 
+cellar nounB2 
+classical adjectiveB2 
+clinic nounB2 
+collapse verbB2 
+column nounB2 
+complex nounB2 
+concrete adjectiveB2 
+construct verbB2 
+construction nounB2 
+contemporary adjectiveB2 
+convert verbB2 
+corridor nounB2 
+courthouse nounB2 
+development nounB2 
+digger nounB2 
+district nounB2 
+doorstep nounB2 
+doorway nounB2 
+downtown adverbB2 
+downtown adjectiveB2 
+downtown nounB2 
+drive nounB2 
+driveway nounB2 
+estate nounB2 
+exit nounB2 
+external adjectiveB2 
+fire station nounB2 
+formal adjectiveB2 
+grand adjectiveB2 
+greenhouse nounB2 
+hall of residence nounB2 
+hut nounB2 
+isolated adjectiveB2 
+ladder nounB2 
+landmark nounB2 
+leisure centre nounB2 
+level verbB2 
+maintain verbB2 
+mediaeval adjectiveB2 
+monument nounB2 
+mosque nounB2 
+open-plan adjectiveB2 
+opera house nounB2 
+passage nounB2 
+preserve verbB2 
+property nounB2 
+pyramid nounB2 
+rebuild verbB2 
+restore verbB2 
+rough adjectiveB2 
+ruin nounB2 
+rural adjectiveB2 
+schoolhouse nounB2 
+shelter nounB2 
+slum nounB2 
+spacious adjectiveB2 
+suburb nounB2 
+support verbB2 
+temple nounB2 
+terminal nounB2 
+tomb nounB2 
+urban adjectiveB2 
+villa nounB2 
+
+GARDENS
+backyard nounB2 
+dig verbB2 
+flowerpot nounB2 
+fork nounB2 
+fountain nounB2 
+garbage can nounB2 
+greenhouse nounB2 
+hedge nounB2 
+plant pot nounB2 
+roof garden nounB2 
+snail nounB2 
+tree house nounB2
+
+HOUSE AND HOMES
+air-conditioned adjectiveB2 
+air conditioning nounB2 
+attic nounB2 
+basement nounB2 
+bookcase nounB2 
+bookshelf nounB2 
+cellar nounB2 
+central heating nounB2 
+chest of drawers nounB2 
+closet nounB2 
+communal adjectiveB2 
+contract nounB2 
+couch nounB2 
+country house nounB2 
+decoration nounB2 
+deposit nounB2 
+detached adjectiveB2 
+DIY nounB2 
+doorbell nounB2 
+doorstep nounB2 
+doorway nounB2 
+drawer nounB2 
+dustbin nounB2 
+entry nounB2 
+estate agent nounB2 
+family room nounB2 
+home loan nounB2 
+home office nounB2 
+houseboat nounB2 
+hut nounB2 
+ironing board nounB2 
+ladder nounB2 
+landlady nounB2 
+loan nounB2 
+loan verbB2 
+lounge nounB2 
+mortgage nounB2 
+mortgage verbB2 
+open-plan adjectiveB2 
+paperwork nounB2 
+passage nounB2 
+plain adjectiveB2 
+playroom nounB2 
+purchase nounB2 
+remote control nounB2 
+rooftop nounB2 
+room-mate nounB2 
+semi-detached adjectiveB2 
+shelter nounB2 
+smoke alarm nounB2 
+step nounB2 
+storeroom nounB2 
+stove nounB2 
+sweep verbB2 
+unit nounB2 
+vacuum verbB2 
+vacuum cleaner nounB2 
+villa nounB2 
+washbasin nounB2
+
+LEISURE
+GAMES AND TOYS
+adventure game nounB2 
+avatar nounB2 
+balloon nounB2 
+bowling nounB2 
+console nounB2 
+games console nounB2 
+guessing game nounB2 
+handball nounB2 
+kite nounB2 
+leisure centre nounB2 
+opponent nounB2 
+piece nounB2 
+ping-pong nounB2 
+playing card nounB2 
+playtime nounB2 
+puzzle nounB2 
+scoreboard nounB2 
+world nounB2 
+
+HOBBIES
+clubbing nounB2 
+collector nounB2 
+compass nounB2 
+craft nounB2 
+dive verbB2 
+fisherman nounB2 
+hillwalking nounB2 
+mountain bike nounB2 
+mountain biking nounB2 
+paddle verbB2 
+reserve nounB2 
+spare adjectiveB2 
+wander verbB2 
+
+SHOPPING
+account nounB2 
+aisle nounB2 
+antique nounB2 
+appliance nounB2 
+article nounB2 
+bakery nounB2 
+bakeshop nounB2 
+barber nounB2 
+bargain nounB2 
+basket nounB2 
+bid nounB2 
+bid verbB2 
+butcher nounB2 
+cashier nounB2 
+checkout nounB2 
+cleaner nounB2 
+clerk nounB2 
+convenience store nounB2 
+corner shop nounB2 
+cosmetic nounB2 
+counter nounB2 
+craft nounB2 
+debt nounB2 
+delivery nounB2 
+discount verbB2 
+display nounB2 
+downtown adverbB2 
+downtown adjectiveB2 
+downtown nounB2 
+drugstore nounB2 
+estate agent nounB2 
+e-ticket nounB2 
+fabric nounB2 
+greengrocer nounB2 
+grocery nounB2 
+health food nounB2 
+jeweller nounB2 
+newsagent nounB2 
+password nounB2 
+perfume nounB2 
+pharmacy nounB2 
+profit margin nounB2 
+purchase verbB2 
+purchase nounB2 
+range nounB2 
+reduction nounB2 
+refund nounB2 
+retail nounB2 
+salesman nounB2 
+saleswoman nounB2 
+salon nounB2 
+sample nounB2 
+saving nounB2 
+self-service adjectiveB2 
+shoplift verbB2 
+shoplifter nounB2 
+shoplifting nounB2 
+special offer nounB2 
+stall nounB2 
+stand nounB2 
+stock nounB2 
+stock verbB2 
+travel agency nounB2 
+trolley nounB2
+
+NOTIONS
+CHANGE, CAUSE AND EFFECT
+arise verbB2 
+boost verbB2 
+boost nounB2 
+climb verbB2 
+collapse verbB2 
+collapse nounB2 
+consequently adverbB2 
+contribute verbB2 
+contribution nounB2 
+decline verbB2 
+decline nounB2 
+decrease verbB2 
+decrease nounB2 
+downwards adverbB2 
+expansion nounB2 
+following prepositionB2 
+gain verbB2 
+gain nounB2 
+guarantee nounB2 
+hence adverbB2 
+implication nounB2 
+increasingly adverbB2 
+jump verbB2 
+jump nounB2 
+lower verbB2 
+mount verbB2 
+multiply verbB2 
+outcome nounB2 
+product nounB2 
+recover verbB2 
+reduction nounB2 
+responsible adjectiveB2 
+root nounB2 
+secondary adjectiveB2 
+significant adjectiveB2 
+significantly adverbB2 
+thus adverbB2 
+trigger verbB2 
+upwards adverbB2 
+
+DANGER
+adventurous adjectiveB2 
+alarmed adjectiveB2 
+at-risk adjectiveB2 
+critical adjectiveB2 
+critically adverbB2 
+daring adjectiveB2 
+daringly adverbB2 
+deadly adjectiveB2 
+desperate adjectiveB2 
+guard nounB2 
+harmless adjectiveB2 
+harmlessly adverbB2 
+high-risk adjectiveB2 
+low-risk adjectiveB2 
+nasty adjectiveB2 
+rescue verbB2 
+rescue nounB2 
+rescuer nounB2 
+rescue worker nounB2 
+
+DIFFICULTY AND FAILURE
+abandon verbB2 
+ambitious adjectiveB2 
+attempt nounB2 
+attempted adjectiveB2 
+barely adverbB2 
+battle verbB2 
+big adjectiveB2 
+collapse verbB2 
+collapse nounB2 
+crisis nounB2 
+defeat verbB2 
+defeat nounB2 
+desperate adjectiveB2 
+enemy nounB2 
+failed adjectiveB2 
+failure nounB2 
+hopeless adjectiveB2 
+hopelessly adverbB2 
+loser nounB2 
+loss nounB2 
+lost adjectiveB2 
+make life difficult (for somebody) idiomB2
+obstacle nounB2 
+overcome verbB2 
+pessimism nounB2 
+pessimistic adjectiveB2 
+pessimistically adverbB2 
+struggle verbB2 
+struggle nounB2 
+
+SUCCESS
+accomplish verbB2 
+adapt verbB2 
+advance nounB2 
+aggressive adjectiveB2 
+aggressively adverbB2 
+battle verbB2 
+boost verbB2 
+boost nounB2 
+certificate nounB2 
+certificate verbB2 
+cope verbB2 
+cure verbB2 
+do well for yourself idiomB2
+dynamic adjectiveB2 
+establish verbB2 
+exercise nounB2 
+exercise verbB2 
+fulfil verbB2 
+grand adjectiveB2 
+hold verbB2 
+ideal nounB2 
+intended adjectiveB2 
+narrow adjectiveB2 
+objective nounB2 
+optimist nounB2 
+optimistic adjectiveB2 
+optimistically adverbB2 
+progress verbB2 
+promise nounB2 
+promising adjectiveB2 
+promotion nounB2 
+prospect nounB2 
+pursue verbB2 
+race nounB2 
+realize verbB2 
+rise verbB2 
+rise nounB2 
+satisfaction nounB2 
+satisfied adjectiveB2 
+secure verbB2 
+secure adjectiveB2 
+securely adverbB2 
+seek verbB2 
+start nounB2 
+stroke nounB2 
+strong adjectiveB2 
+victory nounB2 
+
+PEOPLE
+EDUCATION
+academic nounB2 
+applicant nounB2 
+assess verbB2 
+assessment nounB2 
+boarding school nounB2 
+calculator nounB2 
+certificate nounB2 
+compulsory adjectiveB2 
+corridor nounB2 
+coursework nounB2 
+curriculum nounB2 
+discipline nounB2 
+discipline verbB2 
+dorm nounB2 
+drop verbB2 
+economics nounB2 
+elementary school nounB2 
+entrance nounB2 
+examination nounB2 
+exclude verbB2 
+exercise book nounB2 
+fee nounB2 
+free period nounB2 
+funding nounB2 
+further education nounB2 
+gap year nounB2 
+geology nounB2 
+grade verbB2 
+grade school nounB2 
+grad school nounB2 
+graduate school nounB2 
+grant nounB2 
+hall of residence nounB2 
+head nounB2 
+ICT nounB2 
+institution nounB2 
+junior high school nounB2 
+junior school nounB2 
+kindergarten nounB2 
+lecture hall nounB2 
+lecture theatre nounB2 
+loan nounB2 
+locker nounB2 
+marker nounB2 
+master nounB2 
+media studies nounB2 
+mixed adjectiveB2 
+module nounB2 
+multiple-choice adjectiveB2 
+notebook nounB2 
+optional adjectiveB2 
+period nounB2 
+personal statement nounB2 
+PhD nounB2 
+philosophy nounB2 
+playing field nounB2 
+playtime nounB2 
+postgraduate nounB2 
+prize-giving nounB2 
+prom nounB2 
+psychology nounB2 
+pupil nounB2 
+register nounB2 
+revision nounB2 
+room-mate nounB2 
+rubber nounB2 
+scholarship nounB2 
+secondary education nounB2 
+seminar nounB2 
+senior high school nounB2 
+social science nounB2 
+social studies nounB2 
+sociology nounB2 
+sponsor verbB2 
+sponsor nounB2 
+state school nounB2 
+state university nounB2 
+the performing arts nounB2 
+summer school nounB2 
+teacher trainer nounB2 
+teacher training nounB2 
+term time nounB2 
+textbook nounB2 
+thesis nounB2 
+trainee nounB2 
+tutor verbB2 
+tutorial nounB2 
+visiting adjectiveB2 
+workbook nounB2 
+worksheet nounB2 
+
+FAMILY AND RELATIONSHIPS
+acquaintance nounB2 
+adopt verbB2 
+affair nounB2 
+ancestor nounB2 
+band nounB2 
+bond nounB2 
+by marriage idiomB2
+date verbB2 
+divorce nounB2 
+divorce verbB2 
+eldest adjectiveB2 
+embrace verbB2 
+gang nounB2 
+gran nounB2 
+grandkid nounB2 
+hug verbB2 
+hug nounB2 
+identical adjectiveB2 
+identical twin nounB2 
+inherit verbB2 
+in-laws nounB2 
+love affair nounB2 
+mate nounB2 
+near adjectiveB2 
+one-parent family nounB2 
+papa nounB2 
+passionate adjectiveB2 
+romance nounB2 
+sibling nounB2 
+socialize verbB2 
+step-combining formB2 
+stepbrother nounB2 
+stepchild nounB2 
+stepdaughter nounB2 
+stepfamily nounB2 
+stepfather nounB2 
+stepmother nounB2 
+step-parent nounB2 
+stepsister nounB2 
+stepson nounB2 
+tie nounB2 
+trace verbB2 
+
+FEELINGS
+addicted adjectiveB2 
+adore verbB2 
+aggressive adjectiveB2 
+alarm nounB2 
+alarm verbB2 
+alarmed adjectiveB2 
+amazement nounB2 
+amusement nounB2 
+anger nounB2 
+anger verbB2 
+anxiety nounB2 
+anxious adjectiveB2 
+approval nounB2 
+ashamed adjectiveB2 
+astonish verbB2 
+astonished adjectiveB2 
+awkward adjectiveB2 
+bitter adjectiveB2 
+boredom nounB2 
+breathtaking adjectiveB2 
+capture verbB2 
+confess verbB2 
+controversial adjectiveB2 
+cool adjectiveB2 
+curious adjectiveB2 
+delighted adjectiveB2 
+depressed adjectiveB2 
+depressing adjectiveB2 
+depression nounB2 
+desire nounB2 
+desperate adjectiveB2 
+disappoint verbB2 
+disappointment nounB2 
+disgusting adjectiveB2 
+down adjectiveB2 
+dreadful adjectiveB2 
+dull adjectiveB2 
+emotional adjectiveB2 
+empty adjectiveB2 
+enjoyment nounB2 
+enthusiasm nounB2 
+excited adjectiveB2 
+exhausting adjectiveB2 
+fascinated adjectiveB2 
+fearful adjectiveB2 
+feel-good adjectiveB2 
+fulfil verbB2 
+furious adjectiveB2 
+greedy adjectiveB2 
+heaven nounB2 
+homesick adjectiveB2 
+honor nounB2 
+honour nounB2 
+horrify verbB2 
+hunger nounB2 
+hurt verbB2 
+irritated adjectiveB2 
+jealousy nounB2 
+joy nounB2 
+miserable adjectiveB2 
+mood nounB2 
+moody adjectiveB2 
+nerve nounB2 
+offend verbB2 
+panic verbB2 
+passionate adjectiveB2 
+pessimism nounB2 
+pessimist nounB2 
+pity verbB2 
+regret nounB2 
+relief nounB2 
+relieved adjectiveB2 
+repetitive adjectiveB2 
+routine adjectiveB2 
+satisfied adjectiveB2 
+satisfy verbB2 
+scare nounB2 
+scream verbB2 
+secure adjectiveB2 
+security nounB2 
+shake verbB2 
+shame nounB2 
+shock verbB2 
+stress verbB2 
+tease verbB2 
+temper nounB2 
+terrify verbB2 
+terrifying adjectiveB2 
+terror nounB2 
+thirst nounB2 
+thrill nounB2 
+thrill verbB2 
+tragic adjectiveB2 
+uncomfortable adjectiveB2 
+uninterested adjectiveB2 
+upsetting adjectiveB2
+
+LIFE STAGES
+adolescent adjectiveB2 
+adopt verbB2 
+adulthood nounB2 
+anniversary nounB2 
+arranged marriage nounB2 
+babysit verbB2 
+babysitter nounB2 
+babysitting nounB2 
+bottle nounB2 
+bridegroom nounB2 
+bridesmaid nounB2 
+certificate nounB2 
+childbirth nounB2 
+childcare nounB2 
+childish adjectiveB2 
+elderly adjectiveB2 
+feed nounB2 
+grey verbB2 
+grown-up adjectiveB2 
+grown-up nounB2 
+honeymoon nounB2 
+immature adjectiveB2 
+innocent adjectiveB2 
+middle age nounB2 
+middle-aged adjectiveB2 
+one-parent family nounB2 
+pension nounB2 
+playroom nounB2 
+pregnant adjectiveB2 
+proposal nounB2 
+propose verbB2 
+raise verbB2 
+retirement nounB2 
+retirement home nounB2 
+role model nounB2 
+scan nounB2 
+single parent nounB2 
+teens nounB2 
+upbringing nounB2 
+wedding anniversary nounB2 
+wisdom nounB2 
+wise adjectiveB2
+
+PERSONAL QUALITIES
+arrogant adjectiveB2 
+artistic adjectiveB2 
+badness nounB2 
+bold adjectiveB2 
+bright adjectiveB2 
+caring adjectiveB2 
+childish adjectiveB2 
+comfort verbB2 
+confidence nounB2 
+courage nounB2 
+dare verbB2 
+daring adjectiveB2 
+deceive verbB2 
+decent adjectiveB2 
+dishonest adjectiveB2 
+dishonesty nounB2 
+dynamic adjectiveB2 
+easy-going adjectiveB2 
+efficient adjectiveB2 
+energetic adjectiveB2 
+enthusiastic adjectiveB2 
+ethic nounB2 
+ethical adjectiveB2 
+evil adjectiveB2 
+excel verbB2 
+extravert nounB2 
+extrovert nounB2 
+fake adjectiveB2 
+false adjectiveB2 
+fool nounB2 
+forgetful adjectiveB2 
+genius nounB2 
+genuine adjectiveB2 
+good sense nounB2 
+greedy adjectiveB2 
+holy adjectiveB2 
+honesty nounB2 
+honor nounB2 
+honour nounB2 
+imaginative adjectiveB2 
+immature adjectiveB2 
+immoral adjectiveB2 
+laid-back adjectiveB2 
+leadership nounB2 
+lively adjectiveB2 
+loyal adjectiveB2 
+madness nounB2 
+make fun of somebody/something idiomB2
+misle adverbB2 
+modest adjectiveB2 
+moral adjectiveB2 
+motivate verbB2 
+musical adjectiveB2 
+nasty adjectiveB2 
+nosey adjectiveB2 
+nosy adjectiveB2 
+offensive adjectiveB2 
+open adjectiveB2 
+optimistic adjectiveB2 
+pain nounB2 
+passionate adjectiveB2 
+patience nounB2 
+patient adjectiveB2 
+potential nounB2 
+practical adjectiveB2 
+pride nounB2 
+principle adjectiveB2 
+prodigy nounB2 
+responsible adjectiveB2 
+secure adjectiveB2 
+self-confidence nounB2 
+self-confident adjectiveB2 
+sensitive adjectiveB2 
+sharp adjectiveB2 
+skilled adjectiveB2 
+spirit nounB2 
+strength nounB2 
+strict adjectiveB2 
+stubborn adjectiveB2 
+sympathetic adjectiveB2 
+sympathy nounB2 
+talkative adjectiveB2 
+tough adjectiveB2 
+trust nounB2 
+trust verbB2 
+unfriendliness nounB2 
+villain nounB2 
+wisdom nounB2 
+wise adjectiveB2 
+
+POLITICS AND SOCIETY
+CRIME AND PUNISHMENT
+alien nounB2 
+appeal nounB2 
+appeal verbB2 
+attempted adjectiveB2 
+bombing nounB2 
+capture nounB2 
+cell nounB2 
+chase verbB2 
+chase nounB2 
+community service nounB2 
+confess verbB2 
+conspiracy nounB2 
+deal verbB2 
+dealer nounB2 
+death sentence nounB2 
+deceive verbB2 
+drink-driving nounB2 
+drug dealer nounB2 
+drunk driving nounB2 
+exhibit nounB2 
+eyewitness nounB2 
+fake adjectiveB2 
+fake verbB2 
+fraud nounB2 
+gunman nounB2 
+hack verbB2 
+hold verbB2 
+identity theft nounB2 
+identity thief nounB2 
+inform verbB2 
+innocent adjectiveB2 
+investigation nounB2 
+jail nounB2 
+jail verbB2 
+life nounB2 
+life sentence nounB2 
+missing person nounB2 
+offence nounB2 
+offend verbB2 
+offender nounB2 
+penalty nounB2 
+pickpocket nounB2 
+prisoner of war nounB2 
+private detective nounB2 
+pursue verbB2 
+questioning nounB2 
+rob verbB2 
+robbery nounB2 
+sentence nounB2 
+sentence verbB2 
+shooting nounB2 
+shoplift verbB2 
+shoplifter nounB2 
+shoplifting nounB2 
+speed verbB2 
+speeding nounB2 
+suspect verbB2 
+suspect nounB2 
+term nounB2 
+terrorism nounB2 
+terrorist nounB2 
+theft nounB2 
+trace verbB2 
+track verbB2 
+traffic verbB2 
+vandal nounB2 
+vandalism nounB2 
+violence nounB2 
+war crime nounB2 
+war criminal nounB2 
+witness nounB2 
+witness verbB2 
+
+LAW AND JUSTICE
+action nounB2 
+adopt verbB2 
+appeal nounB2 
+appeal verbB2 
+authority nounB2 
+bill nounB2 
+birth certificate nounB2 
+challenge verbB2 
+charge nounB2 
+charge verbB2 
+claim nounB2 
+clause nounB2 
+contract nounB2 
+criminal law nounB2 
+death certificate nounB2 
+defend verbB2 
+divorce nounB2 
+divorce verbB2 
+draft nounB2 
+draft verbB2 
+emergency services nounB2 
+grant verbB2 
+ID card nounB2 
+identity card nounB2 
+inspector nounB2 
+judge verbB2 
+judgement nounB2 
+jury nounB2 
+justice nounB2 
+law and order idiomB2
+marriage certificate nounB2 
+prohibit verbB2 
+prohibition nounB2 
+pursue verbB2 
+recruit verbB2 
+recruit nounB2 
+regulation nounB2 
+sentence nounB2 
+sentence verbB2 
+trial nounB2 
+try verbB2 
+valid adjectiveB2 
+will nounB2 
+witness nounB2 
+
+PEOPLE IN SOCIETY
+African American nounB2 
+African American adjectiveB2 
+Arab nounB2 
+Arab adjectiveB2 
+Asian American nounB2 
+Asian-American adjectiveB2 
+black nounB2 
+captain verbB2 
+chief nounB2 
+citizen nounB2 
+class verbB2 
+committee nounB2 
+diversity nounB2 
+duke nounB2 
+emperor nounB2 
+ethnic adjectiveB2 
+gay adjectiveB2 
+gender nounB2 
+globe nounB2 
+homeless nounB2 
+knight nounB2 
+lady nounB2 
+leadership nounB2 
+lord nounB2 
+middle class nounB2 
+middle-class adjectiveB2 
+minority nounB2 
+monarch nounB2 
+racism nounB2 
+racist adjectiveB2 
+rank nounB2 
+representative nounB2 
+senior adjectiveB2 
+sociologist nounB2 
+sociology nounB2 
+status nounB2 
+the lower classes nounB2 
+tribe nounB2 
+white nounB2 
+
+POLITICS
+affair nounB2 
+bill nounB2 
+budget nounB2 
+center nounB2 
+centre nounB2 
+conflict nounB2 
+congress nounB2 
+congresswoman nounB2 
+conservative adjectiveB2 
+conservative nounB2 
+contest nounB2 
+contest verbB2 
+council nounB2 
+debate nounB2 
+debate verbB2 
+democracy nounB2 
+democrat nounB2 
+democratic adjectiveB2 
+dialogue nounB2 
+domestic adjectiveB2 
+elect verbB2 
+federal adjectiveB2 
+federal government nounB2 
+federally adverbB2 
+globalization nounB2 
+govern verbB2 
+governor nounB2 
+green nounB2 
+human right nounB2 
+ideal nounB2 
+independence nounB2 
+labour nounB2 
+leadership nounB2 
+league nounB2 
+majority nounB2 
+mass nounB2 
+mayor nounB2 
+minister nounB2 
+monarch nounB2 
+monarchy nounB2 
+negotiate verbB2 
+negotiation nounB2 
+opposition nounB2 
+parliament nounB2 
+pass verbB2 
+representative nounB2 
+revolution nounB2 
+rule nounB2 
+run verbB2 
+seat nounB2 
+secretary nounB2 
+session nounB2 
+slogan nounB2 
+spokesman nounB2 
+spokesperson nounB2 
+spokeswoman nounB2 
+stand verbB2 
+the Conservative Party nounB2 
+the Democratic Party nounB2 
+the Labour Party nounB2 
+voting nounB2
+
+
+RELIGION AND FESTIVALS
+abbey nounB2 
+anniversary nounB2 
+believer nounB2 
+bonfire nounB2 
+carnival nounB2 
+Christian nounB2 
+Christianity nounB2 
+civil adjectiveB2 
+convert verbB2 
+decoration nounB2 
+Easter egg nounB2 
+evil adjectiveB2 
+faith nounB2 
+fancy dress nounB2 
+firework nounB2 
+Halloween nounB2 
+heaven nounB2 
+hell nounB2 
+holy adjectiveB2 
+minister nounB2 
+mosque nounB2 
+Muslim adjectiveB2 
+Muslim nounB2 
+parade nounB2 
+service nounB2 
+soul nounB2 
+spirit nounB2 
+spiritual adjectiveB2 
+temple nounB2 
+vision nounB2 
+
+SOCIAL ISSUES
+addicted adjectiveB2 
+addiction nounB2 
+administration nounB2 
+aid nounB2 
+aid agency nounB2
+alien nounB2 
+antibiotic nounB2 
+appeal nounB2 
+appeal verbB2 
+aspirin nounB2 
+assistance nounB2 
+beg verbB2 
+beggar nounB2 
+benefit nounB2 
+bias nounB2 
+biased adjectiveB2 
+charity shop nounB2 
+collection nounB2 
+community service nounB2 
+demonstrate verbB2 
+demonstration nounB2 
+dependent adjectiveB2 
+dismiss verbB2 
+donation nounB2 
+drunk nounB2 
+emigrate verbB2 
+equal nounB2 
+famine nounB2 
+foundation nounB2 
+fund nounB2 
+fund verbB2 
+funding nounB2 
+homeless adjectiveB2 
+human right nounB2 
+hunger nounB2 
+immigration nounB2 
+justice nounB2 
+low-paid adjectiveB2 
+majority nounB2 
+medication nounB2 
+minority nounB2 
+painkiller nounB2 
+pill nounB2 
+protester nounB2 
+racism nounB2 
+racist adjectiveB2 
+racist nounB2 
+refugee nounB2 
+relief nounB2 
+settle verbB2 
+settler nounB2 
+shelter nounB2 
+side effect nounB2 
+sleeping pill nounB2 
+slum nounB2 
+sponsor verbB2 
+sponsor nounB2 
+starve verbB2 
+the unemployed nounB2 
+strike verbB2 
+strike nounB2 
+tension nounB2 
+visa nounB2 
+voluntary adjectiveB2 
+welfare nounB2 
+
+WAR AND CONFLICT
+action nounB2 
+advance nounB2 
+air force nounB2 
+armed adjectiveB2 
+arms nounB2 
+arrow nounB2 
+bomber nounB2 
+bullet nounB2 
+camp nounB2 
+campaign nounB2 
+command nounB2 
+command verbB2 
+commander nounB2 
+conflict nounB2 
+conspiracy nounB2 
+damage nounB2 
+defeat verbB2 
+defeat nounB2 
+defence nounB2 
+defend verbB2 
+defense nounB2 
+desert verbB2 
+deserter nounB2 
+fire nounB2 
+gunfight nounB2 
+handgun nounB2 
+invade verbB2 
+invader nounB2 
+invasion nounB2 
+medal nounB2 
+military adjectiveB2 
+military nounB2 
+mine nounB2 
+navy nounB2 
+negotiate verbB2 
+negotiation nounB2 
+neutral adjectiveB2 
+obey verbB2 
+occupied adjectiveB2 
+occupier nounB2 
+parade nounB2 
+prisoner of war nounB2 
+rank nounB2 
+recruit verbB2 
+recruit nounB2 
+refugee nounB2 
+rescue verbB2 
+rescue nounB2 
+service nounB2 
+shooting nounB2 
+station verbB2 
+the armed forces nounB2 
+strategy nounB2 
+strike verbB2 
+strike nounB2 
+tank nounB2 
+target verbB2 
+terrorism nounB2 
+terrorist nounB2 
+troop nounB2 
+victory nounB2 
+violence nounB2 
+volunteer nounB2 
+volunteer verbB2 
+war crime nounB2 
+war criminal nounB2 
+warship nounB2 
+wartime nounB2 
+wartime adjectiveB2 
+wound nounB2 
+wound verbB2 
+
+SCIENCE AND TECHNOLOGY
+BIOLOGY
+bacteria nounB2 
+being nounB2 
+biochemist nounB2 
+biochemistry nounB2 
+biological adjectiveB2 
+carb nounB2 
+carbohydrate nounB2 
+cell nounB2 
+division nounB2 
+DNA nounB2 
+egg nounB2 
+evolution nounB2 
+evolve verbB2 
+fossil nounB2 
+gene nounB2 
+genetic adjectiveB2 
+genetically adverbB2 
+genetically modified adjectiveB2 
+genetic engineering nounB2 
+genetics nounB2 
+germ nounB2 
+GM abbreviationB2 
+life cycle nounB2 
+nerve nounB2 
+nutrient nounB2 
+organism nounB2 
+protein nounB2 
+species nounB2
+
+
+COMPUTERS
+animation nounB2 
+artificial intelligence nounB2 
+bug nounB2 
+CD-ROM nounB2 
+code nounB2 
+code verbB2 
+command nounB2 
+crash nounB2 
+crash verbB2 
+cut verbB2 
+database nounB2 
+delete verbB2 
+disk nounB2 
+double-click verbB2 
+e-book nounB2 
+edit verbB2 
+e-reader nounB2 
+error correction nounB2 
+export verbB2 
+filename nounB2 
+folder nounB2 
+graphics nounB2 
+hack verbB2 
+handheld adjectiveB2 
+icon nounB2 
+import verbB2 
+input nounB2 
+input verbB2 
+install verbB2 
+instruction nounB2 
+keyword nounB2 
+logon nounB2 
+Memory Stick™ nounB2 
+monitor nounB2 
+mouse mat nounB2 
+network verbB2 
+operation nounB2 
+output nounB2 
+output verbB2 
+password nounB2 
+printout nounB2 
+process verbB2 
+programming nounB2 
+real time nounB2 
+run verbB2 
+scan verbB2 
+scanner nounB2 
+select verbB2 
+software engineer nounB2 
+sound effect nounB2 
+touchscreen nounB2 
+uncheck verbB2 
+unit nounB2 
+user ID nounB2 
+virtual adjectiveB2 
+virtual reality nounB2 
+webcam nounB2
+
+ENGINEERING
+3D printer nounB2 
+activate verbB2 
+appliance nounB2 
+cable nounB2 
+chemical engineering nounB2 
+circuit nounB2 
+controller nounB2 
+current nounB2 
+cycle nounB2 
+electrical engineering nounB2 
+electronics nounB2 
+indicate verbB2 
+instrument nounB2 
+machine-made adjectiveB2 
+mechanical adjectiveB2 
+mechanical engineering nounB2 
+mechanism nounB2 
+motor nounB2 
+run verbB2 
+sensor nounB2 
+shock nounB2 
+switch nounB2 
+technician nounB2 
+timer nounB2 
+wire nounB2
+
+MATH AND MEASUREMENT
+angle nounB2 
+area nounB2 
+calculate verbB2 
+calculator nounB2 
+Celsius adjectiveB2 
+cupful nounB2 
+deduction nounB2 
+depth nounB2 
+digit nounB2 
+division nounB2 
+equals sign nounB2 
+fraction nounB2 
+gram nounB2 
+gramme nounB2 
+horizontal adjectiveB2 
+inch nounB2 
+litre nounB2 
+mathematically adverbB2 
+mathematician nounB2 
+maximum adjectiveB2 
+maximum nounB2 
+measure nounB2 
+measurement nounB2 
+measuring tape nounB2 
+minimum adjectiveB2 
+minimum nounB2 
+multiple nounB2 
+multiply verbB2 
+negative adjectiveB2 
+parallel adjectiveB2 
+pie chart nounB2 
+plus nounB2 
+positive adjectiveB2 
+probability nounB2 
+problem nounB2 
+scale nounB2 
+set nounB2 
+spoonful nounB2 
+square adjectiveB2 
+sum nounB2 
+ton nounB2 
+tonne nounB2 
+unit nounB2 
+vertical adjectiveB2 
+volume nounB2 
+
+PHYSICS AND CHEMISTRY
+absorb verbB2 
+acid nounB2 
+activate verbB2 
+atom nounB2 
+brick nounB2 
+calcium nounB2 
+carbon nounB2 
+carbon dioxide nounB2 
+Celsius nounB2 
+charger nounB2 
+compound nounB2 
+concrete adjectiveB2 
+concrete nounB2 
+contract verbB2 
+crack verbB2 
+element nounB2 
+emission nounB2 
+fabric nounB2 
+field nounB2 
+flexible adjectiveB2 
+freezing point nounB2 
+heavy adjectiveB2 
+hydroelectric adjectiveB2 
+matter nounB2 
+melt verbB2 
+mineral nounB2 
+molecule nounB2 
+motion nounB2 
+nuclear physics nounB2 
+oxygen nounB2 
+physical adjectiveB2 
+pressure nounB2 
+proof adjectiveB2 
+radiation nounB2 
+react verbB2 
+shape verbB2 
+solar adjectiveB2 
+solution nounB2 
+steel verbB2 
+stress nounB2 
+stretch verbB2 
+tin nounB2 
+X-ray nounB2
+
+SCIENTIFIC RESEARCH 
+archaeology nounB2 
+biochemistry nounB2 
+classify verbB2 
+conduct verbB2 
+detect verbB2 
+earth science nounB2 
+evaluate verbB2 
+evaluation nounB2 
+finding nounB2 
+geologist nounB2 
+geology nounB2 
+hypothesis nounB2 
+instrument nounB2 
+law nounB2 
+microscope nounB2 
+model verbB2 
+negative nounB2 
+positive nounB2 
+principle nounB2 
+procedure nounB2 
+proof nounB2 
+psychological adjectiveB2 
+psychologist nounB2 
+sample nounB2 
+telescope nounB2 
+trial nounB2 
+
+SPORT
+SPORT: BALL AND RACKET SPORTS
+assistant referee nounB2 
+attack verbB2 
+attacker nounB2 
+away adverbB2 
+away adjectiveB2 
+away from home idiomB2
+ball game nounB2 
+ballpark nounB2 
+basket nounB2 
+bat nounB2 
+catcher nounB2 
+corner nounB2 
+corner kick nounB2 
+cricketing adjectiveB2 
+defence nounB2 
+defender nounB2 
+defense nounB2 
+fastball nounB2 
+free kick nounB2 
+goal area nounB2 
+goalkeeping nounB2 
+goal kick nounB2 
+goalpost nounB2 
+golf cart nounB2 
+golf course nounB2 
+grass court nounB2 
+helmet nounB2 
+home adjectiveB2 
+injury time nounB2 
+league nounB2 
+own goal nounB2 
+pad nounB2 
+ping-pong nounB2 
+pitch nounB2 
+playing field nounB2 
+racquet nounB2 
+referee nounB2 
+referee’s assistant nounB2 
+replay nounB2 
+shoot verbB2 
+shot nounB2 
+shoulder pad nounB2 
+spring training nounB2 
+squash nounB2 
+string nounB2 
+stroke nounB2 
+take verbB2 
+tournament nounB2 
+trolley nounB2 
+two-handed adjectiveB2 
+
+SPORTS: OTHER SPORTS
+aerobics nounB2 
+arrow nounB2 
+biker nounB2 
+biking nounB2 
+bowling nounB2 
+box verbB2 
+boxer nounB2 
+boxing nounB2 
+bungee jump nounB2 
+bungee jumping nounB2 
+championship nounB2 
+defeat verbB2 
+defeat nounB2 
+field event nounB2 
+finalist nounB2 
+finishing line nounB2 
+hold nounB2 
+hunting nounB2 
+judo nounB2 
+marathon nounB2 
+martial art nounB2 
+medal nounB2 
+middle-distance adjectiveB2 
+motor racing nounB2 
+mountain bike nounB2 
+mountain biking nounB2 
+obstacle nounB2 
+pace nounB2 
+parachute nounB2 
+parachute verbB2 
+racecourse nounB2 
+racetrack nounB2 
+scoreboard nounB2 
+semi-final nounB2 
+silver nounB2 
+ski jump nounB2 
+ski jumping nounB2 
+slope nounB2 
+snowboard nounB2 
+spectator nounB2 
+speed skating nounB2 
+track and field nounB2 
+track event nounB2 
+victory nounB2 
+weightlifting nounB2
+
+SPORTS: WATER SPORTS
+boating nounB2 
+canoe nounB2 
+canoeing nounB2 
+dive verbB2 
+dive nounB2 
+life jacket nounB2 
+life vest nounB2 
+poolside nounB2 
+raft nounB2 
+rafting nounB2 
+row nounB2 
+rowboat nounB2 
+rowing nounB2 
+rowing boat nounB2 
+sailboat nounB2 
+scuba diving nounB2 
+tank nounB2 
+waterski verbB2 
+waterski nounB2 
+waterskiing nounB2 
+wave machine nounB2 
+yacht nounB2 
+
+THE NATURAL WORLD
+FARMING
+agriculture nounB2 
+cereal nounB2 
+cornfield nounB2 
+cowboy nounB2 
+crop nounB2 
+food chain nounB2 
+genetically modified adjectiveB2 
+GM abbreviationB2 
+greenhouse nounB2 
+keep verbB2 
+milk verbB2 
+organic adjectiveB2 
+pesticide nounB2 
+produce nounB2 
+straw nounB2 
+sunflower nounB2 
+vet nounB2 
+wheat nounB2
+
+GEOGRAPHY
+avalanche nounB2 
+bed nounB2 
+canal nounB2 
+canyon nounB2 
+cave nounB2 
+cliff nounB2 
+course nounB2 
+current nounB2 
+district nounB2 
+dune nounB2 
+equator nounB2 
+erosion nounB2 
+formation nounB2 
+freshwater adjectiveB2 
+geographer nounB2 
+geology nounB2 
+glacier nounB2 
+hemisphere nounB2 
+highland adjectiveB2 
+highland nounB2 
+hillside nounB2 
+hilltop nounB2 
+ice cap nounB2 
+lakeside nounB2 
+landscape nounB2 
+loch nounB2 
+lowland nounB2 
+map verbB2 
+mount nounB2 
+mountainous adjectiveB2 
+mountainside nounB2 
+mountaintop nounB2 
+mountaintop adjectiveB2 
+mouth nounB2 
+outback nounB2 
+out to sea idiomB2
+reef nounB2 
+riverbank nounB2 
+riverside nounB2 
+rock pool nounB2 
+rural adjectiveB2 
+salt water nounB2 
+saltwater adjectiveB2 
+sand dune nounB2 
+sandy adjectiveB2 
+seashore nounB2 
+shore nounB2 
+slope nounB2 
+source nounB2 
+spring nounB2 
+the North Pole nounB2 
+the seabed nounB2 
+the South Pole nounB2 
+steep adjectiveB2 
+stream nounB2 
+suburb nounB2 
+tropical adjectiveB2 
+urban adjectiveB2 
+volcanic adjectiveB2 
+waterway nounB2 
+zone nounB2 
+
+PLANTS AND TREES
+bunch nounB2 
+bush nounB2 
+cherry nounB2 
+olive nounB2 
+palm nounB2 
+pollen nounB2 
+root nounB2 
+rose nounB2 
+sunflower nounB2
+
+THE ENVIRONMENT
+aid nounB2 
+alternative fuel nounB2 
+avalanche nounB2 
+biofuel nounB2 
+blizzard nounB2 
+bottle bank nounB2 
+cable nounB2 
+carbon nounB2 
+carbon dioxide nounB2 
+carbon footprint nounB2 
+clean-up nounB2 
+climate crisis nounB2 
+climate strike nounB2 
+conservation nounB2 
+conservation area nounB2 
+consumption nounB2 
+deforestation nounB2 
+diversity nounB2 
+dump verbB2 
+dust storm nounB2 
+eco-friendly adjectiveB2 
+ecology nounB2 
+ecosystem nounB2 
+emergency services nounB2 
+environmentalist nounB2 
+environmentally friendly adjectiveB2 
+erupt verbB2 
+eruption nounB2 
+floodwater nounB2 
+fossil fuel nounB2 
+generate verbB2 
+generation nounB2 
+green belt nounB2 
+greenhouse gas nounB2 
+habitat nounB2 
+hydroelectric adjectiveB2 
+landfill nounB2 
+landslide nounB2 
+lava nounB2 
+oil rig nounB2 
+polluter nounB2 
+protection nounB2 
+relief nounB2 
+reserve nounB2 
+rig nounB2 
+shock nounB2 
+solar adjectiveB2 
+sustainable adjectiveB2 
+tank nounB2 
+thunderstorm nounB2 
+tsunami nounB2 
+typhoon nounB2 
+volcanic adjectiveB2 
+wind farm nounB2
+
+WEATHER
+airless adjectiveB2 
+avalanche nounB2 
+blizzard nounB2 
+breeze nounB2 
+Celsius adjectiveB2 
+clear verbB2 
+cloudless adjectiveB2 
+drought nounB2 
+dust storm nounB2 
+fair adjectiveB2 
+fog nounB2 
+foggy adjectiveB2 
+forecast nounB2 
+icy adjectiveB2 
+melt verbB2 
+miserable adjectiveB2 
+raindrop nounB2 
+starless adjectiveB2 
+stormy adjectiveB2 
+sunless adjectiveB2 
+thunderstorm nounB2 
+typhoon nounB2 
+windless adjectiveB2 
+
+TIME AND SPACE
+HISTORY
+abbey nounB2 
+action nounB2 
+age nounB2 
+ancestor nounB2 
+archaeological adjectiveB2 
+archaeologist nounB2 
+archaeology nounB2 
+archeologist nounB2 
+arrow nounB2 
+civilization nounB2 
+classical adjectiveB2 
+colony nounB2 
+contemporary adjectiveB2 
+emperor nounB2 
+empire nounB2 
+era nounB2 
+exhibit nounB2 
+former adjectiveB2 
+formerly adverbB2 
+found verbB2 
+historian nounB2 
+invasion nounB2 
+knight nounB2 
+mediaeval adjectiveB2 
+monument nounB2 
+myth nounB2 
+origin nounB2 
+pyramid nounB2 
+revolution nounB2 
+ruin nounB2 
+wartime nounB2 
+wartime adjectiveB2 
+
+SPACE
+alien nounB2 
+asteroid nounB2 
+astronomer nounB2 
+astronomy nounB2 
+galaxy nounB2 
+Jupiter nounB2 
+landing nounB2 
+launch verbB2 
+launch nounB2 
+orbit nounB2 
+orbit verbB2 
+rocket nounB2 
+satellite nounB2 
+solar adjectiveB2 
+solar system nounB2 
+spacecraft nounB2 
+spaceman nounB2 
+spacesuit nounB2 
+spacewalk nounB2 
+spacewoman nounB2 
+sunbeam nounB2 
+sunrise nounB2 
+sunset nounB2 
+take-off nounB2 
+telescope nounB2 
+universe nounB2 
+Venus nounB2 
+voyage nounB2 
+
+TIME
+afterwards adverbB2 
+age nounB2 
+annual adjectiveB2 
+annually adverbB2 
+beyond prepositionB2 
+calendar nounB2 
+day-to-day adjectiveB2 
+era nounB2 
+(every) now and again/then idiomB2
+(every) now and then/again idiomB2
+fortnight nounB2 
+frequent adjectiveB2 
+hourly adjectiveB2 
+hourly adverbB2 
+instant adjectiveB2 
+lately adverbB2 
+lateness nounB2 
+later on idiomB2
+local time nounB2 
+long-term adjectiveB2 
+millennium nounB2 
+monthly adjectiveB2 
+monthly adverbB2 
+session nounB2 
+short-term adjectiveB2 
+subsequently adverbB2 
+sunrise nounB2 
+sunset nounB2 
+term time nounB2 
+term-time adjectiveB2 
+time after time idiomB2
+time zone nounB2 
+weekdays adverbB2 
+weekly adjectiveB2 
+year after year idiomB2
+
+TRAVEL
+HOLIDAYS
+amusement park nounB2 
+backpack verbB2 
+bed and breakfast nounB2 
+booking nounB2 
+budget adjectiveB2 
+canal nounB2 
+caravan nounB2 
+checkout nounB2 
+clerk nounB2 
+cruise nounB2 
+desk clerk nounB2 
+excursion nounB2 
+hillwalking nounB2 
+holidaymaker nounB2 
+honeymoon nounB2 
+lounge nounB2 
+minibar nounB2 
+operator nounB2 
+package tour nounB2 
+resident nounB2 
+resort nounB2 
+room service nounB2 
+rucksack nounB2 
+sandy adjectiveB2 
+sunscreen nounB2 
+travel agency nounB2 
+travel agent nounB2 
+trek verbB2 
+villa nounB2 
+visa nounB2 
+visitors’ book nounB2 
+voyage nounB2 
+wake-up call nounB2 
+
+
+
+TRANSPORT BY AIR
+aircraft nounB2 
+airspeed nounB2 
+air terminal nounB2 
+aisle nounB2 
+announcer nounB2 
+approach nounB2 
+baggage reclaim nounB2 
+balloon nounB2 
+boarding card nounB2 
+bomber nounB2 
+cabin nounB2 
+cabin crew nounB2 
+carry-on nounB2 
+connection nounB2 
+dive verbB2 
+dive nounB2 
+domestic adjectiveB2 
+fare nounB2 
+flier nounB2 
+flight crew nounB2 
+flyer nounB2 
+frequent flyer nounB2 
+hot-air balloon nounB2 
+immigration nounB2 
+jet nounB2 
+jet engine nounB2 
+landing nounB2 
+last call nounB2 
+legroom nounB2 
+light aircraft nounB2 
+lounge nounB2 
+navigate verbB2 
+navigator nounB2 
+on-board adjectiveB2 
+parachute nounB2 
+parachute verbB2 
+rocket nounB2 
+runway nounB2 
+sick bag nounB2 
+spacecraft nounB2 
+take-off nounB2 
+terminal nounB2 
+test flight nounB2 
+test pilot nounB2 
+warplane nounB2 
+
+TRANSPORT BY BUS AND TRAIN
+aisle nounB2 
+boat train nounB2 
+booking nounB2 
+booking office nounB2 
+bus lane nounB2 
+connection nounB2 
+corridor nounB2 
+day return nounB2 
+deck nounB2 
+engine driver nounB2 
+fare nounB2 
+guard nounB2 
+inspector nounB2 
+left luggage office nounB2 
+local nounB2 
+main line nounB2 
+main-line adjectiveB2 
+rail nounB2 
+railroad crossing nounB2 
+service nounB2 
+terminal nounB2 
+through adjectiveB2 
+tunnel nounB2 
+whistle nounB2 
+
+TRANSPORT BY CAR OR LORRY
+air-conditioned adjectiveB2 
+air conditioning nounB2 
+ambulance nounB2 
+automobile nounB2 
+bicycle lane nounB2 
+bike lane nounB2 
+billboard nounB2 
+biofuel nounB2 
+body nounB2 
+brake nounB2 
+brake light nounB2 
+breakdown truck nounB2 
+bus lane nounB2 
+cab nounB2 
+caravan nounB2 
+cart nounB2 
+cone nounB2 
+crash nounB2 
+crash verbB2 
+crossing nounB2 
+crossroads nounB2 
+cycle lane nounB2 
+dealer nounB2 
+drink-driving nounB2 
+driveway nounB2 
+driving licence nounB2 
+driving school nounB2 
+drop verbB2 
+drunk driving nounB2 
+exit nounB2 
+fast lane nounB2 
+fire engine nounB2 
+fire truck nounB2 
+freeway nounB2 
+heavy adjectiveB2 
+helmet nounB2 
+highway nounB2 
+inside nounB2 
+jam nounB2 
+lane nounB2 
+legroom nounB2 
+license number nounB2 
+lock verbB2 
+make nounB2 
+mechanic nounB2 
+motor verbB2 
+motorcyclist nounB2 
+mountain bike nounB2 
+navigate verbB2 
+outside nounB2 
+outside lane nounB2 
+overtake verbB2 
+parking lot nounB2 
+pavement nounB2 
+racer nounB2 
+railroad crossing nounB2 
+rest stop nounB2 
+roundabout nounB2 
+rush hour nounB2 
+satnav nounB2 
+scooter nounB2 
+second-hand adjectiveB2 
+self-driving adjectiveB2 
+side road nounB2 
+side street nounB2 
+sidewalk nounB2 
+signpost nounB2 
+signpost verbB2 
+slow lane nounB2 
+speeding nounB2 
+stop light nounB2 
+tank nounB2 
+through verbB2 
+traffic cone nounB2 
+traffic jam nounB2 
+trucker nounB2 
+truck stop nounB2 
+tunnel nounB2 
+turn signal nounB2 
+wind verbB2 
+
+TRANSPORT BY WATER
+boarding card nounB2 
+boating nounB2 
+cabin nounB2 
+canal nounB2 
+canal boat nounB2 
+canoe nounB2 
+canoe verbB2 
+channel nounB2 
+crew nounB2 
+crossing nounB2 
+cruise nounB2 
+current nounB2 
+deck nounB2 
+dry land nounB2 
+engine room nounB2 
+float verbB2 
+harbour nounB2 
+houseboat nounB2 
+launch verbB2 
+life jacket nounB2 
+life vest nounB2 
+motorboat nounB2 
+navigate verbB2 
+navigation nounB2 
+navigator nounB2 
+navy nounB2 
+on board idiomB2
+on-board adjectiveB2 
+raft nounB2 
+rough adjectiveB2 
+row verbB2 
+rowboat nounB2 
+rower nounB2 
+rowing nounB2 
+rowing boat nounB2 
+sailboat nounB2 
+sailing boat nounB2 
+sailing ship nounB2 
+seasickness nounB2 
+terminal nounB2 
+unlo adverbB2 
+voyage nounB2 
+warship nounB2 
+yacht nounB2
+
+WORK AND BUSINESS
+BUSINESS
+accountant nounB2 
+administration nounB2 
+agency nounB2 
+analyst nounB2 
+approach verbB2 
+back verbB2 
+banker nounB2 
+bid nounB2 
+bid verbB2 
+billboard nounB2 
+board nounB2 
+branding nounB2 
+call centre nounB2 
+capital nounB2 
+CEO nounB2 
+chairman nounB2 
+chief executive officer nounB2 
+clerk nounB2 
+competing adjectiveB2 
+consultant nounB2 
+contract nounB2 
+corporate adjectiveB2 
+corporation nounB2 
+dealer nounB2 
+distribution nounB2 
+downtown adverbB2 
+draft nounB2 
+draft verbB2 
+entrepreneur nounB2 
+executive nounB2 
+executive adjectiveB2 
+fail verbB2 
+failure nounB2 
+finance nounB2 
+finance verbB2 
+financing nounB2 
+firm nounB2 
+forecast nounB2 
+forecast verbB2 
+full-page adjectiveB2 
+fund nounB2 
+fund verbB2 
+funding nounB2 
+globalization nounB2 
+headquarters nounB2 
+human resources nounB2 
+income nounB2 
+industrial adjectiveB2 
+insurance nounB2 
+labor nounB2
+labour nounB2 
+launch verbB2 
+launch nounB2 
+loss nounB2 
+managing director nounB2 
+manufacture verbB2 
+manufacture nounB2 
+manufacturer nounB2 
+manufacturing nounB2 
+marketer nounB2 
+market research nounB2 
+multinational adjectiveB2 
+multinational nounB2 
+negotiate verbB2 
+negotiation nounB2 
+operation nounB2 
+operator nounB2 
+output nounB2 
+paperwork nounB2 
+partnership nounB2 
+price verbB2 
+profit margin nounB2 
+project verbB2 
+proposal nounB2 
+reference nounB2 
+representative nounB2 
+retail nounB2 
+revenue nounB2 
+schedule verbB2 
+scheme nounB2 
+service provider nounB2 
+ship verbB2 
+slogan nounB2 
+sponsor verbB2 
+sponsor nounB2 
+sponsorship nounB2 
+strategy nounB2 
+workforce nounB2 
+workshop nounB2 
+
+JOBS
+accountant nounB2 
+acting adjectiveB2 
+analyst nounB2 
+apprentice nounB2 
+archaeologist nounB2 
+archeologist nounB2 
+babysit verbB2 
+banker nounB2 
+barman nounB2 
+bookseller nounB2 
+broadcaster nounB2 
+butcher nounB2 
+buyer nounB2 
+cab driver nounB2 
+cabin crew nounB2 
+carer nounB2 
+carpenter nounB2 
+cashier nounB2 
+CEO nounB2 
+chief nounB2 
+chief executive nounB2 
+clerk nounB2 
+clown nounB2 
+coal miner nounB2 
+comedian nounB2 
+composer nounB2 
+consultant nounB2 
+covering letter nounB2 
+cowboy nounB2 
+critic nounB2 
+dealer nounB2 
+developer nounB2 
+disc jockey nounB2 
+disk jockey nounB2 
+DJ nounB2 
+duty nounB2 
+economist nounB2 
+electrician nounB2 
+engine driver nounB2 
+entrepreneur nounB2 
+estate agent nounB2 
+executive nounB2 
+executive adjectiveB2 
+firefighter nounB2 
+fireman nounB2 
+fisherman nounB2 
+flying doctor nounB2 
+freelance adjectiveB2 
+full-time adjectiveB2 
+general secretary nounB2 
+greengrocer nounB2 
+grocer nounB2 
+house husband nounB2 
+illustrator nounB2 
+industrial adjectiveB2 
+interpreter nounB2 
+junior adjectiveB2 
+librarian nounB2 
+mail carrier nounB2 
+managing director nounB2 
+mechanic nounB2 
+miner nounB2 
+minister nounB2 
+newsagent nounB2 
+occupation nounB2 
+operator nounB2 
+part-time adjectiveB2 
+permanent adjectiveB2 
+pharmacist nounB2 
+photojournalist nounB2 
+placement nounB2 
+plumber nounB2 
+practice nounB2 
+practise verbB2 
+promotion nounB2 
+psychologist nounB2 
+representative nounB2 
+retirement nounB2 
+salesman nounB2 
+salesperson nounB2 
+saleswoman nounB2 
+security guard nounB2 
+self-employed adjectiveB2 
+senior adjectiveB2 
+shipbuilder nounB2 
+shopkeeper nounB2 
+skilled adjectiveB2 
+specialist nounB2 
+spokesman nounB2 
+steady adjectiveB2 
+surgeon nounB2 
+tailor nounB2 
+technician nounB2 
+temporary adjectiveB2 
+therapy nounB2 
+trainee nounB2 
+travel agent nounB2 
+unpaid adjectiveB2 
+vet nounB2 
+voluntary adjectiveB2 
+wage nounB2 
+well paid adjectiveB2 
+window washer nounB2 
+work placement nounB2
+
+MONEY
+accountant nounB2 
+accounting nounB2 
+aid nounB2 
+annual adjectiveB2 
+appeal nounB2 
+asset nounB2 
+ATM nounB2 
+auction nounB2 
+auction verbB2 
+back verbB2 
+bank verbB2 
+banker nounB2 
+bank statement nounB2 
+bargain nounB2 
+beg verbB2 
+beggar nounB2 
+benefit nounB2 
+bet verbB2 
+bet nounB2 
+betting nounB2 
+borrowing nounB2 
+budget nounB2 
+budget verbB2 
+capital nounB2 
+cash card nounB2 
+central bank nounB2 
+checkout nounB2 
+climb verbB2 
+collapse verbB2 
+collapse nounB2 
+coupon nounB2 
+crash nounB2 
+crash verbB2 
+credit verbB2 
+debt nounB2 
+decline nounB2 
+decrease verbB2 
+decrease nounB2 
+discount verbB2 
+donation nounB2 
+drop nounB2 
+due adjectiveB2 
+economical adjectiveB2 
+economics nounB2 
+economist nounB2 
+expense nounB2 
+fair trade nounB2 
+fair-trade adjectiveB2 
+fare nounB2 
+fee nounB2 
+finance nounB2 
+finance verbB2 
+financing nounB2 
+fortune nounB2 
+fund nounB2 
+fund verbB2 
+globalization nounB2 
+grant nounB2 
+greedy adjectiveB2 
+home loan nounB2 
+inflation nounB2 
+inherit verbB2 
+investment nounB2 
+lending nounB2 
+loan nounB2 
+loss nounB2 
+lottery nounB2 
+mortgage nounB2 
+mortgage verbB2 
+old-age pension nounB2 
+owe verbB2 
+p abbreviationB2 
+penalty nounB2 
+pension nounB2 
+price verbB2 
+recession nounB2 
+reduction nounB2 
+refund nounB2 
+refund verbB2 
+relief nounB2 
+reserve nounB2 
+revenue nounB2 
+saving nounB2 
+scholarship nounB2 
+share nounB2 
+short adjectiveB2 
+stable adjectiveB2 
+statement nounB2 
+steady adjectiveB2 
+steady adverbB2 
+stock market nounB2 
+sum nounB2 
+trading nounB2 
+transfer verbB2 
+unstable adjectiveB2 
+value verbB2 
+wage nounB2 
+wealth nounB2 
+wealthy adjectiveB2 
+welfare nounB2 
+will nounB2 
+withdraw verbB2
+
+WORKING LIFE
+agenda nounB2 
+brainstorm verbB2 
+brainstorming nounB2 
+chair nounB2 
+chair verbB2 
+challenging adjectiveB2 
+commission nounB2 
+committee nounB2 
+contract nounB2 
+copier nounB2 
+co-worker nounB2 
+demanding adjectiveB2 
+discipline nounB2 
+exhausting adjectiveB2 
+exploit verbB2 
+innovative adjectiveB2 
+intellectual adjectiveB2 
+job description nounB2 
+labor nounB2
+labour nounB2 
+leave nounB2 
+low-paid adjectiveB2 
+off-duty adjectiveB2 
+on/off duty idiomB2
+pension nounB2 
+photocopier nounB2 
+placement nounB2 
+position nounB2 
+post nounB2 
+recruit verbB2 
+reference nounB2 
+resign verbB2 
+rewarding adjectiveB2 
+satisfying adjectiveB2 
+schedule verbB2 
+strike verbB2 
+strike nounB2 
+tiring adjectiveB2 
+unfinished adjectiveB2 
+workforce nounB2 
+workplace nounB2 
+
+
+
+
+ 

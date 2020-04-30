@@ -15,3 +15,10 @@ CREATE TABLE IF NOT EXISTS audio_a1(
     name TEXT NOT NULL, 
     audio_id TEXT NOT NULL
     );
+
+
+ALTER SEQUENCE subthemes_id_seq RESTART;
+ALTER SEQUENCE words_id_seq RESTART;
+ALTER SEQUENCE themes_id_seq RESTART;
+ALTER SEQUENCE levels_id_seq RESTART;
+ALTER SEQUENCE word_types_id_seq RESTART;

@@ -2,9 +2,14 @@ import requests
 import urllib.parse
 import pprint
 from oxford import Word
-import sqlite3
+import psycopg2
 
-conn = sqlite3.connect('./../words.db')
+
+db_user = 'wordbankbot'
+db_password = 'AnotherOneIsBetterToStoreIn3eMemory'
+connection_string = f"dbname=word_bank_bot user={db_user} password={db_password}"
+
+conn = psycopg2.connect(connection_string)
 curr = conn.cursor()
 
 # words = [
@@ -21,9 +26,9 @@ curr = conn.cursor()
 #     # "snake",
 # ]
 
-words_table = "words_a2"
+table = "words"
 
-curr.execute(f"""SELECT word FROM {words_table} WHERE translation='';""")
+curr.execute("""SELECT word FROM words WHERE translation IS NULL OR translation='' LIMIT 1000;""")
 words = curr.fetchall()
 for word in words:
     uri_word = urllib.parse.quote(word[0].capitalize())
@@ -41,7 +46,7 @@ for word in words:
             best_match = match['match']
             best_tranlation = str(match['translation'])
     print(best_tranlation)
-    curr.execute(f"""UPDATE {words_table} SET translation='{best_tranlation}' WHERE word='{word[0]}'""")
+    curr.execute("""UPDATE words SET translation=%s WHERE word=%s AND translation IS NULL""", (best_tranlation, word[0],))
 conn.commit()
 
 conn.close()

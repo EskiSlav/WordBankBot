@@ -16,7 +16,7 @@ word_types_table = "word_types"
 words_table      = "words"
 audios_table     = "audios"
 levels_table     = "levels"
-word_list        = "../Words/wordsB1.txt"
+word_list        = "../Words/wordsA1.txt"
 
 def exit_script():
     print("Exiting script...")

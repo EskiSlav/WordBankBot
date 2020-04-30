@@ -17,7 +17,7 @@ bird nounA1
 chicken nounA1 
 egg nounA1 
 
-FISH AND SELLFISH
+FISH AND SHELLFISH
 egg nounA1 
 fish nounA1 
 swim verbA1
@@ -485,7 +485,7 @@ GARDENS
 garden nounA1 
 garden verbA1 
 grow verbA1 
-swimming pool nounA1.
+swimming pool nounA1
 
 HOUSE AND HOMES
 apartment nounA1 

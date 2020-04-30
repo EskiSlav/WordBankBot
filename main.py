@@ -4,6 +4,11 @@ import telebot
 import psycopg2
 import logging
 
+print("bot started!")
+
+def beautify_fetchall(lst):
+    for i, subtheme in enumerate(lst):
+        lst[i] = subtheme[0].lower().capitalize()
 
 def get_conn():
     conn = psycopg2.connect(connection_string)
@@ -42,6 +47,34 @@ def change_status_from_subsection_to_section(user_id):
     status = level + '_SECTION' 
     change_status(user_id, status)
 
+def split_buttons(buttons_list, rows=2):
+    buttons_placement = []
+    counter = -1
+    for i, button in enumerate(buttons_list):
+        if i % rows == 0:
+            counter+=1
+            buttons_placement.append([])
+        buttons_placement[counter].append(button)
+
+    if len(buttons_placement) > 1:
+        if len(buttons_placement[-2]) - len(buttons_placement[-1])  > 1:
+            last_row = buttons_placement[-1]
+            before_last_row = buttons_placement[-2]
+            full_array = last_row + before_last_row
+            sum_len = len(full_array)
+            less_half = int(sum_len/2)
+            bigger_half = sum_len - less_half
+            buttons_placement[-1] = []
+            buttons_placement[-2] = []
+
+            for i in range(bigger_half):
+                buttons_placement[-2].append(full_array[i])
+            
+            for i in range(bigger_half, sum_len):
+                buttons_placement[-1].append(full_array[i])
+
+    return buttons_placement
+
 def is_user_status(id, status):
     curr, conn = get_conn()
     curr.execute("SELECT status FROM users WHERE user_id=%s", (id,))
@@ -79,34 +112,43 @@ def add_audio_to_database(user_id, message_caption, audio_id):
     level = caption[0].upper()
     caption = ' '.join(caption[1:]).upper()
     curr, conn = get_conn()
-    curr.execute("SELECT audio_id FROM subthemes t LEFT JOIN levels l ON t.level_id=l.id WHERE t.theme = %s AND l.level=%s;", (caption, level,))
+    curr.execute("""
+        SELECT audio_id FROM subthemes st 
+        LEFT JOIN levels l ON st.level_id=l.id 
+        WHERE st.subtheme = %s AND l.level=%s;""", (caption, level,))
     res = curr.fetchone()[0]
-    print(res is not None)
     if res is None:
-        curr.execute("INSERT INTO audios(caption, audio_id) VALUES(%s, %s);", (caption, audio_id,))
-        curr.execute("UPDATE subthemes SET audio_id=(SELECT id FROM audios WHERE audio_id=%s) WHERE theme=%s;", (audio_id, caption,))
+        curr.execute("""
+            INSERT INTO audios(caption, audio_id, level_id) 
+            VALUES(%s, %s, (SELECT id FROM levels WHERE level=%s));""", (caption, audio_id, level,))
+        curr.execute("UPDATE subthemes SET audio_id=(SELECT id FROM audios WHERE audio_id=%s) WHERE subtheme=%s;", (audio_id, caption,))
         conn.commit()
-        bot.send_message(user_id, "The audio was added successfully")
+        bot.send_message(user_id, "The audio was added successfully", reply_markup=generate_level_keyboard(user_id))
         log.info('New audio was added: User:{}, {} {}'.format(user_id, audio_id, message_caption))
     else:
         log.info('This audio was added earlier!: User:{}, {} {}'.format(user_id, audio_id, message_caption))
-        bot.send_message(user_id, "This audio was added earlier!")
+        bot.send_message(user_id, "This audio was added earlier!", reply_markup=generate_level_keyboard(user_id))
     conn.close()
 
 def change_audio_in_database(user_id, message_caption, audio_id):
     caption = message_caption.split()
-    level = caption[0].lower()
+    level = caption[0].upper()
     caption = ' '.join(caption[1:]).upper()
     curr, conn = get_conn()
-    curr.execute("SELECT * FROM audios WHERE caption=%s AND level=%s;", (caption, level,))
+    curr.execute("""
+        SELECT a.id FROM audios a
+        LEFT JOIN levels l ON l.id=a.level_id
+         WHERE a.caption=%s AND l.level=%s;""", (caption, level,))
     res = curr.fetchall()
     if not len(res) == 0:
-        curr.execute("UPDATE audios SET audio_id=%s WHERE caption=%s ;", (audio_id, caption,))
-        bot.send_message(user_id, "The audio was updated successfully")
+        curr.execute("""
+            UPDATE audios SET audio_id=%s 
+            WHERE caption=%s AND level_id=(SELECT id FROM levels WHERE level=%s);""", (audio_id, caption, level,))
         conn.commit()
-        log.info('This audio was added earlier!: User:{}, {} {}'.format(user_id, audio_id, message_caption))
+        bot.send_message(user_id, "The audio was updated successfully", reply_markup=generate_level_keyboard(user_id))
+        # log.info('This audio was added earlier!: User:{}, {} {}'.format(user_id, audio_id, message_caption))
     else:
-        bot.send_message(user_id, "There is no such audio")
+        bot.send_message(user_id, "There is no such audio", reply_markup=generate_level_keyboard(user_id))
     
     conn.close()
 
@@ -129,28 +171,43 @@ def send_audio_name(user_id, caption):
     if audio_id is not None:
         bot.send_audio(user_id, audio_id)
     else:
-        bot.send_message(user_id, 'Sorry we deal with some troubles with sending audios, soon all will be ok =)')
-        log.info('Requested audio does not exist')
+        # bot.send_message(user_id, 'Sorry we deal with some troubles with sending audios, soon all will be ok =)')
+        log.info('Requested audio does not exist:  subtheme: ' + caption)
 
 def get_words(user_id, caption):
     caption = caption.upper()
     curr, conn = get_conn()
     curr.execute("SELECT status FROM users WHERE user_id=%s",(user_id,))
     level = curr.fetchone()[0]
-    print(level, caption)
-    curr.execute("SELECT w.word FROM words w LEFT JOIN subthemes s ON s.id=w.subtheme_id LEFT JOIN levels l ON s.level_id=l.id WHERE s.subtheme=%s AND l.level=%s", (caption,level,))
+    curr.execute("""
+        SELECT t.theme, st.subtheme FROM themes t 
+        LEFT JOIN subthemes st ON st.theme_id=t.id
+        LEFT JOIN levels l ON l.id=st.level_id 
+        WHERE st.subtheme=%s AND l.level=%s """, (caption,level,))
+    contents = curr.fetchone()
+    curr.execute("""
+        SELECT w.word FROM words w 
+        LEFT JOIN subthemes s ON s.id=w.subtheme_id 
+        LEFT JOIN levels l ON s.level_id=l.id
+        WHERE s.subtheme=%s AND l.level=%s""", (caption,level,))
     words = curr.fetchall()
+    
+    beautify_fetchall(words)
+    words = list(set(words))
+    words.sort()
     conn.close()
-    return words
+    return contents, words
 
 def send_words(user_id, caption):
-    words = get_words(user_id, caption)
+    contents, words = get_words(user_id, caption)
+    
     if not len(words) == 0:
-        words_message = ''
+        words_message = '<b>' + contents[0] + '\n' + contents[1].lower().capitalize() + '</b>' + '\n\n'
         for word in words:
-            words_message += word[0].capitalize() + '\n'
-        bot.send_message(user_id, words_message)
+            words_message += word + '\n'
+        bot.send_message(user_id, words_message, parse_mode='HTML')
     else:
+        bot.send_message(user_id, 'Такой темы не существует 😔 \nВыбери другую:')
         log.info('Requested theme does not exist')
 
 def selecting_subthemes(user_id):
@@ -165,10 +222,6 @@ def selecting_themes(user_id):
             return True
     return False
 
-def get_subthemes(user_id, theme):
-    curr, conn = get_conn()
-    conn.close()
-
 def generate_subthemes_keyboard(user_id, theme):
     keyboard = telebot.types.ReplyKeyboardMarkup(True, True)
     theme = theme.upper()
@@ -181,8 +234,17 @@ def generate_subthemes_keyboard(user_id, theme):
          WHERE t.theme =%s AND l.level=%s """, (theme, level,))
     subthemes = curr.fetchall()
     conn.close()
-    for subtheme in subthemes:
-        keyboard.add(subtheme[0].lower().capitalize())
+    beautify_fetchall(subthemes)
+    subthemes.sort()
+    rows = split_buttons(subthemes, 2)
+    for row in rows:
+        if len(row) == 3:
+            keyboard.add(row[0], row[1], row[2])
+        if len(row) == 2:
+            keyboard.add(row[0], row[1])
+        if len(row) == 1:
+            keyboard.add(row[0])
+
     keyboard.add('Back')
     return keyboard
 
@@ -193,8 +255,15 @@ def generate_themes_keyboard(user_id):
     curr.execute("""SELECT theme FROM themes t LEFT JOIN levels l ON t.level_id=l.id WHERE l.level=%s""", (level,))
     themes = curr.fetchall()
     conn.close()
-    for theme in themes:
-        keyboard.add(theme[0].lower().capitalize())
+    rows = split_buttons(themes, 2)
+    for row in rows:
+        if len(row) == 3:
+            keyboard.add(row[0][0],row[1][0],row[2][0])
+        if len(row) == 2:
+            keyboard.add(row[0][0],row[1][0])
+        if len(row) == 1:
+            keyboard.add(row[0][0])
+
     keyboard.add('Back')
     return keyboard
 
@@ -216,6 +285,8 @@ def is_theme_exist(user_id, theme):
 
 
 
+
+
 #---------
 bot = telebot.TeleBot(TOKEN)
 logging.basicConfig(filename="log.txt", level=logging.INFO)
@@ -224,41 +295,53 @@ log = logging.getLogger('User Creator')
 
 @bot.message_handler(commands=['start'])
 def start_message(message):
-    bot.send_message(message.chat.id, 'Привет, мое предназначение помочь тебе выучить иностраный язык. Твоему вниманию предоставлены разные уровни языка и разные темы. Как будет проходить твое обучение подован, я тебе пришлю запись со словами и ихними переводами, а ты просто включаешь их и слушаешь. Вроде бы ничего сложного;)', reply_markup=keyboardstart)
+    bot.send_message(message.chat.id, 'Привет, мое предназначение помочь тебе выучить иностраный язык. Твоему вниманию предоставлены разные уровни языка и разные темы. Как будет проходить твое обучение подован, я тебе пришлю запись со словами и ихними переводами, а ты просто включаешь их и слушаешь. Вроде бы ничего сложного;)', reply_markup=generate_level_keyboard(message.chat.id))
     add_user_to_database(message.chat.id, message.chat.username)
     change_status(message.chat.id, MAIN_MENU)
 
+# --- AUDIO SECTION ---------------------
+
 @bot.message_handler(commands=['addaudio'], func=lambda message: message.chat.id in administrators_id)
 def add_audio(message):
-    bot.send_message(message.chat.id, "Send an audio file you want to add to the database")
+    bot.send_message(message.chat.id, "Отправь аудио, которое надо добавить в базу данных.\n\n Формат:\n Аудио файл + Надпись: A1 Animals [level subtheme]")
     change_status(message.chat.id, ADDING_AUDIO)
 
 @bot.message_handler(commands=['changeaudio'], func=lambda message: message.chat.id in administrators_id)
 def set_change_audio_status(message):
-    bot.send_message(message.chat.id, "Send audio with caption")
+    bot.send_message(message.chat.id, "Отправь аудио, которое надо изменить в базе данных.\n\n Формат:\n Аудио файл + Надпись: A1 Animals [level subtheme]")
     change_status(message.chat.id, CHANGING_AUDIO)
     
 
 @bot.message_handler(content_types=['audio'], func=lambda message: is_user_status(message.chat.id, ADDING_AUDIO))
-def ff(message):
+def add_audio_handler(message):
+    """
+    This code work when admin is adding a new audio file to the subtheme
+    """
     if(message.caption is not None and len(message.caption.split()) > 1):
         add_audio_to_database(message.chat.id, message.caption, message.audio.file_id)
-        change_status(message.chat.id, 'None')
+        change_status(message.chat.id, MAIN_MENU)
     else:
-        bot.send_message(message.chat.id, "You must specify a name")
+        bot.send_message(message.chat.id, "Нужно указать название аудио: \n\n Формат:\n Аудио файл + Надпись: A1 Animals [level subtheme]")
     
 
 @bot.message_handler(content_types=['audio'], func=lambda message: is_user_status(message.chat.id, CHANGING_AUDIO))
 def change_audio(message):
+    """
+    This section works when admin is changing audio to the subtheme
+    """
     if message.caption is not None:
         change_audio_in_database(message.chat.id, message.caption, message.audio.file_id)
-        change_status(message.chat.id, 'None')
+        change_status(message.chat.id, MAIN_MENU)
     else:
-        bot.send_message(message.chat.id, "You must specify a name")
+        bot.send_message(message.chat.id, "Нужно указать название аудио: \n\n Формат:\n Аудио файл + Надпись: A1 Animals [level subtheme]")
 
-# SEND SUBTHEMES
+# ------------------------------------
+
 @bot.message_handler(content_types=['text'], func=lambda message: selecting_themes(message.chat.id))
-def send_subsection_keyboard(message):
+def section_handler(message):
+    """
+    Section button handler that sends subsections
+    """
     if(is_theme_exist(message.chat.id, message.text)):
         change_status_from_section_to_subsection(message.chat.id)
         bot.send_message(message.chat.id, "Choose subsection:", reply_markup=generate_subthemes_keyboard(message.chat.id, message.text))
@@ -272,6 +355,9 @@ def send_subsection_keyboard(message):
 
 @bot.message_handler(content_types=['text'], func=lambda message: selecting_subthemes(message.chat.id))
 def subtheme_handler(message):
+    """
+    Subsection button handler that sends words and audios to user
+    """
     if message.text.lower() == 'back':
         change_status_from_subsection_to_section(message.chat.id)
         bot.send_message(message.chat.id, "Select theme:", reply_markup=generate_themes_keyboard(message.chat.id))
@@ -282,94 +368,29 @@ def subtheme_handler(message):
 
 @bot.message_handler(content_types=['text'], func=lambda message: is_user_status(message.chat.id, MAIN_MENU))
 def main_menu_handler(message):
+    """
+    This section handles keybord with Levels
+    """
     msg_text = message.text.lower()
     if msg_text == 'пробный период':
-        bot.send_message(message.chat.id, 'Выбери свой уровень:', reply_markup=keyboardlvlprob1)
-    elif msg_text == 'a1':
-        change_status(message.chat.id, SELECTING_SECTION_A1)
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=generate_themes_keyboard(message.chat.id))
-    elif msg_text == 'a2':
-        change_status(message.chat.id, SELECTING_SECTION_A2)
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=generate_themes_keyboard(message.chat.id))
-    elif msg_text == 'b1':
-        change_status(message.chat.id, SELECTING_SECTION_B1)
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=generate_themes_keyboard(message.chat.id))
-    
-
-@bot.message_handler(content_types=['text'])
-def send_text(message):
-    msg_text = message.text.lower()
-    
-    if message.text.lower() == 'animals':
-        bot.send_message(message.chat.id, 'Выбери подтему:', reply_markup=keyboardanimals1)
-    elif message.text.lower() == 'apperance':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardapperance1)    
-    elif message.text.lower() == 'communication':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardcommunication1)
-    elif message.text.lower() == 'culture':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardculture1)
-    elif message.text.lower() == 'food and drink':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardfoodanddrink1)    
-    elif message.text.lower() == 'functions':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardfunctions1)
-    elif message.text.lower() == 'health':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardhealth1)    
-    elif message.text.lower() == 'homes and buildings':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardhomesandbuildings1)
-    elif message.text.lower() == 'leisure':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardleisure1)    
-    elif message.text.lower() == 'notions':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardnotions1)    
-    elif message.text.lower() == 'people':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardpeople1)
-    elif message.text.lower() == 'politics and society':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardpolitics1)
-    elif message.text.lower() == 'science and technology':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardscience1)
-    elif message.text.lower() == 'sport':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardsport1)
-    elif message.text.lower() == 'the natural world':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardnatural1)
-    elif message.text.lower() == 'time and space':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardtimeandspace1)
-    elif message.text.lower() == 'travel':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardtravel1)
-    elif message.text.lower() == 'work and business':
-        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=keyboardworkandbusiness1)
-
-    elif msg_text == 'a2' or msg_text == 'а2': 
-        bot.send_message(message.chat.id, "This section is not working yet. Please choose something else", reply_markup=keyboardlvlprob1)
-        change_status(message.chat.id, SELECTING_SECTION_A2)
-   
-    #koniec probnyj period
-
-    elif message.text.lower() == 'b1':
-        bot.send_message(message.from_user.id, 'Как это работает. Ты слушаешь английские слова, запоминаешь перевод и на повторном прослушивании пытаешься их перевести. Все очень просто, попробуй!', reply_markup=keyboard3)
-    elif message.text.lower() == 'b2':
-        send_audio_name(message.chat.id, 'rick-astley')
-    elif message.text.lower() == 'c1':
-        send_audio_name(message.chat.id, 'rick-astley')
-    elif message.text.lower() == 'back':
-        bot.send_message(message.chat.id, 'Выбери свой уровень:', reply_markup=keyboardstart)
-    elif message.text.lower() == 'meat':
-        bot.send_message(message.chat.id, 'MEAT:\nbacon - бекон\nbeef - говядина\nchicken - курица\nham - ветчина\nmeat - мясо\npork - свинина\nsausage - сосиски\nturkey - индейка')     
-        bot.send_chat_action(message.from_user.id, 'upload_audio')
-        send_audio_name(message.chat.id, 'meat')
-    elif message.text.lower() == 'fish':
-        send_audio_name(message.chat.id, 'fish')
-    elif message.text.lower() == 'dairy products':
-        send_audio_name(message.chat.id, 'dairy-products')
-    elif message.text.lower() == 'cereal products':
-        send_audio_name(message.chat.id, 'cereal-products')
-    elif message.text.lower() == 'sweets':
-        send_audio_name(message.chat.id, 'sweets')
-    elif message.text.lower() == 'fruits':
-        send_audio_name(message.chat.id, 'fruits')
-    elif message.text.lower() == 'назад':
-        bot.send_message(message.chat.id, 'Главное меню:', reply_markup=keyboardstart)
+        bot.send_message(message.chat.id, 'Выбери свой уровень:', reply_markup=generate_level_keyboard(message.chat.id))
+    elif msg_text == 'купить подписку':
+        bot.send_message(message.chat.id, 'Выбери свой уровень', reply_markup=generate_level_keyboard(message.chat.id))
     else:
-        bot.send_message(message.chat.id, 'Error!', reply_markup=keyboardstart)
+        if msg_text == 'a1':
+            change_status(message.chat.id, SELECTING_SECTION_A1)
+        elif msg_text == 'a2':
+            change_status(message.chat.id, SELECTING_SECTION_A2)
+        elif msg_text == 'b1':
+            change_status(message.chat.id, SELECTING_SECTION_B1)
+        elif msg_text == 'b2':
+            change_status(message.chat.id, SELECTING_SECTION_B2)
+        elif msg_text == 'c1':
+            change_status(message.chat.id, SELECTING_SECTION_C1)
+        else:
+            bot.send_message(message.chat.id, 'Выбери уровень', reply_markup=generate_level_keyboard(message.chat.id))
+            return
+        bot.send_message(message.chat.id, 'Выбери тему:', reply_markup=generate_themes_keyboard(message.chat.id))
 
 
-bot.polling(none_stop=True)
-
+bot.polling(none_stop=True, timeout=1)
